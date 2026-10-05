@@ -1,0 +1,6364 @@
+﻿1
+00:00:01,563 --> 00:00:06,250
+<font color="#38b0de">Top Gear 第九季第一集
+TransGear 字幕组
+中国模拟赛车联盟
+www.srfc.com.cn</font>
+<font color="#38b0de">Top Gear S09E01
+TransGear subtitle team
+The Sim-Race Federation of China
+www.srfc.com.cn</font>
+
+2
+00:00:06,250 --> 00:00:10,988
+<font color="#38b0de">制作人员
+听译：catchup, bitcars, RS4
+校对：catchup, bitcars, RS4, Z102
+时间轴：bitcars, catchup</font>
+<font color="#38b0de">crew
+transcription: catchup, bitcars, RS4
+check: catchup, bitcars, RS4, Z102
+timeline: bitcars, catchup</font>
+
+3
+00:00:11,020 --> 00:00:15,550
+今晚，捷豹机械增压版 XKR 对决它的孪生姐妹。
+Tonight, Jaguar supercharged XKR versus its twin sister.
+
+4
+00:00:15,920 --> 00:00:18,220
+修路为什么总是慢得要命？
+Why do roadworks take so long?
+
+5
+00:00:18,220 --> 00:00:20,420
+加把劲！卖点力气啊，你个大老爷们！
+Come on! Put it back into it, you, man.
+
+6
+00:00:21,100 --> 00:00:25,420
+还有 Jamie Oliver 在我们的廉价车里炮制出美味的一圈。
+And Jamie Oliver prepares a delicious lap in our reasonably-priced car.
+
+7
+00:00:34,420 --> 00:00:38,070
+哈喽，大家好，没错！
+Hello, hello and yes!
+
+8
+00:00:39,300 --> 00:00:41,900
+我们今晚还会带大家看……
+We'll also be showing you...
+
+9
+00:00:41,900 --> 00:00:47,970
+我们还会带大家看一个小矮子遭遇的一场超大车祸。
+We'll also be showing you a very small man having a very big car accident.
+
+10
+00:00:48,600 --> 00:00:49,320
+但是呢，
+But,
+
+11
+00:00:50,500 --> 00:00:54,350
+哪怕是以我们对电视制作浅薄的理解也知道，
+even we with our limited knowledge of television realize
+
+12
+00:00:54,350 --> 00:00:56,250
+这种大料可不能现在就放，
+that you don't do that now,
+
+13
+00:00:56,250 --> 00:00:58,150
+必须得留在节目后面，
+you have to do that later on in the show,
+
+14
+00:00:58,150 --> 00:00:59,900
+不然大家看完这节，
+otherwise everyone would just watch it now
+
+15
+00:00:59,900 --> 00:01:02,000
+立马就转台去看《老大哥》的总决赛了。
+and turn over to watch the final of Big Brother.
+
+16
+00:01:02,000 --> 00:01:04,000
+所以我们现在这么做，
+So what we're actually doing about that is
+
+17
+00:01:04,000 --> 00:01:05,970
+其实纯粹是在拯救你们自己。
+saving you from yourselves, really.
+
+18
+00:01:05,970 --> 00:01:07,270
+没错，这就算解决了一个难题。
+Yeah, we are. That's one problem solved.
+
+19
+00:01:07,270 --> 00:01:08,500
+但当然了，我们还有一个新问题，
+But we do have another one of course,
+
+20
+00:01:08,500 --> 00:01:11,000
+因为在我们停播的这段日子里，
+because all the time that we've been off air,
+
+21
+00:01:11,000 --> 00:01:12,700
+老有人跑来问我和杰里米，
+people have been coming up to me and Jeremy,
+
+22
+00:01:12,700 --> 00:01:13,920
+他们总在问：
+and they've been saying
+
+23
+00:01:13,920 --> 00:01:16,300
+《Top Gear》还能回到以前那样吗？
+will Top Gear go back to the way it was?
+
+24
+00:01:16,300 --> 00:01:19,950
+还会是三个普通大老爷们瞎胡闹、打嘴仗吗？
+Is it still just gonna be three normal blokes cocking about and arguing?
+
+25
+00:01:19,950 --> 00:01:21,650
+说实话，这还真是个大难题，
+I mean it's actually a problem really,
+
+26
+00:01:21,650 --> 00:01:23,100
+因为很显然，我们三个老爷们当中，
+because obviously one of us blokes
+
+27
+00:01:23,100 --> 00:01:25,000
+有一位现在已经升级成“戴安娜王妃”了。
+has now become Princess Diana.
+
+28
+00:01:29,270 --> 00:01:30,500
+确实棘手。
+It's tricky.
+
+29
+00:01:30,820 --> 00:01:32,000
+不，他现在真成那待遇了。
+No, he really has.
+
+30
+00:01:32,000 --> 00:01:36,400
+不过呢，“戴安娜王妃”本人之前明确交代过，
+However, Princess Diana himself has said quite explicitly
+
+31
+00:01:36,400 --> 00:01:38,370
+说他只想回到一个
+that he just wants to come back onto a show
+
+32
+00:01:38,370 --> 00:01:40,420
+跟去年夏天一模一样的节目里来。
+that is the way it was back in the summer.
+
+33
+00:01:40,420 --> 00:01:42,720
+一点没错，他说求求你们，千万别搞任何变动。
+Exactly. He said please don't make any changes, please.
+
+34
+00:01:42,720 --> 00:01:44,620
+对，他原话明明白白地说了：
+Yeah, he actually said explicitly
+
+35
+00:01:44,620 --> 00:01:47,150
+“拜托看在老天的份上，千万别搞什么大阵仗。”
+"for pete's sake, don't make a big fuss."
+
+36
+00:01:47,150 --> 00:01:49,650
+那是当然。所以现在我无比荣幸——
+Absolutely. So it gives me really great pleasure
+
+37
+00:01:49,650 --> 00:01:51,850
+因为曾经有一刻，我以为自己再也没机会说出这句话了——
+'cause I didn't think I'd ever be saying this at one point.
+
+38
+00:01:51,850 --> 00:01:53,570
+女士们先生们，让我们热烈欢迎——
+Ladies and gentlemen, would you please welcome
+
+39
+00:01:53,570 --> 00:01:55,550
+理查德·哈蒙德！
+Richard Hammond!
+
+40
+00:02:05,170 --> 00:02:08,120
+呃，好吧，这阵仗可真够让人尴尬的。
+Oh, well, this is a pretty awkward.
+
+41
+00:02:09,450 --> 00:02:10,670
+谢谢，我都说了
+Thank you, I said
+
+42
+00:02:10,670 --> 00:02:12,020
+低调点，别搞大……
+no fuss, no fu...
+
+43
+00:02:12,020 --> 00:02:14,870
+噢，不好意思姑娘们，抱歉抱歉，
+Oh, sorry gals, sorry, sorry,
+
+44
+00:02:14,870 --> 00:02:19,970
+借过姑娘们，借过
+sorry gals, sorry
+
+45
+00:02:19,970 --> 00:02:21,870
+我都说了别大张旗鼓的。
+I said no fuss.
+
+46
+00:02:21,870 --> 00:02:23,770
+老兄！
+Mate!
+
+47
+00:02:23,770 --> 00:02:25,970
+哈蒙德！
+Hammond!
+
+48
+00:02:25,970 --> 00:02:28,250
+- 哎呀老兄！
+- 盼你回来真是太棒了！
+- Oh man!
+- I'll be great to have you back!
+
+49
+00:02:28,250 --> 00:02:29,850
+詹姆斯·梅！
+James May!
+
+50
+00:02:33,370 --> 00:02:38,050
+噢，太尴尬了，真让人无地自容。
+Oh, that's embarrassing, really is embarrassing.
+
+51
+00:02:38,050 --> 00:02:41,100
+搞那个呃……那个舷梯进场，
+That's em, that whole stairs thing,
+
+52
+00:02:41,100 --> 00:02:44,570
+绝对是我这辈子干过最丢人的事。
+That was the most embarrassing thing I've ever had to do.
+
+53
+00:02:44,570 --> 00:02:46,120
+这话你可别对刚在卢顿机场
+Well I wouldn't say that to any of the people
+
+54
+00:02:46,120 --> 00:02:48,850
+不得不从波音737上跳下来的乘客说。
+who just had to jump off a Boeing 737 at Luton
+
+55
+00:02:48,850 --> 00:02:52,020
+我们本来打算搞个像样点的舷梯，你知道那种大号的吧？
+We were gonna get some like / ones, do you know the big ones?
+
+56
+00:02:52,020 --> 00:02:54,120
+但你知道搭一个得花多少钱吗？
+Do you know how much they were to gonna be to build?
+
+57
+00:02:54,120 --> 00:02:55,300
+三百镑。
+300 quid.
+
+58
+00:02:55,300 --> 00:02:56,270
+噢，那倒也是。
+Oh, fair enough.
+
+59
+00:02:56,270 --> 00:02:58,270
+我的意思是，我们确实在乎你，行了吧？你能回来我们高兴极了。
+I mean we like it, OK? We are glad you're back.
+
+60
+00:02:58,270 --> 00:03:00,220
+但花三百镑搭个登机门？
+But 300 quid to build a gate?
+
+61
+00:03:00,220 --> 00:03:01,400
+不，是飞机舷梯。
+So no, the aeroplane stair.
+
+62
+00:03:01,400 --> 00:03:02,470
+我宁可你们别费这心思，多谢了啊。
+I wish you hadn't bothered, thank you.
+
+63
+00:03:02,470 --> 00:03:04,600
+行了听着，眼下大家最关心的头号大问题，
+Anyway, listen. This is the big question, I guess,
+
+64
+00:03:04,600 --> 00:03:06,120
+也是每个人都想知道的。
+everybody wants to know.
+
+65
+00:03:06,120 --> 00:03:07,550
+准备好了吗？
+Here ready?
+
+66
+00:03:07,550 --> 00:03:09,500
+你现在成弱智了吗？
+Are you now a mental?
+
+67
+00:03:09,500 --> 00:03:10,570
+没有。
+No.
+
+68
+00:03:11,770 --> 00:03:12,770
+我没有。
+I'm not.
+
+69
+00:03:12,770 --> 00:03:14,050
+我已经痊愈了。
+I'm fixed.
+
+70
+00:03:14,050 --> 00:03:16,570
+彻底治好了，完全正常，活蹦乱跳。多谢关心。
+I'm completely fixed and normal and healed. Thank you.
+
+71
+00:03:16,570 --> 00:03:17,520
+你拿那玩意儿干嘛？
+What are you doing?
+
+72
+00:03:17,520 --> 00:03:20,400
+呃，万一你待会儿开始流口水，
+给你备张纸巾擦擦。
+Well you know it's a,
+it's a tissue for if you start dribbling.
+
+73
+00:03:22,250 --> 00:03:24,200
+这四个月来我成天遇到这种事。
+That's all I've had for four months.
+
+74
+00:03:24,200 --> 00:03:25,200
+什么？成天遇到纸巾？
+What? Tissues?
+
+75
+00:03:25,200 --> 00:03:27,720
+不是，是身边总有人围着盯着我看，
+No, people hanging around just watching,
+
+76
+00:03:27,720 --> 00:03:30,270
+就眼巴巴等我眼珠子朝两边斜视、彻底发疯。
+waiting for my eyes to point in different directions and me to go bonkers.
+
+77
+00:03:30,270 --> 00:03:31,520
+我已经好了！我很正常！
+I'm fixed. I'm normal.
+
+78
+00:03:31,520 --> 00:03:34,400
+那你还是出事前的那个你吗？
+Are you the same person that you were before?
+
+79
+00:03:34,400 --> 00:03:36,120
+是啊，我是说医生之前确实担心过，
+Yeah, I mean the doctors were worried
+
+80
+00:03:36,120 --> 00:03:38,570
+毕竟伤到了大脑，怕有什么性情大变之类的。
+because it's brain damage, about, you know, personality change or whatever
+
+81
+00:03:38,570 --> 00:03:42,670
+不过，说真的，现在的我和撞车前的我唯一的区别，
+But, no, the only difference really between me now and me before the crash,
+
+82
+00:03:42,670 --> 00:03:45,100
+就是我现在爱吃芹菜了，以前根本不吃。
+is I like celery now and I didn't.
+
+83
+00:03:46,350 --> 00:03:48,450
+所以你还是那么爱嚷嚷，还是那么好斗？
+So you're still shouty, you're still fighty?
+
+84
+00:03:48,450 --> 00:03:49,070
+没错。
+Yes.
+
+85
+00:03:49,070 --> 00:03:50,100
+那要是我带你去酒吧，
+And if I take you to the pub
+
+86
+00:03:50,100 --> 00:03:52,570
+过了十五分钟你是不是依然想狠狠揍我一拳？
+are you still gonna want to punch me in the face after 15 minutes?
+
+87
+00:03:52,570 --> 00:03:53,950
+想，不过讲真，
+Yes, though that's to be honest,
+
+88
+00:03:53,950 --> 00:03:55,820
+这主要是你太招人烦，倒不是我的问题。
+more your personality than mine.
+
+89
+00:03:55,820 --> 00:03:58,620
+- 你瞧，我通常呆了十五分钟也想狠狠揍他一顿
+- 是啊，这完全合情合理。
+- You see, I always want to punch him in the face after 15 minutes
+- Yeah, that's perfectly normal.
+
+90
+00:03:58,621 --> 00:03:59,620
+……有时甚至用不了十五分钟
+...sometimes less
+
+91
+00:03:59,620 --> 00:04:02,370
+行了，听着，我认为最重要的
+OK, look, the most important thing I think
+
+92
+00:04:02,370 --> 00:04:06,350
+绝对是确保这种事绝不再发生——我是说撞车。
+really is to make sure this never happens again, the crash.
+
+93
+00:04:06,350 --> 00:04:08,950
+因为你看，你现在的状态就像《怪物史莱克2》里那只穿靴子的猫，
+'cause I mean that you're like the cat from "Shrek II" here.
+
+94
+00:04:08,950 --> 00:04:11,570
+九条命里当真已经折腾掉八条了。
+You have used up 8 of your 9 lives really.
+
+95
+00:04:11,570 --> 00:04:13,420
+所以我决定，今后
+So I've decided that in future,
+
+96
+00:04:13,420 --> 00:04:16,900
+凡是那些死快死快的车，什么兰博、阿斯顿、法拉利，
+all the very fast cars, the Lambos, the Astons, the Ferraris,
+
+97
+00:04:16,900 --> 00:04:19,100
+都由我来照顾，我去……
+I'll look after them, I'll...
+
+98
+00:04:19,100 --> 00:04:19,870
+你去开？
+You'll drive them?
+
+99
+00:04:19,870 --> 00:04:20,570
+对，由我来开。
+Yeah, I'll drive them.
+
+100
+00:04:20,570 --> 00:04:22,000
+看来你的德行也一点没变。
+No personality change for you either.
+
+101
+00:04:22,000 --> 00:04:23,050
+那就一切照旧。
+Then it's business as usual.
+
+102
+00:04:23,050 --> 00:04:26,450
+那是自然，我依然像从前一样，是个善良体贴的大好人。
+Absolutely, I'm still the same kind thoughtful soul that I always was.
+
+103
+00:04:26,450 --> 00:04:27,570
+真是感人肺腑。
+That's quite moving.
+
+104
+00:04:27,570 --> 00:04:29,050
+- 行，太精彩了。
+- 谢谢。
+- OK, brilliant.
+- Thank you.
+
+105
+00:04:29,050 --> 00:04:31,270
+多谢大家，同时也要谢谢你们
+Thank you for that and thank you as well for
+
+106
+00:04:31,270 --> 00:04:33,370
+搞了那么尴尬的走楼梯出场仪式，真是棒极了。
+the embarrassing stairs thing, that's great.
+
+107
+00:04:33,370 --> 00:04:35,250
+如果不介意的话，我还想做最后一番感谢，
+There is one more thank you please if you don't mind,
+
+108
+00:04:35,250 --> 00:04:36,470
+不同之处在于，
+difference here is perhaps,
+
+109
+00:04:36,470 --> 00:04:37,970
+这次我是认真的。
+I mean this one.
+
+110
+00:04:37,970 --> 00:04:41,200
+我想向所有的护士，
+I'd like to say thank you to all of the nurses,
+
+111
+00:04:41,200 --> 00:04:43,470
+以及利兹和布里斯托尔的医生与全体医护人员致谢，
+and the doctors and all the staff in Leeds and in Bristol
+
+112
+00:04:43,470 --> 00:04:45,250
+正是在那里，他们把我重新拼凑了回去；
+where I was when I was being stuck back together,
+
+113
+00:04:45,250 --> 00:04:48,320
+还要感谢约克郡空中救护队的人员，是他们及时把我送了过去；
+and the people, Yorkshire air ambulance, who got me there in time,
+
+114
+00:04:48,320 --> 00:04:50,570
+尤其是，尤其是此时此刻，
+and particularly, and particularly right now,
+
+115
+00:04:50,570 --> 00:04:52,170
+我要感谢每一位写信寄卡片来的人。
+to everybody who wrote in.
+
+116
+00:04:52,170 --> 00:04:54,250
+也许在座的就有人写过，还有电视机前的各位，
+Some of the people here maybe, and you perhaps
+
+117
+00:04:54,250 --> 00:04:55,950
+写信只是为了给我送上祝福。
+that wrote in just to wish me the best.
+
+118
+00:04:55,950 --> 00:04:58,400
+这真的对我意义非凡，帮了我大忙，真心地谢谢你们。
+It really meant a lot and helped and thank you for that.
+
+119
+00:05:00,570 --> 00:05:01,750
+嘿，讲得好！
+Hey, bravo!
+
+120
+00:05:01,750 --> 00:05:02,950
+那楼梯其实挺好看的
+The stairs are nice
+
+121
+00:05:02,950 --> 00:05:05,150
+你的眉毛又没烧掉，
+那又怎么了？
+You're eyebrows aren't burnt
+and what?
+
+122
+00:05:05,150 --> 00:05:06,100
+你的眉毛——
+You eyebrows
+
+123
+00:05:06,100 --> 00:05:07,020
+噢，都长齐了，
+Oh they are fixed
+
+124
+00:05:07,020 --> 00:05:08,270
+它们本来就坏不了。
+they can't be broken.
+
+125
+00:05:10,700 --> 00:05:12,300
+我们该言归正传了吧？
+Shall we resume normal service?
+
+126
+00:05:12,300 --> 00:05:14,450
+当然，呃，好主意，
+Absolutely, err, good idea,
+
+127
+00:05:14,450 --> 00:05:16,450
+因为我正憋了一肚子火呢。
+because I've got a bit of bean in my bonnet.
+
+128
+00:05:16,450 --> 00:05:17,600
+- 懂我意思吧？
+- 懂。
+- See what I mean?
+- Yeah.
+
+129
+00:05:17,600 --> 00:05:19,470
+听着，重点是——道路施工。
+Listen, the thing is, roadworks.
+
+130
+00:05:19,470 --> 00:05:20,850
+过去这一年左右，
+For the last year or so,
+
+131
+00:05:20,850 --> 00:05:23,300
+我几乎跟伦敦彻底失联了，
+I have been virtually cut off from London
+
+132
+00:05:23,300 --> 00:05:26,000
+因为他们把牛津环路挖了个底朝天，懂吗？
+because they've been digging up the Oxford ring road, OK?
+
+133
+00:05:26,000 --> 00:05:29,070
+有一阵子，他们把它缩减成了一条单车道，
+At one point, they had it down to a single lane,
+
+134
+00:05:29,070 --> 00:05:30,400
+你只能老老实实开在后面，
+and you had to go down that,
+
+135
+00:05:30,400 --> 00:05:35,550
+在一辆车顶闪着黄灯的工程车“护送”下，以每小时10英里的龟速往前挪。
+being escorted by a van with yellow flashing lights on the roof at 10 mph.
+
+136
+00:05:35,550 --> 00:05:38,150
+骑匹马都比这强，还更快呢。
+It'd be better off and quicker on a horse.
+
+137
+00:05:38,570 --> 00:05:41,850
+然后他们还说，开这么慢是为了保护现场工人，
+Then they said it was something you going this slowly to protect the work force
+
+138
+00:05:41,850 --> 00:05:44,020
+可那儿连半个工人的影子都没有！
+but there wasn't a work force there.
+
+139
+00:05:44,020 --> 00:05:45,470
+他们从来没干过一点正事，
+They were never doing anything
+
+140
+00:05:45,470 --> 00:05:49,220
+因为全躲在工棚里听健康安全讲座呢！
+'cause they were in a hut having a health and safty lecture.
+
+141
+00:05:49,220 --> 00:05:51,200
+他说得一点都没错。
+He is absolutely right.
+
+142
+00:05:51,200 --> 00:05:52,420
+如今搞道路施工，
+These days with roadworks,
+
+143
+00:05:52,420 --> 00:05:54,650
+你压根感觉不到他们在抓紧干活，
+you never get that sense that they are getting on with it,
+
+144
+00:05:54,650 --> 00:05:56,370
+既不麻利也不高效，
+doing it quickly and efficiently
+
+145
+00:05:56,370 --> 00:05:58,850
+完全不为那些受通行困扰的人着想。
+for the benefit of those people who might be inconvenienced.
+
+146
+00:05:58,850 --> 00:06:00,900
+正是那些给他们发工资的人，一点没错。
+Who pay their wages exactly.
+
+147
+00:06:00,900 --> 00:06:02,200
+我是说，这其实特简单。
+I mean it's really simple.
+
+148
+00:06:02,200 --> 00:06:03,000
+把路一封，
+Close the road,
+
+149
+00:06:03,000 --> 00:06:04,450
+铺上一层新沥青，
+slap some new tarmac on it,
+
+150
+00:06:04,450 --> 00:06:06,700
+叫管安全健康的那帮人滚一边去，
+tell the health and safety people to get stuffed
+
+151
+00:06:06,700 --> 00:06:09,670
+然后以最快速度把这该死的路重新开放。
+and get the damn thing open as quickly as possible.
+
+152
+00:06:09,670 --> 00:06:11,670
+我是说，这能有多难？
+I mean how hard can it be?
+
+153
+00:06:11,670 --> 00:06:14,620
+噢，我真是太怀念这种心惊胆战的感觉了，
+Oh, how I've missed the pang of dread I feel
+
+154
+00:06:14,620 --> 00:06:15,820
+每当你说出那几个字——
+whenever you mentioned the words
+
+155
+00:06:15,820 --> 00:06:17,570
+这能有多难？
+how hard can it be?
+
+156
+00:06:17,570 --> 00:06:19,770
+好吧，我们马上就要见分晓了。
+Well, we are just about to find out.
+
+157
+00:06:21,870 --> 00:06:25,400
+这就是极其重要的D5481号公路，
+This is the critically important D5481
+
+158
+00:06:25,400 --> 00:06:29,150
+就位于沃里克郡埃文河畔比德福德村外。
+just outside the village of Bidford-on-Avon in Warwickshire.
+
+159
+00:06:31,050 --> 00:06:34,670
+路面坑洼得活像长满青春痘的月球表面。
+The surface looks like a lunar teenager's face.
+
+160
+00:06:34,670 --> 00:06:37,920
+而市政议会表示，要修好这长达1.5英里的路段……
+And the council said repairing the 1.5 miles stretch
+
+161
+00:06:37,920 --> 00:06:41,670
+就意味着要彻底封闭整整一个工作周。
+would mean closing it completely for one working week.
+
+162
+00:06:43,270 --> 00:06:46,970
+这对比德福德的居民来说简直是天大的麻烦。
+A massive inconvenience for the people of Bidford.
+
+163
+00:06:48,270 --> 00:06:50,350
+但这活儿如今归我们接手了，
+But we've taken the job over
+
+164
+00:06:50,350 --> 00:06:53,700
+只要我们讲究效率、拼命苦干、组织得当，
+and by being efficient, and hard working and organized,
+
+165
+00:06:53,700 --> 00:06:57,650
+我们打算挑战在24小时内把它彻底搞定。
+we're gonna try and get the job done in 24 hours.
+
+166
+00:06:57,650 --> 00:06:58,370
+准备好了吗？
+Are we ready?
+
+167
+00:06:58,370 --> 00:06:59,000
+妥了。
+Oh yeah.
+
+168
+00:06:59,000 --> 00:06:59,920
+开搞！
+Let's go!
+
+169
+00:07:01,770 --> 00:07:04,220
+然而刚开始就出了岔子。
+Immediately though, there was a problem.
+
+170
+00:07:04,920 --> 00:07:09,020
+开工前我想先过一遍安全围挡和施工安全须知。
+I just wanna go through the barriers, the safety aspects before we start work.
+
+171
+00:07:09,020 --> 00:07:12,050
+首先是你们必须佩戴的个人防护装备。
+First of which is the protective equipment you're gonna have to use.
+
+172
+00:07:12,050 --> 00:07:15,450
+所有人都必须穿好劳保鞋、工作裤、外套，并戴好安全帽。
+You all must have your boots, your trousers, jackets and your hat on.
+
+173
+00:07:15,450 --> 00:07:16,720
+我们哪有闲工夫听这个。
+We don't have time for this.
+
+174
+00:07:16,720 --> 00:07:19,550
+倒车跟前行时都要注意……
+/ would go in backwards as well forwards
+
+175
+00:07:19,550 --> 00:07:23,070
+任何人步行穿过重型机械施工区，必须有人陪同监护，
+So anyone walking beyond the plant must have a chaperone with them,
+
+176
+00:07:23,071 --> 00:07:27,360
+请务必留心兔子洞，我可不想有人把脚踝崴了或者摔骨折。
+Just beware the rabbit holes please, don't want any broken ankles or sprained ankles
+
+177
+00:07:27,370 --> 00:07:29,850
+光听废话就得听六天，真正干活就一天。
+6 days of this and 1 day of work.
+
+178
+00:07:29,850 --> 00:07:32,250
+交代你们每件个人防护装备该怎么穿……
+telling you which piece of PPE(Personal Protective Equipment) you must wear
+
+179
+00:07:32,250 --> 00:07:33,550
+赶紧让我们开工吧。
+Let's just get out of the way.
+
+180
+00:07:33,550 --> 00:07:35,550
+全员基础防护装备，还有问题吗？
+everybody general PPE, any questions?
+
+181
+00:07:35,550 --> 00:07:36,970
+现在能开始了吗？
+Can we start now?
+
+182
+00:07:36,970 --> 00:07:39,000
+恐怕不行，除非你们把衣服靴子都穿齐整了。
+not until you're suited and booted, I'm afraid
+
+183
+00:07:39,000 --> 00:07:40,100
+得了吧，我们这不是穿好衣服了吗。
+well, we're dressed
+
+184
+00:07:40,100 --> 00:07:41,550
+反正没露下体。
+Can't see my genitals.
+
+185
+00:07:42,500 --> 00:07:46,520
+安全说教没完没了地唠叨，我们必须赶紧抓紧时间了，
+The safety lecture droned on for so long that we really had to get cracking,
+
+186
+00:07:46,520 --> 00:07:50,050
+如果还想按原计划在上午9点整准时开工的话。
+if we were to begin as planned on the dot of 9 a.m.
+
+187
+00:07:52,070 --> 00:07:53,870
+这段路全长1.5英里。
+Now it's a 1.5 miles stretch.
+
+188
+00:07:53,870 --> 00:07:58,550
+我们要把它刨开、重新铺沥青、压实平整、画上新的白线，一条龙全包。
+And we're gonna dig it up, repave it, roll it, paint new white lines, the lot.
+
+189
+00:07:58,550 --> 00:08:00,950
+没错，而且由于整条路要彻底封闭，
+Yeah, and because the road is actually gonna be closed,
+
+190
+00:08:00,950 --> 00:08:02,570
+我们必须设置一条绕行路线。
+we have to have a diversion set up.
+
+191
+00:08:02,570 --> 00:08:04,820
+而詹姆斯此刻正在张罗这事儿。
+And that's what James is doing right now.
+
+192
+00:08:04,820 --> 00:08:06,200
+行，这其实再简单不过了。
+Right, this is really very simple.
+
+193
+00:08:06,200 --> 00:08:07,950
+这里是我们的路，在这儿，
+Here is our road, here,
+
+194
+00:08:07,950 --> 00:08:10,600
+很显然这边封死了，因为那是我们的施工地段。
+and obviously that's closed 'cause that's where we're working on.
+
+195
+00:08:10,600 --> 00:08:13,120
+所以谁要是想顺着这儿去阿登斯格拉夫顿，
+So anybody wanted to go down there to Ardens Grafton
+
+196
+00:08:13,120 --> 00:08:15,300
+就得绕一大圈。
+would have to go round the block.
+
+197
+00:08:15,300 --> 00:08:19,970
+因此我要立个路牌，指引他们沿着那头往斯特拉特福方向走，
+So I'm gonna put a sign up that takes them towards Stratford down there,
+
+198
+00:08:19,970 --> 00:08:22,900
+然后在某个地方我再把他们给兜回来，
+and then somewhere I'll take them back around
+
+199
+00:08:22,900 --> 00:08:25,670
+从那边绕一圈，他们就又回到阿登斯了，
+back around there and they'll be back around at Ardens.
+
+200
+00:08:25,670 --> 00:08:27,300
+正好在这条路的另一头。
+at the other end of this road.
+
+201
+00:08:27,300 --> 00:08:28,470
+慢点，稳住。
+Easy.
+
+202
+00:08:35,100 --> 00:08:38,400
+通常这种活儿，他们会用14个人。
+Normally for a job like this, they'd use 14 men.
+
+203
+00:08:38,400 --> 00:08:40,500
+而我们用了32个。
+We were using 32.
+
+204
+00:08:40,500 --> 00:08:41,920
+为了给大伙鼓劲，
+And to pat them up,
+
+205
+00:08:41,920 --> 00:08:45,800
+我准备了一段激昂的动员演讲。
+I prepared a stowing motivational speech.
+
+206
+00:08:45,800 --> 00:08:48,550
+帕特农神庙、金字塔、
+the Parthenon, the pyramids,
+
+207
+00:08:48,970 --> 00:08:51,020
+中国的万里长城，
+the Great Wall of China,
+
+208
+00:08:51,020 --> 00:08:52,777
+每一个都是闪耀的……
+Each a shining...
+
+209
+00:08:54,630 --> 00:08:58,050
+每一座都是人类雄心闪耀的灯塔！
+each a shining beacon of ambition.
+
+210
+00:08:58,050 --> 00:09:03,550
+而今天，先生们，D5481号公路也将名列其中！
+And today gentlemen, the D5481 will join that list.
+
+211
+00:09:09,300 --> 00:09:12,600
+我们要在一天之内把这条路修好！
+We shall build this road in a day!
+
+212
+00:09:12,600 --> 00:09:18,770
+我们重铺的路面将屹立一千年！
+Our resurfacing work will last for 1,000 years!
+
+213
+00:09:18,770 --> 00:09:21,850
+遗憾的是，杰里米讲得又臭又长。
+Sadly, Jeremy's speech went on a bit.
+
+214
+00:09:21,850 --> 00:09:23,800
+但不管怎么说，
+But nevertheless,
+
+215
+00:09:24,450 --> 00:09:26,850
+就在九点零七分整，
+on the dot of 9:07,
+
+216
+00:09:29,250 --> 00:09:30,700
+我们开工了。
+we began.
+
+217
+00:09:32,100 --> 00:09:34,600
+第一项工作是刨掉旧路面，
+The first job was to rip up the old surface
+
+218
+00:09:34,600 --> 00:09:36,700
+这就需要一台道路刨除机。
+and for that, we needed a plainer.
+
+219
+00:09:36,700 --> 00:09:40,170
+按安全规程，开这玩意儿得配三个人，
+To operate it safely, you're supposed to use three men
+
+220
+00:09:40,170 --> 00:09:44,450
+但我们把另外两人调去干别的，决定一个人单挑。
+but we put two on other jobs and decided to go it alone.
+
+221
+00:09:45,000 --> 00:09:46,520
+你来开这台。
+You're gonna drive that.
+
+222
+00:09:46,520 --> 00:09:46,970
+没问题。
+Yes.
+
+223
+00:09:46,970 --> 00:09:48,220
+滚刀把路面刨开，
+Teeth dig up the road,
+
+224
+00:09:48,220 --> 00:09:50,750
+碎石顺着传送带送进卡车里。
+rubble goes up there and into the truck.
+
+225
+00:09:50,750 --> 00:09:51,500
+一点都没错。
+Exactly right.
+
+226
+00:09:51,500 --> 00:09:52,550
+也就是说……
+Which...
+
+227
+00:09:52,550 --> 00:09:53,920
+行了，你开吧。
+Well, you can drive it.
+
+228
+00:09:57,450 --> 00:10:01,670
+与此同时，詹姆斯的交通改道工作开局并不顺利。
+James' diversion meanwhile, hadn't got off to a good start.
+
+229
+00:10:03,020 --> 00:10:04,400
+喂？
+Hey?
+
+230
+00:10:08,370 --> 00:10:09,950
+噢，见鬼。
+Oh, cock.
+
+231
+00:10:10,650 --> 00:10:12,020
+行，准备就绪。
+Yeah, all right.
+
+232
+00:10:12,700 --> 00:10:14,770
+好，总算把刨刀升起来了。
+Well, I finally upped the cutters.
+
+233
+00:10:15,120 --> 00:10:16,820
+转速拉满。
+all the revs
+
+234
+00:10:17,550 --> 00:10:20,920
+走起，手刹，松开。
+Here we go, hand brake, off.
+
+235
+00:10:27,600 --> 00:10:29,470
+动力挂入。
+Engine.
+
+236
+00:10:30,620 --> 00:10:33,950
+搞定，开动，走着。
+OK, let's go, yeah.
+
+237
+00:10:36,770 --> 00:10:39,400
+杰里米，跟上啊大哥，你磨蹭啥呢。
+Jeremy, catch up, man, what are you doing.
+
+238
+00:10:39,400 --> 00:10:43,420
+你特么往后瞧瞧，看看碎石到底进没进卡车！
+Just look behind you and see if it's going in the bloody lorry.
+
+239
+00:10:43,420 --> 00:10:45,150
+别看那路牌！
+Ignore the sign.
+
+240
+00:10:46,670 --> 00:10:48,370
+别看那块路牌，写错了！
+Ignore the sign, it's wrong.
+
+241
+00:10:48,370 --> 00:10:50,000
+詹姆斯表现得烂透了，
+James was being rubbish,
+
+242
+00:10:50,000 --> 00:10:53,320
+不过我俩也绝对称不上什么模范员工。
+but then we were hardly employees of the month either.
+
+243
+00:10:53,920 --> 00:10:55,170
+你个大蠢蛋！
+Stupid idiot!
+
+244
+00:10:55,170 --> 00:10:56,450
+我说，别让我分心好不好！
+look, stop putting me off
+
+245
+00:10:56,450 --> 00:10:58,070
+你全倒卡车外面了！
+You've missed the truck.
+
+246
+00:10:58,450 --> 00:11:00,720
+抱歉，对不起，我错了。
+Sorry, sorry, sorry.
+
+247
+00:11:00,720 --> 00:11:03,350
+然后，情况急转直下。
+And then things got worse.
+
+248
+00:11:03,350 --> 00:11:05,620
+杰里米，出了点小状况。
+Jeremy, there is a slight problem.
+
+249
+00:11:05,620 --> 00:11:06,520
+怎么了？
+What?
+
+250
+00:11:06,520 --> 00:11:09,500
+我起步的时候角度好像偏了点，
+I've sort of set off with a bit of angle,
+
+251
+00:11:09,500 --> 00:11:12,420
+现在开到别人路段上去了。
+and I'm on the wrong bit of road.
+
+252
+00:11:15,520 --> 00:11:17,250
+- 这是比德福德对吧？ - 没错。
+- This is Bidford, isn't it? - Yeah.
+
+253
+00:11:17,250 --> 00:11:20,170
+如果想回刚才那地方，
+If you wanted to get back to there,
+
+254
+00:11:20,170 --> 00:11:22,500
+但又不想走刚才那条路，
+but without using that road,
+
+255
+00:11:22,500 --> 00:11:23,770
+走哪边最好？
+which is the best way to go?
+
+256
+00:11:23,770 --> 00:11:25,470
+呃，一直开到环岛，
+Err, up to the island,
+
+257
+00:11:25,470 --> 00:11:27,150
+- 上面那个？
+- 对。
+- Up there?
+- Yeah.
+
+258
+00:11:27,150 --> 00:11:29,150
+过了环岛第三个路口拐进去。
+third turn in after the island.
+
+259
+00:11:29,650 --> 00:11:32,670
+情况是这样，它本来是笔直往前走的，
+What's happened is it goes in the bit of a straight line,
+
+260
+00:11:32,670 --> 00:11:33,200
+嗯。
+Yeah.
+
+261
+00:11:33,200 --> 00:11:35,350
+然后你想打方向拐回去，它就熄火了。
+and then when you tried to turn it back in, it stalled.
+
+262
+00:11:35,350 --> 00:11:36,920
+所以我正试着把它倒回……
+So I'm trying to get it back to the...
+
+263
+00:11:36,920 --> 00:11:38,350
+多给点油门！
+Give it more power.
+
+264
+00:11:39,320 --> 00:11:40,570
+这就是典型的克拉克森式解题法：
+There is a Clarkson answer to a problem
+
+265
+00:11:40,570 --> 00:11:42,100
+只管大力踩油门。
+Just more power.
+
+266
+00:11:42,270 --> 00:11:45,770
+到目前为止，忙活了四十分钟，我们一共前进了……
+So far, in forty minutes, we've done...
+
+267
+00:11:45,770 --> 00:11:46,720
+- 二十码？
+- 20 yards?
+
+268
+00:11:46,720 --> 00:11:47,570
+- 二十码。
+- 20 yards.
+
+269
+00:11:47,570 --> 00:11:48,900
+你觉得你这么干顶用？
+And you think this is helping?
+
+270
+00:11:50,170 --> 00:11:53,600
+向右，向左，工业园区……
+Right, left, industrial estate...
+
+271
+00:11:57,320 --> 00:12:00,320
+我对目前的进展相当满意。
+I'm quite pleased with the way this is going now.
+
+272
+00:12:01,370 --> 00:12:02,970
+你特么又撞上我了！
+You've just hit me again!
+
+273
+00:12:03,700 --> 00:12:07,020
+我觉得咱们的团队协作越来越默契了。
+I feel as though we are working as a team well.
+
+274
+00:12:08,250 --> 00:12:10,000
+杰里米，我们得停下了。
+Jeremy, we've got to stop.
+
+275
+00:12:10,170 --> 00:12:11,070
+干嘛停？
+What for?
+
+276
+00:12:11,070 --> 00:12:13,500
+因为车斗已经满了，都漫出来了，
+Because the truck is full and overflowing
+
+277
+00:12:13,500 --> 00:12:15,420
+可能根本就卸不下来了，
+and it might not be able to tip it out
+
+278
+00:12:15,420 --> 00:12:17,900
+这就意味着咱俩得拿铁锹去铲了，你个蠢货！
+which means we'll have to do it with shovels, you pillock.
+
+279
+00:12:18,620 --> 00:12:21,670
+为了赶时间，我索性把卡车停在路边，
+To save time, I simply parked the lorry at the side of the road
+
+280
+00:12:21,670 --> 00:12:23,300
+直接就地倒光了事。
+and emptied it there.
+
+281
+00:12:24,000 --> 00:12:25,500
+倒光了！
+Empty!
+
+282
+00:12:25,670 --> 00:12:28,500
+我的同事们对此似乎很不买账。
+This didn't seem to go down well with my colleagues.
+
+283
+00:12:28,870 --> 00:12:30,070
+那是扇大门。
+That's a gate.
+
+284
+00:12:32,150 --> 00:12:33,170
+谁家的大门？
+Whose gate?
+
+285
+00:12:33,170 --> 00:12:35,950
+我……这重要吗？那就是扇门，不知道谁家的大门！
+I... Does it matter? It's a gate, it's somebody's gate.
+
+286
+00:12:35,950 --> 00:12:38,550
+而你把好几吨刨下来的烂路面全倒人家门里了。
+and you put several tons of road in it.
+
+287
+00:12:38,550 --> 00:12:41,300
+而且我也没法……我现在连三点掉头都掉不了了，对吧？
+And I won't... I can't do a 3 point turn now either, can I?
+
+288
+00:12:42,320 --> 00:12:44,950
+没错，你掉不了。那是唯一能掉头的地方。
+No, you can't. That's the only turning place.
+
+289
+00:12:46,350 --> 00:12:47,820
+老兄，你自己看着办吧，自求多福。
+You're on your own, man. I'm sorry.
+
+290
+00:12:47,820 --> 00:12:48,650
+你能弄台挖掘机来吗？
+Can you get a digger?
+
+291
+00:12:48,650 --> 00:12:49,370
+弄不来！
+No!
+
+292
+00:12:49,370 --> 00:12:53,000
+所以是左拐、右拐、左拐，
+So it goes left, right, left,
+
+293
+00:12:53,000 --> 00:12:55,670
+工业园区，右拐。
+industrial estate, right.
+
+294
+00:12:55,670 --> 00:12:57,420
+对，过了工业园区
+Yeah, pass the industrial estate
+
+295
+00:12:57,420 --> 00:12:59,250
+只有一个迷你小环岛。
+There's only a mini round about.
+
+296
+00:12:59,250 --> 00:13:00,570
+<i>右转开上乔治榆树巷。</i>
+<i>Turn right up Georges Elm Lane.</i>
+
+297
+00:13:00,570 --> 00:13:02,970
+<i>乔治榆树巷，也就是右边第一个路口。</i>
+<i>Georges Elm Lane, which is the first on the right.</i>
+
+298
+00:13:02,970 --> 00:13:04,450
+穿过工业园区。
+Pass industrial estate.
+
+299
+00:13:09,420 --> 00:13:12,250
+到了这个阶段，局势已经相当不妙了。
+At this stage, things were going quite badly.
+
+300
+00:13:12,250 --> 00:13:15,970
+于是我们把卡车和刨路机交给了专业人士。
+So we handed the lorry and the plainer over to the professionals.
+
+301
+00:13:15,970 --> 00:13:19,350
+理查德被分派去干清理现场这种简单活，
+Richard was then given the simple job of tidying up,
+
+302
+00:13:19,350 --> 00:13:23,170
+而我则回去继续做战前动员演讲。
+and I went back to making motivational speeches.
+
+303
+00:13:23,670 --> 00:13:26,320
+这绝非终点，
+This is not the end,
+
+304
+00:13:26,320 --> 00:13:28,820
+这也不是起点，
+this is not the beginning,
+
+305
+00:13:28,820 --> 00:13:32,250
+这甚至不是终点的起点，
+this is not the beginning of the end,
+
+306
+00:13:32,250 --> 00:13:33,550
+它甚至都不算……
+it's not even...
+
+307
+00:13:33,550 --> 00:13:35,520
+在工人们被“充分激励”之后，
+With the men motivated nicely,
+
+308
+00:13:35,520 --> 00:13:37,270
+我们很快就把旧路面清理干净了，
+we soon have the old surface cleared
+
+309
+00:13:37,270 --> 00:13:41,300
+随后开始浇洒沥青粘层，用来固定新铺的沥青路面。
+and then started to lay the bitumen which glues the new tarmac in place.
+
+310
+00:13:42,400 --> 00:13:45,150
+接着有人开始问能不能休息一下。
+Some people then began to ask if they could have a break.
+
+311
+00:13:45,150 --> 00:13:47,400
+答案当然是：没门。
+But of course the answer was no.
+
+312
+00:13:48,800 --> 00:13:51,250
+我们就是靠这个把进度赶上来的。
+This is how we're managing to speed things up.
+
+313
+00:13:51,850 --> 00:13:55,720
+在这个工地上，树篱里能揪到什么，午饭就吃什么。
+Lunch on this job is what you can find in the hedge.
+
+314
+00:13:56,650 --> 00:14:01,270
+不过，单靠狄更斯时代的残酷剥削，可没法在一天之内把活干完。
+Dickensian work practices alone though, would not get this job done in a day.
+
+315
+00:14:01,270 --> 00:14:03,850
+你还得往里疯狂砸资源，
+You also need to throw resources at it.
+
+316
+00:14:03,850 --> 00:14:07,170
+而这正是市政部门死活都不愿意做的事。
+something councils seem unwilling to do.
+
+317
+00:14:08,720 --> 00:14:11,170
+我真得好好把这笔账算清楚，
+I really wanna get these math worked out
+
+318
+00:14:11,170 --> 00:14:13,320
+因为按我们现在这种搞法，
+because the way we're doing this,
+
+319
+00:14:13,320 --> 00:14:15,700
+疯狂堆人头、堆机器，一天之内强行干完，
+throwing men and machines at it and doing it in a day
+
+320
+00:14:15,700 --> 00:14:17,970
+成本要整整贵出七千英镑
+is 7,000 pounds more expensive
+
+321
+00:14:17,970 --> 00:14:21,070
+也强过每天干8小时、磨磨蹭蹭拖上一整周。
+than having 8-hour days, and taking a week.
+
+322
+00:14:22,350 --> 00:14:23,900
+不过我觉得吧，
+But I reckon,
+
+323
+00:14:24,650 --> 00:14:29,120
+只要每天给500个人添堵上一个小时，
+you only need inconvenience 500 people for an hour a day,
+
+324
+00:14:30,450 --> 00:14:32,870
+按咱们的法子干就绝对划算得多。
+for you to be better off doing it our way.
+
+325
+00:14:36,020 --> 00:14:39,520
+下午一点，詹姆斯总算布置完了他的绕行路线，
+At 1 o'clock, James finally finished his diversion
+
+326
+00:14:39,520 --> 00:14:41,670
+给当地人提供了海量的替代方案，
+giving locals lots of alternatives
+
+327
+00:14:41,670 --> 00:14:44,800
+结果一回来，就看见我正在高效打盹。
+and returned to find me having a power nap.
+
+328
+00:14:44,800 --> 00:14:46,750
+劳动使你自由。
+Work sets you free.
+
+329
+00:14:47,320 --> 00:14:51,420
+睡饱之后，我又琢磨出了几个加速工期的新点子。
+Refreshed, I came up with yet more ways to speed things up.
+
+330
+00:14:52,170 --> 00:14:54,250
+你看卡车倒车的时候，
+You know when the trucks back up,
+
+331
+00:14:54,250 --> 00:14:55,250
+嗯。
+Yeah.
+
+332
+00:14:55,250 --> 00:14:57,100
+屁股后面总跟着个人走。
+There's a man walking behind them.
+
+333
+00:14:57,100 --> 00:14:58,150
+是指挥员，没错。
+The banksman, yeah.
+
+334
+00:14:58,150 --> 00:15:00,650
+可所有卡车按规定也都装了倒车摄像头啊。
+But all trucks've got to have cameras on them as well.
+
+335
+00:15:00,650 --> 00:15:01,770
+确实也装了。
+They do as well.
+
+336
+00:15:01,770 --> 00:15:04,200
+那干嘛既要人又要摄像头？
+So why do you need a man and a camera?
+
+337
+00:15:04,200 --> 00:15:07,100
+把那人派去直接修路，效率不是高得多？
+That man could be better employed making roadworks.
+
+338
+00:15:07,100 --> 00:15:08,600
+这叫双重保险，懂不懂？
+It's double protection, isn't it?
+
+339
+00:15:08,600 --> 00:15:10,450
+- 要是有人……
+- 保险个鬼，纯粹就是……啥？
+- If somebody...
+- It's not. It's just... what?
+
+340
+00:15:10,450 --> 00:15:11,520
+行吧，但你听说没，
+Well, did you hear though,
+
+341
+00:15:11,520 --> 00:15:15,270
+讲公道话，最近真有个家伙被那台刨路机给碾过去了。
+in fairness, one bloke recently got run over by that plaining machine.
+
+342
+00:15:15,270 --> 00:15:16,920
+我看起来像感兴趣的样子吗？
+How interest am I in that?
+
+343
+00:15:16,920 --> 00:15:17,950
+他们最后只找着了他一只手。
+They only found his hand.
+
+344
+00:15:17,950 --> 00:15:18,770
+关我屁事。
+Don't care.
+
+345
+00:15:21,120 --> 00:15:24,500
+到了两点半，路面已经喷好了沥青粘层油，
+By 2:30, the road had been sprayed with bitumen glue
+
+346
+00:15:24,500 --> 00:15:27,300
+准备好铺设崭新的沥青层了。
+and was ready to receive the new layer of tarmac.
+
+347
+00:15:28,450 --> 00:15:32,500
+这是我们整场行动中最关键的一环。
+This is the most critical part of our whole operation.
+
+348
+00:15:32,970 --> 00:15:38,770
+按正常速度，他们一天顶多也就铺个250到270吨沥青。
+Normally, they would reckon on laying between 250 and 270 tons of tarmac in a day.
+
+349
+00:15:38,770 --> 00:15:41,170
+而我们今天打算铺多少来着？
+Now we're gonna try and lay, how much is it?
+
+350
+00:15:41,170 --> 00:15:42,920
+一千一百吨。
+Eleven hundred tons.
+
+351
+00:15:42,920 --> 00:15:45,350
+一天铺整整一千一百吨！
+One thousand and one hundred tons in a day.
+
+352
+00:15:45,670 --> 00:15:48,170
+这就是为什么我们把哈蒙德派去了沥青公司，
+That's why we've got Hammond up at tarmac's
+
+353
+00:15:48,170 --> 00:15:50,420
+去城郊那个采石场还是拌和厂什么的，
+kind of quarry plant thing, up near town
+
+354
+00:15:50,420 --> 00:15:53,250
+死盯着原料供应，绝不能断供。
+to make sure the supplies keep coming.
+
+355
+00:15:55,720 --> 00:15:58,720
+现代采石场到处都是重型机械，
+The modern quarry is full of heavy part,
+
+356
+00:15:58,720 --> 00:16:02,020
+但其实全都是由电脑掌控的。
+but actually it is all controlled by a computer.
+
+357
+00:16:03,000 --> 00:16:06,670
+哦，我的老天鹅啊……
+Oh, mother of....
+
+358
+00:16:06,670 --> 00:16:10,220
+这里有个搅拌机，还有个泵……
+We've got / mixer and a pump
+
+359
+00:16:10,220 --> 00:16:11,300
+行，稳住，别慌。
+OK, stay calm.
+
+360
+00:16:11,300 --> 00:16:14,470
+我发邮件都在行，搞定这堆破玩意儿还不容易，呃。
+I can do e-mails, I can do this lot, em.
+
+361
+00:16:14,470 --> 00:16:15,920
+显然他搞定了，
+Plainly he mastered it,
+
+362
+00:16:15,920 --> 00:16:18,720
+因为卡车很快就开始陆续进场。
+because soon the trucks began to arrive.
+
+363
+00:16:18,720 --> 00:16:21,770
+但倒霉的是，开铺路机铺沥青的，
+But unfortunately, the paving machine that lays the tarmac
+
+364
+00:16:21,770 --> 00:16:25,270
+居然是全宇宙动作最慢的男人。
+was being driven by the slowest person in the world.
+
+365
+00:16:27,020 --> 00:16:27,920
+等等，詹姆斯。
+Wait, James.
+
+366
+00:16:27,920 --> 00:16:28,970
+干嘛？
+What?
+
+367
+00:16:28,970 --> 00:16:32,050
+一件事要是值得做，那就得抓紧快做。
+If a job is worth doing, it's worth doing quickly.
+
+368
+00:16:32,050 --> 00:16:33,950
+不对，是好好做。
+No, well.
+
+369
+00:16:33,950 --> 00:16:34,820
+快点做。
+Quickly.
+
+370
+00:16:34,820 --> 00:16:35,320
+好好做。
+Well.
+
+371
+00:16:35,320 --> 00:16:35,670
+快点做。
+Quickly.
+
+372
+00:16:35,670 --> 00:16:36,050
+好好做。
+Well.
+
+373
+00:16:36,050 --> 00:16:36,450
+快点。
+Quickly.
+
+374
+00:16:36,450 --> 00:16:36,850
+好好。
+Well.
+
+375
+00:16:36,850 --> 00:16:39,770
+不过总的来说，进展还算顺利。
+Still, overall, things were moving along nicely.
+
+376
+00:16:39,770 --> 00:16:42,050
+D5481公路上的弟兄们，
+Men of the D5481
+
+377
+00:16:42,050 --> 00:16:45,850
+势头一片大好，机械已经开始运转起来了。
+things are looking good, I'm seeing machines moving about now.
+
+378
+00:16:49,250 --> 00:16:50,520
+嗯，没错。
+Yeah, yes.
+
+379
+00:16:51,320 --> 00:16:53,520
+呃，待会儿我们再回来看进度，
+Err, now we're gonna pick up that later on
+
+380
+00:16:53,520 --> 00:16:57,870
+毫无疑问，到那时候一切都该搞砸了。
+when obviously everything starts to go wrong.
+
+381
+00:16:57,870 --> 00:16:59,220
+呃不过现在，
+Um now though,
+
+382
+00:16:59,220 --> 00:17:03,100
+又到了“廉价车请明星”环节。
+now it's time to put a star in our reasonably priced car.
+
+383
+00:17:03,100 --> 00:17:06,350
+今晚这位嘉宾自打头一回来我们节目，
+Now, since our guest tonight first came on the show,
+
+384
+00:17:06,350 --> 00:17:08,770
+就发起了一场轰轰烈烈的改善学校午餐运动，
+he launched a campaign to improve school dinners
+
+385
+00:17:08,770 --> 00:17:10,100
+如今简直成了活圣人。
+and has become really a saint
+
+386
+00:17:10,100 --> 00:17:13,070
+他现在的政治影响力比总统还大，
+he now wields more political power than a president,
+
+387
+00:17:13,070 --> 00:17:17,020
+像个电影巨星一样穿梭在好莱坞名流派对中，
+he glides through Hollywood parties like a film star,
+
+388
+00:17:17,020 --> 00:17:20,550
+不过有趣的是，他说起话来还是像嘴里含着个枕头。
+interestingly though, he still talks like he's eating a pillow.
+
+389
+00:17:21,250 --> 00:17:24,270
+女士们先生们，掌声欢迎杰米·奥利弗！
+Ladies and gentlemen, please welcome Jamie Oliver.
+
+390
+00:17:25,850 --> 00:17:27,000
+你好啊。
+Hello there.
+
+391
+00:17:28,650 --> 00:17:29,400
+你好。
+Hello.
+
+392
+00:17:29,400 --> 00:17:30,520
+请坐，
+Have a seat,
+
+393
+00:17:34,920 --> 00:17:36,200
+很高兴你能再次大驾光临。
+it's nice of you to come back.
+
+394
+00:17:36,200 --> 00:17:37,420
+非常感谢。
+thank you very much.
+
+395
+00:17:37,820 --> 00:17:38,720
+挺好的。
+very good.
+
+396
+00:17:39,370 --> 00:17:42,770
+这个呃……学校午餐这事儿可真是把你捧上天了。
+this uh...this school dinner thing really has propelled you along.
+
+397
+00:17:42,770 --> 00:17:44,770
+以前你不过也就是“又一个厨子”，
+you were just like "another chef",
+
+398
+00:17:44,770 --> 00:17:47,270
+现在摇身一变成了全民英雄，简直被封神了，真的。
+and now you're national hero, a God, I tell you.
+
+399
+00:17:47,270 --> 00:17:48,250
+这话我可就不爱听了。
+I take offence to that.
+
+400
+00:17:48,250 --> 00:17:50,550
+我什么时候成“又一个厨子”了，是吧大家伙？
+I was never just another chef, was I, guys?
+
+401
+00:17:51,450 --> 00:17:52,220
+其实有种……我是说你可以……
+there is a... I mean you could...
+
+402
+00:17:52,220 --> 00:17:53,070
+我刚才说到哪了，伙计们？
+was I, guys?
+
+403
+00:17:54,900 --> 00:17:55,670
+话说回来，戈登，
+anyway Gordon,
+
+404
+00:17:55,670 --> 00:17:56,420
+呃……
+um...
+
+405
+00:17:58,300 --> 00:17:59,870
+罗瑟勒姆那边可不太买账是吧？
+it didn't go down well in Rotherham?
+
+406
+00:18:00,300 --> 00:18:04,670
+罗瑟勒姆？哦，就是那帮老娘们隔着铁栏杆往里塞芝士焗通心粉那事儿？
+Rotherham? oh with those old birds putting the old err the Mac and cheese through the railings
+
+407
+00:18:04,670 --> 00:18:06,820
+对，她们拿……她们到底给自己孩子塞了啥？巨无霸汉堡？
+Yeah, they were feeding their... what were they feeding their kids with? BigMacs?
+
+408
+00:18:06,820 --> 00:18:09,870
+没错，因为我们……他们……新规出台后，
+That's right, coz we... they... they changed... the regulations came in,
+
+409
+00:18:09,870 --> 00:18:11,050
+他们把所有垃圾食品都换掉了，
+they changed all the junk,
+
+410
+00:18:11,050 --> 00:18:16,050
+呃，结果基本上就是些当妈的开始隔着铁栏杆倒卖垃圾食品。
+err and basically some moms started selling the junk food through the railings
+
+411
+00:18:16,050 --> 00:18:17,600
+不过我看到那新闻时人还在澳大利亚呢，
+but I was in Australia when I saw it,
+
+412
+00:18:17,600 --> 00:18:18,600
+当时在播BBC世界新闻，
+it was on BBC world news,
+
+413
+00:18:18,600 --> 00:18:20,100
+我几乎是刚睁开眼，
+and I just woke up literally,
+
+414
+00:18:20,320 --> 00:18:23,900
+映入眼帘的全都是几百只手从铁栅栏里伸出来，
+and all I can see is like hundreds of hands coming through bars,
+
+415
+00:18:23,900 --> 00:18:27,270
+还有那帮粗野的大妈拼命往里头硬塞吃的，
+and these old...big old scrubbers poking stuff through there,
+
+416
+00:18:27,270 --> 00:18:29,370
+收着他们的钱，然后呃……
+taking all their money and um...
+
+417
+00:18:29,370 --> 00:18:31,420
+我以前还在罗瑟勒姆打过工呢……求你别提了。
+I used to work in Rotherham...please
+
+418
+00:18:31,620 --> 00:18:32,470
+问题是，我完全……
+thing is, I¡¯m abso...
+
+419
+00:18:32,470 --> 00:18:34,550
+你……你真就对这套深信不疑吗，
+are you...you're absolutely convinced this is for real,
+
+420
+00:18:34,550 --> 00:18:36,620
+所谓的“我们大家必须吃得更健康”，
+this "we've all got to eat more healthily",
+
+421
+00:18:36,620 --> 00:18:40,050
+我觉得长胖其实是一种进化，
+I just think getting fat is actually evolution,
+
+422
+00:18:40,750 --> 00:18:44,970
+我通过让自己更胖，正在进化成更高等的文明生物。
+I am evolving into a more civilized being by being fatter.
+
+423
+00:18:44,970 --> 00:18:45,850
+是啊。
+yes.
+
+424
+00:18:45,850 --> 00:18:48,300
+这也正好引出了我的一个核心论点：节食减肥。
+which actually brings me onto an important point, dieting
+
+425
+00:18:48,300 --> 00:18:48,870
+对。
+yes.
+
+426
+00:18:48,870 --> 00:18:51,320
+- 我有一套节食法，根本不可能做到。 - 好吧。
+- I've got a diet, impossible. - OK.
+
+427
+00:18:51,320 --> 00:18:52,820
+天呐，那你平时到底吃些什么……
+well what are you eating for crying...
+
+428
+00:18:52,820 --> 00:18:54,420
+食物啊。好吧，我是说当我节食的时候，
+Food, well now I mean when I diet,
+
+429
+00:18:54,420 --> 00:18:56,400
+我只吃胡萝卜和健怡可乐。
+I eat carrots and diet coke.
+
+430
+00:18:56,400 --> 00:18:57,020
+行吧。
+right
+
+431
+00:18:57,020 --> 00:18:57,900
+没了，就这些。
+and that's it.
+
+432
+00:18:58,420 --> 00:18:59,750
+确实管用，体重降了，
+and it works, I lose weight,
+
+433
+00:18:59,750 --> 00:19:01,170
+但我动不动就晕倒。
+but I faint all the time.
+
+434
+00:19:02,070 --> 00:19:02,920
+你动不动就晕倒？
+you faint all the time?
+
+435
+00:19:02,920 --> 00:19:04,350
+我是真晕，因为我的问题就在于，杰米，
+I do faint coz the problem I got Jamie,
+
+436
+00:19:04,350 --> 00:19:06,450
+说真的，我一走进超市，
+genuinely, I walk into a supermarket
+
+437
+00:19:06,450 --> 00:19:07,020
+然后呢？
+yes?
+
+438
+00:19:07,020 --> 00:19:09,600
+看着那些食物就会想：到底哪个催肥，哪个不催肥？
+and you look at food and think: what's fattening and what isn't
+
+439
+00:19:09,600 --> 00:19:12,000
+呃，我觉得嘛……其实你可以试着把它简单化，
+Uh, well I think you know... you can try and simplify it,
+
+440
+00:19:12,000 --> 00:19:15,270
+呃，比如要是你自己做饭的话，嗯……你看啊杰里米，
+uh for instance, if you cook, um... you know Jeremy,
+
+441
+00:19:15,270 --> 00:19:18,570
+可比买那种预包装食品健康多了
+that's a lot healthier than buying sort of pre-packed food
+
+442
+00:19:18,570 --> 00:19:20,220
+而且你要是爱吃辣椒，
+also if you like chili,
+
+443
+00:19:20,220 --> 00:19:23,720
+辣椒能让你的新陈代谢加快25%，
+chili speeds up your metabolism by 25%,
+
+444
+00:19:23,720 --> 00:19:25,550
+呃，而且它还能让你嗨起来，
+uh and also you can get high on it,
+
+445
+00:19:25,550 --> 00:19:26,470
+爽翻了，而且完全合法，
+which is great, and it's legal,
+
+446
+00:19:26,470 --> 00:19:29,250
+直接嗨到狂欢，多棒啊。
+go raving, nice.
+
+447
+00:19:29,250 --> 00:19:31,120
+伙计，我超爱吃辣。
+I¡¯m all over chili, mate.
+
+448
+00:19:31,120 --> 00:19:33,470
+那要是我往健怡可乐里扔个辣椒呢？
+So if I put chili in my diet coke?
+
+449
+00:19:35,050 --> 00:19:36,420
+我今年种了一大堆辣椒，
+I grew a load of chili this year,
+
+450
+00:19:36,420 --> 00:19:39,400
+还种出了世界上最辣的品种，我跟你讲，吼吼。
+and I grew the hottest in the world and I¡¯m telling ya, hoho.
+
+451
+00:19:40,720 --> 00:19:41,520
+因为还有一件事，
+coz there is another thing,
+
+452
+00:19:41,520 --> 00:19:43,320
+你确实自己种了不少有机……
+you do grow quite a lot of your organic...
+
+453
+00:19:43,320 --> 00:19:45,400
+- 是啊，过去三年一直在种，没错。
+- 啥？
+- yeah, the last 3 years, yeah.
+- what?
+
+454
+00:19:45,400 --> 00:19:47,600
+- 大概有5%到15%的东西…… - 这不可能
+- about 5% of the stuff to 15 - it's impossible
+
+455
+00:19:47,600 --> 00:19:48,570
+怎么就不可能了
+it's not impossible
+
+456
+00:19:48,570 --> 00:19:49,450
+就是不可能。
+yes it is.
+
+457
+00:19:49,450 --> 00:19:53,320
+听……听着，如果连我……我三年前可什么都没种过，
+Li...listen, if I, I¡¯ve never grown anything until 3 years ago,
+
+458
+00:19:53,320 --> 00:19:56,200
+就像……呃，第一年我根本两眼一抹黑，
+like like...it...uh, the first year, I didn't know what I was doing,
+
+459
+00:19:56,200 --> 00:19:58,020
+就直接把种子往泥地里一扔，
+just by putting seeds in mud,
+
+460
+00:19:58,020 --> 00:20:00,270
+你都想不到，80%的东西居然都能长出来，
+you'd amazed, 80% of the stuff grows into something,
+
+461
+00:20:00,270 --> 00:20:02,900
+真得是彻头彻尾的蠢货才什么都种不活
+you have to be a complete idiot to not grow anything
+
+462
+00:20:04,100 --> 00:20:06,800
+我去年种了一整片大麦
+I planted a field of barley last year
+
+463
+00:20:06,800 --> 00:20:07,450
+大麦？
+Barley?
+
+464
+00:20:07,450 --> 00:20:08,100
+大麦
+Barley
+
+465
+00:20:08,100 --> 00:20:10,000
+你没事种大麦干嘛？
+What are you planting barley for?
+
+466
+00:20:10,000 --> 00:20:13,220
+- 你真想知道的话，其实是为了引某种鸟来， - 种土豆和豆子啊
+- If you really want to know, it was to attract a certain type of bird, - grow potatoes and beans
+
+467
+00:20:13,220 --> 00:20:15,650
+我挺喜欢那鸟的，我……我是皇家鸟类保护协会会员，
+which I like, I...I¡¯m a RSPB member,
+
+468
+00:20:15,650 --> 00:20:16,570
+千万别跟别人提……
+don't mention that to...
+
+469
+00:20:16,570 --> 00:20:18,300
+求你千万别说出去。
+please don't say that.
+
+470
+00:20:18,300 --> 00:20:20,270
+- 我就是想……稍微引点……
+- 你是个观鸟狂魔吗？
+- and I want to... a bit...
+- are you a twitcher?
+
+471
+00:20:20,270 --> 00:20:21,450
+嘘，求你了，
+shhh, please,
+
+472
+00:20:21,450 --> 00:20:22,770
+问题是，我种了之后就想：
+the thing is, I grew this but I thought:
+
+473
+00:20:22,770 --> 00:20:25,100
+我绝对不施任何化肥，否则会毒死那些鸟，
+I won't put any fertilizer on it coz that'll poison the birds,
+
+474
+00:20:25,100 --> 00:20:27,400
+结果它就长了这么一丁点长，还一片惨灰，
+it grew to this long and was bright grey,
+
+475
+00:20:27,400 --> 00:20:29,420
+花了我一大笔冤枉钱
+it's costed me a fortune
+
+476
+00:20:29,420 --> 00:20:32,750
+所以我认定了，化肥有用，化肥是个好东西
+and I just think fertilizer works, fertilizer is good
+
+477
+00:20:32,750 --> 00:20:33,950
+- 别别别
+- 就是好。
+- no no
+- it is.
+
+478
+00:20:33,950 --> 00:20:35,200
+别往地里喷药啊
+Don't spray the ground
+
+479
+00:20:35,200 --> 00:20:35,770
+为啥？
+Why?
+
+480
+00:20:35,770 --> 00:20:38,250
+因为那会把地里的微生物和活体生物全给毁了
+Coz it just wrecks all the microbes and their organisms
+
+481
+00:20:38,250 --> 00:20:39,050
+还有喷在上面的那些东西，
+and the stuff that goes on
+
+482
+00:20:39,050 --> 00:20:41,200
+喷在上面的很多玩意儿根本就是各种毒药，
+on and a lot of it are versions of poisons,
+
+483
+00:20:41,200 --> 00:20:41,970
+你压根不知道自己吃的是……
+you just don't know what you...
+
+484
+00:20:41,970 --> 00:20:44,170
+没错，但谁说得准呢？我前几天买了样东西，
+Yes, but who knows? there was something I bought the other day,
+
+485
+00:20:44,170 --> 00:20:45,100
+还是有机的，
+it was organic,
+
+486
+00:20:45,100 --> 00:20:46,770
+你知道那玩意儿是用什么施肥的吗？
+do you know what it had been fertilized with?
+
+487
+00:20:46,770 --> 00:20:47,400
+屎。
+Crap
+
+488
+00:20:47,400 --> 00:20:51,120
+- 没错，墨西哥人的人粪！
+- 不可能是人粪，那违法。
+- yes, human excrement from Mexicans
+- Not human, it's illegal
+
+489
+00:20:51,120 --> 00:20:53,720
+- 就是！墨西哥人可以在你的食物上拉屎，然后他们……
+- 不行。
+- it is, Mexicans can crap on your food, and then they...
+- no.
+
+490
+00:20:53,720 --> 00:20:55,400
+这可是纯有机的！
+It's organic,
+
+491
+00:20:55,400 --> 00:20:57,450
+- 他们全跑去田里，
+- 才没有。
+- they're all out in the fields,
+- no.
+
+492
+00:20:57,671 --> 00:21:01,150
+戴着墨西哥草帽、披着斗篷，直接往你的香蕉上拉屎。
+With some subras and ponchos on, defecating on your bananas
+
+493
+00:21:01,150 --> 00:21:01,800
+容我说一句，
+Can I just say,
+
+494
+00:21:01,800 --> 00:21:03,720
+如果你接触种植庄稼、
+if your introduction into growing stuff
+
+495
+00:21:03,720 --> 00:21:05,820
+以及体验那种自我感觉良好的一切美妙感受，
+and all the wonderful things that makes you feel good about,
+
+496
+00:21:05,820 --> 00:21:08,820
+入门种的居然是大麦，难怪你这么愁眉苦脸。
+if your introduction is barley, no wonder you're miserable.
+
+497
+00:21:09,850 --> 00:21:11,100
+不过这事确实复杂，
+it is complicated though,
+
+498
+00:21:11,100 --> 00:21:12,970
+想吃得健康讲究太难了。
+eating well is complicated.
+
+499
+00:21:12,970 --> 00:21:14,720
+我意思是，我家的驴前几天死了，
+I mean my donkey died the other day,
+
+500
+00:21:14,720 --> 00:21:16,500
+我该吃了它吗？
+do I eat it?
+
+501
+00:21:16,900 --> 00:21:18,520
+你吃过驴肉吗？
+Have you ever eaten a donkey?
+
+502
+00:21:19,970 --> 00:21:21,320
+老兄，那是杰弗里啊！
+It was Jeffery, man.
+
+503
+00:21:21,320 --> 00:21:22,450
+你总不能……
+you can't...
+
+504
+00:21:22,720 --> 00:21:24,800
+- 我知道可以拿去灌香肠……
+- 加点迷迭香，来点百里香，
+- I know you could make sausage
+- a little bit of rosemary, a bit of time,
+
+505
+00:21:24,800 --> 00:21:26,520
+再拍点大蒜，把肉锤嫩，
+A bit of garlic, tenderize it,
+
+506
+00:21:26,520 --> 00:21:29,600
+你知道的，烤箱170度焖上6个小时，味道绝了。
+you know, 170 for about 6 hours, it will be lovely.
+
+507
+00:21:30,820 --> 00:21:32,500
+尤其是那条驴尾巴。
+especially the tail.
+
+508
+00:21:33,870 --> 00:21:35,250
+咱们能聊聊车吗？
+can we talk about cars?
+
+509
+00:21:35,250 --> 00:21:36,900
+行，聊车吧。
+yes, let's talk about cars.
+
+510
+00:21:37,150 --> 00:21:39,550
+你今天大老远跑来，显然主要目的是……我知道，
+You came down here obviously primarily, I know
+
+511
+00:21:39,550 --> 00:21:40,420
+我想干掉戈登，
+I wanted to beat Gordon,
+
+512
+00:21:40,420 --> 00:21:41,500
+咱们打开天窗说亮话，让……
+let's be honest about it, make...
+
+513
+00:21:41,500 --> 00:21:42,920
+因为戈登目前排在榜首。
+Coz Gordon is at the top
+
+514
+00:21:42,920 --> 00:21:45,200
+而且他跑出的成绩确实相当厉害，
+And he got a really good speed as well,
+
+515
+00:21:45,200 --> 00:21:46,350
+跑了1分46秒3。
+which was 46.3,
+
+516
+00:21:46,350 --> 00:21:48,170
+呃，上回我来这节目时，
+um last time I came on the show,
+
+517
+00:21:48,170 --> 00:21:49,170
+刚好排在戈登后面出场，
+it was just after Gordon,
+
+518
+00:21:49,170 --> 00:21:51,050
+开那辆老破车我俩都跑了1分50秒，
+and we both got 1:50 in the old moaner
+
+519
+00:21:51,050 --> 00:21:52,320
+没错，开老款车。
+in the old car, exactly.
+
+520
+00:21:52,320 --> 00:21:55,000
+至少成绩能跟他平起平坐，好歹保住了面子，
+And I kinda maintain pride by at least joining him,
+
+521
+00:21:55,000 --> 00:21:56,870
+我这周可是做足了准备
+I was so geared up this week
+
+522
+00:21:56,870 --> 00:21:59,950
+可不是嘛，他居然还真问：“我能不能早点去练车？
+You were, he actually said, can I come down early to practice
+
+523
+00:21:59,950 --> 00:22:01,320
+因为我真的很想干掉戈登。”
+coz I really wanna beat Gordon.
+
+524
+00:22:01,320 --> 00:22:01,900
+没错。
+Yeah.
+
+525
+00:22:01,900 --> 00:22:05,200
+结果这就是他大清早赶到这儿时迎接他的场面。
+And this was the scene that greeted him when he got here, early.
+
+526
+00:22:07,520 --> 00:22:08,120
+瞧瞧这景致，
+There it is,
+
+527
+00:22:08,120 --> 00:22:09,100
+车就在那儿，
+there are the cars,
+
+528
+00:22:09,100 --> 00:22:11,000
+眼巴巴等着你开出去霍霍呢。
+ready for you to go out in them.
+
+529
+00:22:11,500 --> 00:22:14,050
+我们还真特意等到了大雪纷飞，
+We did wait for the snow to fall,
+
+530
+00:22:14,050 --> 00:22:15,470
+然后你就真上了，是吧？
+and you went out, ok?
+
+531
+00:22:15,470 --> 00:22:16,600
+有谁想看……
+who'd like to see...
+
+532
+00:22:16,600 --> 00:22:18,650
+呃，我觉得我们正好拍到了一段练习片段，
+well I think we just got one bit of practice here,
+
+533
+00:22:18,650 --> 00:22:19,450
+大家想看吗？
+would you like to see that?
+
+534
+00:22:19,450 --> 00:22:20,320
+[观众]想！
+[crowd]Yeah.
+
+535
+00:22:20,320 --> 00:22:23,370
+放录像，看看杰米在上面是怎么一顿瞎折腾的，
+Let's play the tape of Jamie having a bit of bash here,
+
+536
+00:22:23,370 --> 00:22:24,420
+噢，要过弯了……这是哪儿来着？
+oh coming up...where are we?
+
+537
+00:22:24,420 --> 00:22:26,120
+肯定是倒数第二个弯角，
+bound to be the second to last corner,
+
+538
+00:22:26,450 --> 00:22:29,900
+坑过不少老司机，没错就是这儿，走线切得很漂亮……
+catches everybody out and yes it is, nice line through...
+
+539
+00:22:29,900 --> 00:22:32,700
+噢见鬼，要出事了
+oh no, that's wrong
+
+540
+00:22:33,270 --> 00:22:37,200
+噢不不不，噢——
+oh no no no oh
+
+541
+00:22:40,320 --> 00:22:41,920
+换备用车上场！
+Bring out the new car.
+
+542
+00:22:45,870 --> 00:22:48,950
+于是，那辆车就这么壮烈牺牲了
+And that was , that was the end of that car then
+
+543
+00:22:48,950 --> 00:22:51,500
+是的，我……其实……我觉得吧
+yeah, I, I actually... I... it was, I think
+
+544
+00:22:51,500 --> 00:22:52,070
+直接报废了
+totaled it
+
+545
+00:22:52,070 --> 00:22:54,700
+车轮飞了，水箱爆了，悬挂也折了，所以……
+I think the wheel, broken radiator and suspension, so
+
+546
+00:22:54,700 --> 00:22:55,400
+小事一桩
+No worries
+
+547
+00:22:55,400 --> 00:22:57,270
+- 下周我们就能修好， - 抱歉啦。
+- we'll have it fixed for next week, - sorry.
+
+548
+00:22:57,270 --> 00:23:00,020
+那之后呢，行吧？那之后，
+after that, ok? after that,
+
+549
+00:23:00,020 --> 00:23:01,420
+你就准备好做正式圈速了
+you were ready to do your lap
+
+550
+00:23:01,420 --> 00:23:02,270
+是的
+yes
+
+551
+00:23:02,270 --> 00:23:03,520
+对吧？目标是超越戈登，
+ok? Gordon to beat,
+
+552
+00:23:03,520 --> 00:23:06,520
+- 他跑了多少来着？1分46……
+- 我根本不可能做到，我深表怀疑
+- which is what?1:46...
+- I never, I just doubt it so much
+
+553
+00:23:06,520 --> 00:23:07,870
+有谁想看他的圈速表现？
+Who'd like to see his lap?
+
+554
+00:23:07,870 --> 00:23:09,050
+[观众]想！
+[crowd]yes
+
+555
+00:23:09,050 --> 00:23:10,600
+来吧，让我们瞧瞧。
+Here we go, let's have a look.
+
+556
+00:23:12,520 --> 00:23:14,220
+呃，看来你开这辆也没少冲出赛道嘛
+Well, it looks like you've been off in this one as well
+
+557
+00:23:14,220 --> 00:23:15,120
+没错，我也滑出去了
+yes, I had
+
+558
+00:23:16,520 --> 00:23:18,870
+来啦，瞧这架势挺凶狠的，
+here we go, looking keen,
+
+559
+00:23:19,300 --> 00:23:21,400
+这辆老车感觉怎么样？跟之前那辆老古董比呢？
+how is the old car? compared to the old old one?
+
+560
+00:23:21,400 --> 00:23:23,450
+在高速路段上要稍微更快那么一点点
+it's a little bit faster on the faster bits
+
+561
+00:23:23,450 --> 00:23:25,200
+- 确实。- 但它依旧是个吹风机
+- it is. - but it's still a hair dryer
+
+562
+00:23:26,720 --> 00:23:28,200
+那个弯走线很漂亮
+that's a nice line through that
+
+563
+00:23:28,200 --> 00:23:28,920
+谢了，杰里米。
+thank you Jeremy.
+
+564
+00:23:28,920 --> 00:23:29,850
+我简直是个天才
+I am very brilliant
+
+565
+00:23:30,020 --> 00:23:32,420
+噢你……亏你自己好意思夸自己，
+Oh you...though you say so yourself,
+
+566
+00:23:32,420 --> 00:23:34,550
+绕过芝加哥弯，又来了，
+around Chicago, here we go again,
+
+567
+00:23:34,550 --> 00:23:35,450
+看着不错
+looking good
+
+568
+00:23:36,670 --> 00:23:37,900
+动力突然断了，
+this power cuts out,
+
+569
+00:23:38,120 --> 00:23:39,720
+这车真是一坨烂货。
+this is a piece of crap, this car.
+
+570
+00:23:41,300 --> 00:23:43,200
+那你得明白这玩意儿叫断油保护，
+then you'll find that's called a rev-limiter,
+
+571
+00:23:43,200 --> 00:23:44,450
+绝大多数车都有，
+most cars have it,
+
+572
+00:23:44,800 --> 00:23:46,420
+- 噢，那里有点推头 - 看看这侧倾
+- oh, a bit of understeer there - Look at that lean
+
+573
+00:23:46,420 --> 00:23:50,420
+- 你车底拖着大半个萨里郡在跑呢
+- 不过切得挺贴的，不是吗？
+- you are towing around most of Surrey underneath there
+- That's so tight though, isn't it?
+
+574
+00:23:50,950 --> 00:23:52,270
+那下……其实相当漂亮，
+That was... actually that was very good,
+
+575
+00:23:52,270 --> 00:23:53,950
+刚才推头救得很好，
+that was well rescued from the last understeer,
+
+576
+00:23:53,950 --> 00:23:55,170
+你这里收油了吗？
+did you lift here?
+
+577
+00:23:55,900 --> 00:23:56,400
+你看起来……
+You do...
+
+578
+00:23:56,870 --> 00:23:59,650
+有时候真像个上特教班的，杰米，看那儿，
+Do look like special needs sometimes Jamie, there,
+
+579
+00:23:59,650 --> 00:24:00,670
+来喽……
+there we go...
+
+580
+00:24:01,300 --> 00:24:04,350
+杰里米，其实我学生时代大部分时间还真在特教班
+I actually spent most of my school years in special needs, Jeremy
+
+581
+00:24:04,350 --> 00:24:05,420
+行吧，这就到了……
+Yes, and there we are,
+
+582
+00:24:05,420 --> 00:24:07,520
+所以这一下……噢，相当漂亮，
+so that's...oh that's a good one,
+
+583
+00:24:07,520 --> 00:24:10,070
+绕过最后一个弯切入甘邦弯，
+and around the last one into Gambon,
+
+584
+00:24:10,070 --> 00:24:11,550
+- 你切进二挡了，
+- 冲啊冲啊冲啊……
+- you got into 2nd,
+- go on go on go on...
+
+585
+00:24:11,750 --> 00:24:13,200
+这向来很冒险，
+always a risk,
+
+586
+00:24:13,200 --> 00:24:16,250
+但冲啊，冲啊，冲啊，
+but come on, come on, come on,
+
+587
+00:24:16,251 --> 00:24:19,101
+漂亮，干得漂亮。
+nice one, nice one.
+
+588
+00:24:26,420 --> 00:24:28,400
+现在明摆着的事实是，
+now plainly and obviously,
+
+589
+00:24:29,570 --> 00:24:31,820
+戈登跑的那天又热、抓地力又极强，
+Gordon did have a sticky hot grippy day
+
+590
+00:24:31,820 --> 00:24:32,750
+所以你肯定超不过他了，
+so you're not gonna beat him,
+
+591
+00:24:32,750 --> 00:24:34,920
+那你觉得……考虑到这个的话……
+so where do you think, bearing in mind...
+
+592
+00:24:34,920 --> 00:24:38,050
+好吧，就算我干不过戈登，起码也得紧咬着他的屁股。
+well if I can't Gordon then at least let me be right up his arse.
+
+593
+00:24:43,300 --> 00:24:44,950
+我一时不知道该接什么话了，
+I don't know what to say now,
+
+594
+00:24:44,950 --> 00:24:47,800
+好吧，这是我们目前最快的一圈湿地成绩，
+ok this is the fastest wet lap we've had,
+
+595
+00:24:47,800 --> 00:24:50,170
+菲利普·格莱尼斯特，1分54秒3，
+Philip Glenister 1:54.3 ,
+
+596
+00:24:50,170 --> 00:24:51,820
+这些全是大热天跑的极速圈，
+these are super hot laps
+
+597
+00:24:51,820 --> 00:24:53,500
+不好意思，我们聊的是湿地成绩，
+excuse me, we're talking about wet laps,
+
+598
+00:24:53,500 --> 00:24:57,070
+现场的所有观众难道不觉得下雪完全……完全是两码事吗？
+does everyone in the audience not think that snow has a di... slightly different context?
+
+599
+00:24:57,070 --> 00:24:59,470
+- 抱歉，我可不记得录像里有下雪。
+- 这个嘛……
+- I'm sorry, I don't recall seeing snow there.
+- Well...
+
+600
+00:24:59,470 --> 00:25:01,070
+根本就没下雪！
+It wasn't snowing!
+
+601
+00:25:01,070 --> 00:25:02,750
+当时地是湿的。
+It was wet.
+
+602
+00:25:02,750 --> 00:25:03,200
+啊……
+Ah...
+
+603
+00:25:03,200 --> 00:25:04,150
+给你标个“湿地”吧。
+You're having a "wet"
+
+604
+00:25:04,150 --> 00:25:05,700
+写上“湿地/雪”吧。
+Put "w/s"
+
+605
+00:25:06,950 --> 00:25:08,020
+湿地，
+Wet,
+
+606
+00:25:08,470 --> 00:25:09,400
+而你的圈速是……
+and you did it...
+
+607
+00:25:09,400 --> 00:25:10,600
+你变慈悲了啊，杰里米。
+You've changed, Jeremy.
+
+608
+00:25:13,820 --> 00:25:15,700
+湿地圈速，1分……
+Wet lap, 1 minute,
+
+609
+00:25:15,700 --> 00:25:16,900
+好吧，那还算松了口气。
+Well that's sort of a relief.
+
+610
+00:25:17,300 --> 00:25:18,150
+40……
+40,
+
+611
+00:25:19,400 --> 00:25:22,700
+7点7秒！
+7 point 7 seconds
+
+612
+00:25:22,700 --> 00:25:23,650
+哎呀太近了，就差那么一点点！
+Oh so close, oh so close
+
+613
+00:25:23,650 --> 00:25:26,470
+太快……这成绩简直惊人，
+The fast...that is an astonishing time,
+
+614
+00:25:28,500 --> 00:25:29,570
+真的。
+genuinely.
+
+615
+00:25:30,720 --> 00:25:32,920
+我们彻底惊呆了，连斯提格都……
+We were absolutely staggered, the Stig...
+
+616
+00:25:41,900 --> 00:25:42,600
+啊
+ah
+
+617
+00:25:45,170 --> 00:25:46,870
+融化的雪，
+Melted snow,
+
+618
+00:25:48,370 --> 00:25:50,570
+- 说白了就是水。
+- 但这成绩很厉害了，不是吗？
+- which is water.
+- That's pretty good, though, isn't it?
+
+619
+00:25:50,570 --> 00:25:51,670
+何止是厉害，
+It's better than pretty good,
+
+620
+00:25:51,670 --> 00:25:53,000
+毫不夸张地讲，
+honestly and genuinely
+
+621
+00:25:53,000 --> 00:25:55,770
+斯提格当时就站在那目瞪……呃我们猜他是目瞪口呆了，
+the Stig is just standing open...well we think he's open mouthed
+
+622
+00:25:55,770 --> 00:25:58,100
+虽然看不出来，但他完全不敢相信你居然开得这么快。简直……
+it's hard to say, just can't believe how good you were. It's...
+
+623
+00:25:58,100 --> 00:25:59,250
+我觉得这全归功于斯提格教得好。
+All credits to the Stig I say.
+
+624
+00:25:59,250 --> 00:26:00,920
+不，全归功于你，也归功于一个事实：
+No, all credits to you, all credits to the fact
+
+625
+00:26:00,920 --> 00:26:05,050
+不知怎么搞的，全英国跑得最快的人好像全他妈是厨子。
+that somehow it seems that Britain's fastest people are chefs.
+
+626
+00:26:05,420 --> 00:26:07,020
+- 少来！
+- 天晓得为什么。
+-Come on!
+- Heaven knows why.
+
+627
+00:26:07,020 --> 00:26:08,420
+就当是满足一下我的虚荣心吧，
+just to massage my ego,
+
+628
+00:26:08,420 --> 00:26:10,000
+因为你知道的，我们做厨师的心气都很高，
+coz you know, our chefs are quite competitive,
+
+629
+00:26:10,000 --> 00:26:10,770
+我想知道的是，
+what I want to know
+
+630
+00:26:10,770 --> 00:26:15,700
+这湿地加融雪……到底能……按秒算能给我补回多少时间？
+is what does wet/melting snow... what... in seconds what does that give me back?
+
+631
+00:26:15,700 --> 00:26:17,170
+要我说的话，
+I would say,
+
+632
+00:26:17,170 --> 00:26:18,820
+戈登，实在对不住了啊，
+and I¡¯m really sorry about this Gordon
+
+633
+00:26:18,820 --> 00:26:20,770
+因为我知道你现在肯定正死死盯着电视呢，
+coz I know you're watching like this,
+
+634
+00:26:20,770 --> 00:26:22,150
+四秒。
+four.
+
+635
+00:26:22,670 --> 00:26:23,870
+（唱）爽翻了，走起！
+(SING) Come on now!
+
+636
+00:26:32,800 --> 00:26:35,320
+然后等剪辑时再见证奇迹……
+And then miraculously in the edit...
+
+637
+00:26:35,320 --> 00:26:37,200
+哎就，就今天一天，
+Oh just, just for today,
+
+638
+00:26:37,200 --> 00:26:39,620
+- 就把它挂在那儿，就今天一天。
+- 行，我就今天一天把它挂在最上面，
+- just, just keep it there, just for today.
+- I'll leave it up there just for today
+
+639
+00:26:39,620 --> 00:26:41,120
+不管怎样，掌声送给杰米·奥利弗！
+anyway, there you go, Jamie Oliver!
+
+640
+00:26:41,120 --> 00:26:42,150
+谢谢。
+Thank you.
+
+641
+00:26:48,703 --> 00:26:49,380
+那么
+Now
+
+642
+00:26:50,083 --> 00:26:52,679
+眼前这台是捷豹 XK8。
+Now, this is a Jaguar XK8.
+
+643
+00:26:52,806 --> 00:26:54,880
+上一季我们开过它，而且大家都很喜欢。
+We drove it on the last series and we loved it.
+
+644
+00:26:55,127 --> 00:26:57,803
+但我们心里其实一直都清楚，它不过是个配角，
+But we always sort of knew that it was a support actor really
+
+645
+00:26:57,989 --> 00:27:00,241
+就是给真正的重头戏热场的暖场嘉宾，
+a kind of warm-up man for the main event,
+
+646
+00:27:00,266 --> 00:27:02,569
+也就是那台机械增压的 XKR，
+the supercharged XKR,
+
+647
+00:27:02,687 --> 00:27:04,929
+不过那台车可没轮到我开。
+which I haven't been driving.
+
+648
+00:27:04,997 --> 00:27:07,387
+杰里米“大公无私”地替我挡下了这个美差。
+Jeremy selflessly protected me from that one.
+
+649
+00:27:14,658 --> 00:27:15,623
+就是它了。
+This is it.
+
+650
+00:27:23,671 --> 00:27:25,364
+它有大号轮毂，
+It has big wheels
+
+651
+00:27:26,033 --> 00:27:27,176
+引擎盖上有散热孔，
+vents in the bonnet
+
+652
+00:27:27,826 --> 00:27:30,171
+拉丝铝侧进气腮，还有个
+brushed aluminum gills and a sort of
+
+653
+00:27:30,205 --> 00:27:32,677
+酷似库特哈德那胡茬拉碴的硬朗下巴。
+stubbly Coulthardy chin
+
+654
+00:27:33,447 --> 00:27:39,017
+所以你可以把它看作戴了袖扣、配了块高档名表的普通版。
+So you can think of it as the standard car with cufflinks and a nice watch
+
+655
+00:27:43,286 --> 00:27:45,106
+不得不说，它卖相确实好。
+You've got to say, it looks good.
+
+656
+00:27:45,309 --> 00:27:48,424
+尤其是侧面线条，简直美若天仙。
+In profile especially, it's just stunning.
+
+657
+00:27:54,174 --> 00:27:58,163
+但遗憾的是，内饰我就实在夸不出口了。
+Sadly however I can't say the same for the interior.
+
+658
+00:27:59,831 --> 00:28:02,321
+对不住了，但坐在这车里感觉
+I'm sorry but this just doesn't feel
+
+659
+00:28:02,363 --> 00:28:05,617
+根本不像一台值7万3千英镑的货。我是说……
+like a 73,000 pound car. I mean...
+
+660
+00:28:05,677 --> 00:28:09,633
+奔驰会给你带驾驶按摩功能的座椅，
+Mercedes give you seats that massage you as you drive along
+
+661
+00:28:09,633 --> 00:28:11,733
+宝马会给你配 i-Drive 系统，
+and BMW gives you i-Drive
+
+662
+00:28:12,054 --> 00:28:13,392
+而我在这里得到的，
+All I've got in here,
+
+663
+00:28:14,332 --> 00:28:15,839
+就只有大概五英亩那么大的一片……
+a sort of five acres of
+
+664
+00:28:17,117 --> 00:28:18,082
+锡箔纸。
+tin-foil.
+
+665
+00:28:25,638 --> 00:28:29,719
+那台 4.2 升机械增压 V8 发动机也挺让人失望。
+The supercharged 4.2 litre V8 is a bit disappointing too.
+
+666
+00:28:29,736 --> 00:28:32,792
+因为它基本就跟上一代老款 XKR 上
+Because it's pretty much exactly the same as the
+
+667
+00:28:32,868 --> 00:28:37,473
+装的那台 4.2 升机械增压 V8 一模一样。
+supercharged 4.2 litre V8 they put in the old XKR.
+
+668
+00:28:40,384 --> 00:28:42,881
+奔驰每隔五分钟就捣鼓出一款新引擎；
+Merck gives us a new engine every five minutes.
+
+669
+00:28:43,101 --> 00:28:47,179
+奥迪就趁我说刚才那句话的工夫，又研发了款全新 V8；
+Audi designed a whole new V8 while I was just saying that.
+
+670
+00:28:47,552 --> 00:28:51,069
+可捷豹造这台发动机，造了都快十年了。
+But Jag's been making this one for nearly ten years now.
+
+671
+00:28:51,355 --> 00:28:52,997
+所以赶紧的吧，麻溜点！
+So come on, chop, chop!
+
+672
+00:28:54,665 --> 00:28:57,878
+没错，它确实有 420 匹马力，但是……
+Yes it generates 420 BHP, but...
+
+673
+00:28:57,878 --> 00:29:01,959
+奔驰现在的发动机随随便便都干到 520 匹了，
+Merck is now making engines with 520 BHP,
+
+674
+00:29:02,135 --> 00:29:04,691
+宝马也紧随其后。
+and BMW isn't far behind.
+
+675
+00:29:06,089 --> 00:29:09,365
+唯一值得庆幸的是，这台 XKR 还算比较轻。
+The only good thing is that the XKR is quite light.
+
+676
+00:29:09,365 --> 00:29:12,065
+所以尽管马力没那么排山倒海，它依然……
+So while it doesn't have a shed-load of power, it's still¡­
+
+677
+00:29:13,284 --> 00:29:14,825
+挺快的。
+quite fast.
+
+678
+00:29:21,216 --> 00:29:24,797
+0 到 60 英里加速只要 4.9 秒。
+You pass 60 miles an hour in 4.9 seconds.
+
+679
+00:29:25,085 --> 00:29:28,680
+破百英里只要 13 秒，这确实不赖。
+You pass 100 in 13 seconds, and that's good.
+
+680
+00:29:29,055 --> 00:29:33,381
+但想象一下，要是它马力再大一点，该有多爽啊！
+But imagine how good it would be if it had more POWER!
+
+681
+00:29:41,100 --> 00:29:43,030
+看到这儿你可能会想，
+Now you might think at this point
+
+682
+00:29:43,089 --> 00:29:47,870
+“得了吧，不过是家囊中羞涩的公司造出来的半吊子货”
+"Well there you go, it's a half-arse car made by a cash strapped company"
+
+683
+00:29:48,306 --> 00:29:51,354
+“根本没法跟那些德国对手相提并论。”
+"and that it is no match for its German rivals."
+
+684
+00:29:54,682 --> 00:29:56,863
+那你就大错特错了，因为这台车……
+Then you'd be wrong, because this car¡­
+
+685
+00:29:58,032 --> 00:29:59,386
+棒极了！
+is brilliant!
+
+686
+00:30:10,679 --> 00:30:12,679
+普通版的声音就已经挺不错了，
+The standard car sounds pretty good
+
+687
+00:30:12,696 --> 00:30:14,737
+但这台更低沉，也更粗暴。
+but this is deeper, ruder.
+
+688
+00:30:15,295 --> 00:30:17,631
+听起来就像汤姆·琼斯在纳斯卡赛车里漱口。
+Like Tom Jones gaggling in NASCAR.
+
+689
+00:30:18,613 --> 00:30:20,044
+接着就是它的操控了。
+And then is the handling.
+
+690
+00:30:25,602 --> 00:30:29,132
+它的底盘简直绝妙无比。
+It has got an absolutely fabulous chassis.
+
+691
+00:30:29,716 --> 00:30:34,660
+如果你是个疯子，那这就是全世界最好开的车。
+It is the easiest car in the world to drive if you are lunatic.
+
+692
+00:30:35,142 --> 00:30:38,215
+说真的，若论一边疯狂甩尾，一边
+Honestly I know of nothing else that's this good for
+
+693
+00:30:38,723 --> 00:30:41,856
+任由车尾冒出滚滚青烟，没谁比它更在行了。
+slithering about the smoke pouring off the back end.
+
+694
+00:30:44,455 --> 00:30:45,284
+瞧，走起。
+Look here we go.
+
+695
+00:30:45,775 --> 00:30:50,837
+漂起来了，还在滑，还在滑，毫无危险，继续滑。
+Sliding, still sliding, still sliding, no danger, still sliding.
+
+696
+00:30:51,494 --> 00:30:55,563
+我是说，它能以差不多110英里的时速轻松完成动力起漂！
+I mean that's doing power slides at like 110 mph, easily!
+
+697
+00:30:56,723 --> 00:30:57,699
+这简直……
+This is just¡­
+
+698
+00:30:59,283 --> 00:31:02,643
+衬得宝马和奔驰就跟木头疙瘩做的一样呆板。
+makes a BMW or a Mercedes look like they're made of wood.
+
+699
+00:31:10,306 --> 00:31:12,769
+最妙的是，当你摘下
+And the great thing is that, when you take your
+
+700
+00:31:13,222 --> 00:31:15,626
+疯癫的帽子，安安稳稳地开时，
+looney-tunes hat off, and just settle down.
+
+701
+00:31:16,142 --> 00:31:18,798
+它又变得格外安静舒适。
+It becomes all quite and comfortable.
+
+702
+00:31:19,712 --> 00:31:23,380
+它真是不折不扣的“吉米医生与吉姆先生”。
+It really is Dr. Jimmy and Mr. Jim.
+
+703
+00:31:29,633 --> 00:31:30,265
+没错，
+Yes
+
+704
+00:31:30,561 --> 00:31:34,404
+比起德国对手，它的马力更小，花里胡哨的配置也更少。
+it has less power and fewer toys than its German rivals.
+
+705
+00:31:34,599 --> 00:31:37,468
+而且用料也没那么让人满意。
+And it's made with less satisfactory ingredients.
+
+706
+00:31:38,196 --> 00:31:42,241
+但它便宜了一大截，而且抱歉我又得唠叨这点了，
+But it is a damn sight cheaper and I'm sorry to keep hopping on about this,
+
+707
+00:31:42,701 --> 00:31:44,987
+它长得也好看得多。
+a damn sight better looking as well.
+
+708
+00:31:47,159 --> 00:31:50,029
+我知道眼前这台的颜色格外扎眼难看，
+I know that is a particularly horrible colour.
+
+709
+00:31:50,055 --> 00:31:52,154
+但想象一下它涂成银色或黑色。
+But imagine it in silver or black.
+
+710
+00:31:53,026 --> 00:31:57,142
+然后再想象一下，放弃它转头去买台奔驰或者宝马。
+And then imagine walking away from it and buying a Mercedes or a BMW instead.
+
+711
+00:31:59,028 --> 00:32:00,179
+反正我是下不去这个手。
+I'm not sure I could.
+
+712
+00:32:02,457 --> 00:32:05,416
+啊，没错，你肯定觉得这些挺有意思，
+Ah. Yes you're thinking this is all very interesting.
+
+713
+00:32:05,638 --> 00:32:08,990
+但捷豹的最大死敌、它的同门姐妹又如何呢？
+But what about the Jag's main rival, its sister,
+
+714
+00:32:10,524 --> 00:32:11,328
+就是它。
+This.
+
+715
+00:32:16,293 --> 00:32:19,186
+阿斯顿·马丁 V8 Vantage。
+The Aston Martin V8 Vantage.
+
+716
+00:32:20,676 --> 00:32:22,632
+它长得甚至比捷豹还要漂亮，
+It's even better looking than the Jag,
+
+717
+00:32:23,024 --> 00:32:24,337
+而且这还只是开胃菜。
+and that's just the start.
+
+718
+00:32:26,314 --> 00:32:28,253
+它的声浪也更炸裂。
+It's also even louder.
+
+719
+00:32:29,734 --> 00:32:31,736
+开起来也更硬朗，
+It's harder too,
+
+720
+00:32:32,177 --> 00:32:33,573
+凶悍得多，
+much more aggressive,
+
+721
+00:32:35,141 --> 00:32:37,732
+紧绷得多，也暴躁得多。
+much more taut and angry.
+
+722
+00:32:45,621 --> 00:32:47,491
+而且这可是一辆阿斯顿·马丁，
+And it's an Aston Martin,
+
+723
+00:32:47,593 --> 00:32:51,336
+跟捷豹比起来，简直就是同花顺碾压两对。
+which is a royal flush to the Jag's two pairs
+
+724
+00:33:01,738 --> 00:33:03,118
+但问题是，当你……
+The thing is though, as you...
+
+725
+00:33:04,007 --> 00:33:07,258
+不停地倒腾着手动挡，而且……
+stir away on the manual gearbox and you...
+
+726
+00:33:07,258 --> 00:33:10,367
+任由声浪的洪流将你吞没，
+ride the wave of noise
+
+727
+00:33:11,163 --> 00:33:15,152
+感受着抓地力爆表的倍耐力轮胎死死咬住地面，
+feel the grip from these super sticky Pirelli tires,
+
+728
+00:33:16,439 --> 00:33:17,787
+你才会猛然发现，
+you realize,
+
+729
+00:33:19,214 --> 00:33:22,262
+你其实根本就甩不掉后面那台捷豹。
+you ain't actually pulling away from the Jaguar.
+
+730
+00:33:26,358 --> 00:33:28,153
+感觉上我确实更快，
+Feels like I'm going faster,
+
+731
+00:33:29,575 --> 00:33:31,708
+听起来我确实更快，
+sounds like I'm going faster,
+
+732
+00:33:33,548 --> 00:33:35,842
+我的心跳也明显飙得飞快。
+and my heart is certainly beating faster.
+
+733
+00:33:35,893 --> 00:33:41,198
+但我的后视镜里，依然塞满了那台捷豹。
+But, my rear view mirror is still full of Jag.
+
+734
+00:33:58,801 --> 00:34:01,448
+你肯定会觉得在大直道上全油门狂飙，
+You must imagine that flat out in a straight line,
+
+735
+00:34:03,445 --> 00:34:06,896
+阿斯顿肯定能把它甩开，因为捷豹限速155英里，
+the Aston will pull away 'cause the Jag's limited to 155,
+
+736
+00:34:06,896 --> 00:34:07,946
+但哈哈！
+but haha¡­
+
+737
+00:34:09,498 --> 00:34:13,748
+我们前几天刚测了一台，那台捷豹轻轻松松飙到了175！
+we tested one the other day and the Jag sailed up to 175.
+
+738
+00:34:16,203 --> 00:34:19,221
+所以，尽管阿斯顿更让人热血沸腾，
+So, while the Aston is more exciting,
+
+739
+00:34:23,681 --> 00:34:25,592
+但捷豹的马力更强。
+the Jaguar is more powerful.
+
+740
+00:34:26,743 --> 00:34:30,205
+它还便宜了一万两千五百英镑。
+It's also 12,500 ponds less expensive.
+
+741
+00:34:30,544 --> 00:34:31,644
+坐着也更舒服。
+It's more comfortable.
+
+742
+00:34:32,025 --> 00:34:36,571
+配置也更豪华，全真皮内饰、卫星导航应有尽有。
+It's better equipped with goodies like full leather and satellite navigation.
+
+743
+00:34:39,129 --> 00:34:41,356
+而且它后排还有两个小座椅。
+And it's got two small seats in the back.
+
+744
+00:34:41,408 --> 00:34:44,244
+所以实用性也稍微好那么一点点。
+So it's a bit more practical as well.
+
+745
+00:34:51,401 --> 00:34:55,921
+论感性层面，这台车能吊打奔驰和宝马的一切货色，
+Emotionally then, this car beats anything from Mercedes and BMW
+
+746
+00:34:56,344 --> 00:34:57,368
+而论综合得分，
+and on points
+
+747
+00:34:58,122 --> 00:34:59,948
+它甚至连自己的同门姊妹车都赢了。
+it beats its sister as well.
+
+748
+00:35:00,951 --> 00:35:02,187
+一句话，
+It is quite simply,
+
+749
+00:35:02,982 --> 00:35:04,362
+太绝了！
+spectacular!
+
+750
+00:35:08,701 --> 00:35:10,183
+是啊。而且你知道吗……
+Yeah. And you know¡­
+
+751
+00:35:10,462 --> 00:35:12,697
+我当时其实正在拍……
+That's what I was actually filming¡­
+
+752
+00:35:13,112 --> 00:35:16,071
+你出事撞车那天，我其实就在拍这部片子。
+I was actually making that film the day you crashed.
+
+753
+00:35:16,071 --> 00:35:18,509
+是啊，不过你那天过得可比我强多了。
+Yeah, a much better day than I did though.
+
+754
+00:35:18,953 --> 00:35:20,240
+废话，那是因为我车技比你好。
+Well, that's because I am a better driver.
+
+755
+00:35:20,714 --> 00:35:22,750
+- 得了吧。
+- 我不过……我不过是乖乖停在了砂石缓冲区里而已。
+- Whatever.
+- I just¡­ I just stayed on the gravel.
+
+756
+00:35:22,766 --> 00:35:25,171
+行了听着。还记得我刚才说……
+Anyway, listen. You know that thing I said about¡­
+
+757
+00:35:25,780 --> 00:35:28,642
+买这车是因为它后排多了两个座椅。
+You'd buy this because it's got two extra seats in the back.
+
+758
+00:35:28,819 --> 00:35:30,277
+- 对，没错。
+- 阿斯顿后排可一个座儿都没有。
+- Yeah, yeah.
+- The Aston hasn't got any.
+
+759
+00:35:30,319 --> 00:35:31,673
+- 根本无关紧要。
+- 为啥？
+- Irrelevant.
+- Why?
+
+760
+00:35:31,716 --> 00:35:35,230
+因为你养伤缺席的那阵子，好吧，成天满脑子以为自己是条狗。
+Because while you're away, OK, imagining that you're a dog.
+
+761
+00:35:35,518 --> 00:35:37,502
+- 怂货。
+- 怂就怂吧，随便你。
+- Chicken.
+- Chicken. Whatever, OK.
+
+762
+00:35:37,637 --> 00:35:41,455
+欧盟出台规定说，要是你这身高，就得坐儿童加高垫。
+The EU had said that now if you're your height, you've got to have like a booster seat.
+
+763
+00:35:41,958 --> 00:35:43,481
+- 没开玩笑，真有这规定。
+- 是啊。
+- No seriously, they have.
+- Yeah.
+
+764
+00:35:43,558 --> 00:35:44,582
+我知道，线划到了这儿。
+I know it came to here.
+
+765
+00:35:44,590 --> 00:35:46,239
+问题是，想塞进那车后座，就必须是你这小身板，
+The thing is that to fit in there you got to be your height,
+
+766
+00:35:46,239 --> 00:35:48,000
+可现在你又得加个坐垫。
+but now you've got to have a seat.
+
+767
+00:35:48,559 --> 00:35:50,291
+- 对吧？
+- 也就是说，你根本坐不进去了。
+- Yeah?
+- Which means you aren't gonna fit.
+
+768
+00:35:50,308 --> 00:35:51,366
+哎呀，加了坐垫你就太高了……
+Oh, you'll be too big with a booster seat...
+
+769
+00:35:51,366 --> 00:35:53,068
+而且再也没人能坐进后排了。
+And no one will ever be able to get in the back.
+
+770
+00:35:53,068 --> 00:35:56,421
+那所有后座挤得要命的2+2跑车岂不都废了？
+That's gonna be the same for all these 2+2s with tiny little back seats then
+
+771
+00:35:56,463 --> 00:35:59,595
+没错，欧盟直接让它们成了摆设，冲这点你还不如买阿斯顿·马丁。
+Exactly, the EU's rendered them useless, so you might as well buy the Aston on that front.
+
+772
+00:35:59,976 --> 00:36:03,467
+不过话说回来，我依然非常喜欢这辆车。
+Thing is though, I do still really adore this car.
+
+773
+00:36:03,470 --> 00:36:07,136
+现在，我们得看看它在咱们赛道上能跑多快了。
+And now we've gotta find out how fast it goes round our track.
+
+774
+00:36:07,136 --> 00:36:10,065
+这当然意味着，又该把它交给我们驯养的赛车手了。
+And that of course means handing it over to our tame racing driver.
+
+775
+00:36:10,751 --> 00:36:14,653
+有人说，他曾拿微波炉砸过流浪汉；
+Some say he once threw a microwave oven at a tramp,
+
+776
+00:36:16,624 --> 00:36:20,181
+还有人说，他远在所有人之前就看穿了杰德·古迪是个……
+and that long before anyone else he realized that Jade Goody was
+
+777
+00:36:20,562 --> 00:36:23,590
+种族主义、猪头猪脑、纯属浪费器官血肉的渣滓。
+a racist pig-faced waste of blood and organs.
+
+778
+00:36:28,335 --> 00:36:29,119
+但他并没有。
+But he didn't.
+
+779
+00:36:37,732 --> 00:36:40,716
+我们只知道，他叫斯提格！
+All we know is he's called the Stig.
+
+780
+00:36:42,551 --> 00:36:43,575
+他起步了！
+And he's off.
+
+781
+00:36:44,490 --> 00:36:48,733
+能听到机械增压器的尖啸，盖过了雷鸣般的V8低音。
+We can hear the super charger whining over that thunderous V8 base line.
+
+782
+00:36:49,359 --> 00:36:51,124
+看看外面这赛道有多湿滑。
+Just look how wet it is out there.
+
+783
+00:36:52,732 --> 00:36:55,555
+好，斯提格毫无惧色地切入弯角。
+Ok Stig ploughs fearlessly into that corner.
+
+784
+00:36:55,555 --> 00:36:56,596
+<i>收音机：我改变主意了。</i>
+<i>Radio: I change my mind.</i>
+
+785
+00:36:57,205 --> 00:37:01,069
+<i>收音机：我想用我的余生，好好爱你。</i>
+<i>I want the chance to spend the rest of my life, loving you.</i>
+
+786
+00:37:01,484 --> 00:37:05,670
+天呐，斯提格似乎迷上了言情小说的有声书光盘。
+Oh dear, the Stig seems to have developed a taste for romantic fiction on CD.
+
+787
+00:37:06,111 --> 00:37:09,147
+好，通过芝加哥弯，跟开卡丁车一样甩来甩去。
+OK, he's through Chicago, sliding around like a go-cart.
+
+788
+00:37:09,231 --> 00:37:10,502
+现在进锤头弯了。
+Here he is coming into Hammerhead.
+
+789
+00:37:11,061 --> 00:37:13,211
+到处都是融雪汇成的积水。
+Plagues of melted snow every where.
+
+790
+00:37:13,253 --> 00:37:15,768
+会出现推头吗？一点都没有，瞧瞧这走位！
+Is he gonna understeer? Not a bit of it. Look at that!
+
+791
+00:37:15,776 --> 00:37:18,367
+你看，没有哪辆车漂移起来能像它这么顺。
+You see there is no car that drifts like this one.
+
+792
+00:37:20,838 --> 00:37:22,144
+车尾都在水上漂了。
+With the backward plaining.
+
+793
+00:37:22,398 --> 00:37:26,445
+<i>收音机：还有她那位金发红颜的阿喀琉斯……</i>
+<i>Radio: With her own golden haired ruddy faced Archilles</i>
+
+794
+00:37:27,257 --> 00:37:29,060
+现在真是油门踩到底了。
+He's really got the hammer down now.
+
+795
+00:37:29,060 --> 00:37:32,802
+你能看到车身在积水上剧烈晃动，斯提格却面不改色。
+you see the car twitching over the standing water. Stig isn't faced.
+
+796
+00:37:33,214 --> 00:37:35,762
+或许是因为他老家母星就是片大沼泽吧。
+Maybe it's 'cause his home planet is quite swampy.
+
+797
+00:37:36,101 --> 00:37:37,764
+呃……进入倒数第二个弯，
+Err¡­penultimate to the corner,
+
+798
+00:37:38,120 --> 00:37:40,279
+碾过了草地，现在来到甘邦弯，
+dips into the grass, Gambon now,
+
+799
+00:37:40,304 --> 00:37:43,354
+大力切入，一把把车横甩过去，
+hard in, chucks it side ways
+
+800
+00:37:43,667 --> 00:37:45,572
+冲线！
+and across the line!
+
+801
+00:37:47,436 --> 00:37:47,766
+那么
+Now
+
+802
+00:37:50,174 --> 00:37:51,258
+他的成绩是……
+he did it...
+
+803
+00:37:52,432 --> 00:37:54,743
+1分34秒7，
+in 1:34.7,
+
+804
+00:37:54,751 --> 00:37:58,705
+这显然惨不忍睹，但我觉得当时赛道确实非常、非常、非常湿滑。
+which is obvious pathetic, but I think it was really very very very wet.
+
+805
+00:37:58,739 --> 00:38:00,652
+呃……我们本来还打算随后让阿斯顿也去跑一圈的，
+Err.. we were gonna put the Aston round afterwards,
+
+806
+00:38:00,660 --> 00:38:02,582
+结果又开始下雪了，所以别怪我们
+but it started to snow again, so don't blame us
+
+807
+00:38:02,607 --> 00:38:03,572
+呃……因为我们根本懒得去折腾，
+Err... 'cause we didn't bother,
+
+808
+00:38:03,801 --> 00:38:05,672
+也别怪斯提格，学学其他人——
+don't blame the Stig do what every one else does.
+
+809
+00:38:05,994 --> 00:38:07,273
+统统甩锅给全球变暖就成了。
+And just blame Global Warming.
+
+810
+00:38:08,949 --> 00:38:11,268
+此前，我们出发执行一项任务，
+Now earlier on we set out on a mission
+
+811
+00:38:11,268 --> 00:38:14,519
+旨在证明修路根本用不着拖那么久。
+to demonstrate that roadworks needn't take so long
+
+812
+00:38:14,824 --> 00:38:21,410
+沃里克郡议会估计，重铺D5481公路一段1.5英里的路面得花上整整5天。
+Warwickshire council reckoned it will take 5 days to resurface a 1.5 mile stretch of the D5481.
+
+813
+00:38:21,876 --> 00:38:26,100
+但我们觉得，只要埋头苦干，别被那些繁文缛节的“健康与安全规范”捆住手脚，
+But we reckoned, by working hard, and not get all tangled up in Health and Safty
+
+814
+00:38:26,278 --> 00:38:28,564
+我们区区24小时就能搞定。
+We could do it in just 24 hours
+
+815
+00:38:29,023 --> 00:38:31,953
+在上一段节目告一段落时，我感觉进展其实相当顺利。
+And when we left the action it was going really rather well I thought.
+
+816
+00:38:31,995 --> 00:38:35,872
+这边的哈蒙德在采石场，确保源源不断地送来新鲜沥青，
+Hammond here was down at the quarry keeping up a steady stream of fresh tarmac
+
+817
+00:38:36,193 --> 00:38:38,546
+我开着摊铺机在路上摊铺，
+I was driving a paver laying it on the road
+
+818
+00:38:38,572 --> 00:38:41,456
+而杰里米则肩负着至关重要的重任——
+and Jeremy was fulfilling the vital role
+
+819
+00:38:41,507 --> 00:38:43,844
+拿着大喇叭冲所有人大呼小叫。
+of shouting at everyone down a megaphone.
+
+820
+00:38:50,223 --> 00:38:51,538
+快点！给我使劲干！
+Come on! Put it back into it.
+
+821
+00:38:51,563 --> 00:38:53,299
+你，伙计，过来，我给你示范一下。
+You, man, here, let me show you.
+
+822
+00:38:54,585 --> 00:38:57,413
+但紧接着，一切突然全乱套了。
+But then all of a sudden everything went wrong.
+
+823
+00:38:58,860 --> 00:38:59,961
+沥青用光了！
+Run out of tarmac!
+
+824
+00:39:00,582 --> 00:39:01,759
+什么叫用光了？
+What do you mean you've run out?
+
+825
+00:39:01,962 --> 00:39:03,495
+因为哈蒙德的货车还没到。
+For Hammonds lorry's not here.
+
+826
+00:39:03,613 --> 00:39:04,987
+我们一共需要一千吨。
+We need a thousand tons.
+
+827
+00:39:05,351 --> 00:39:08,111
+而他那一卡车拉来的，只够铺眼前那一小截。
+And his lorry load only does that little stretch there.
+
+828
+00:39:08,475 --> 00:39:09,982
+要是他不能尽快送过来，
+And if he doesn't get it here quick enough
+
+829
+00:39:09,982 --> 00:39:12,497
+那层沥青黏合剂就会硬化失效，粘不牢了。
+that bitumen stuff goes off and it won't stick.
+
+830
+00:39:13,157 --> 00:39:14,890
+<i>哈蒙德，我们断料了！</i>
+<i>Hammond we're out!</i>
+
+831
+00:39:15,330 --> 00:39:16,325
+我们才铺了100英尺。
+We've done 100 feet.
+
+832
+00:39:16,325 --> 00:39:18,636
+<i> 你到底搞了几辆卡车在运？</i>
+<i> How many trucks have you got working on this?</i>
+
+833
+00:39:18,636 --> 00:39:19,911
+我们这儿现在有三辆，
+We've got three in here now
+
+834
+00:39:19,911 --> 00:39:22,772
+我能看见一辆正在装货，一辆在地磅上过磅。
+We've got one be loaded one on the way bridge that I can see.
+
+835
+00:39:22,772 --> 00:39:24,559
+<i> 而且我……我这儿根本塞不下更多卡车了。</i>
+<i> And I am... I can't get anymore in it.</i>
+
+836
+00:39:24,694 --> 00:39:26,667
+你总共才弄来五辆卡车？行吧。
+You've only got five trucks? Right.
+
+837
+00:39:26,701 --> 00:39:29,240
+<i> 今天附近还有别的地方在修路吗？</i>
+<i> Are there any other roadwork's going on today?</i>
+
+838
+00:39:30,502 --> 00:39:32,585
+<i>- 干嘛？去顺走人家的沥青？
+- 没错。</i>
+<i>- What? That we can nick their tarmac?
+- Yeah.</i>
+
+839
+00:39:33,890 --> 00:39:35,955
+我喜欢你这主意，够损的。
+I like your thinking there. that's quite devious.
+
+840
+00:39:36,243 --> 00:39:37,572
+<i> 去截胡他们的沥青。</i>
+<i> Nick their tarmac.</i>
+
+841
+00:39:37,820 --> 00:39:39,454
+你下一趟活，知道是要送去哪儿吗？
+Your next job, do you know where it's going?
+
+842
+00:39:39,809 --> 00:39:41,561
+是要送到……你看，那根本不是我们要修的路！
+Is it going to... You see that's not our road
+
+843
+00:39:41,561 --> 00:39:43,237
+那有个屁用！送我们那儿去！
+Well that's useless. Send it to us.
+
+844
+00:39:43,390 --> 00:39:45,786
+千万别给他们送，是我们需要料！
+Just don't send it to them. We need it.
+
+845
+00:39:46,170 --> 00:39:48,294
+赶紧火力全开！还有，把那挂历给我换了。
+Crack now to the max. And change that calendar.
+
+846
+00:39:48,294 --> 00:39:49,903
+看着未免也太安逸祥和了。
+It's far too calming and relaxing.
+
+847
+00:39:53,734 --> 00:39:56,451
+动起来！快点！走啊！
+Move! Come on! Go!
+
+848
+00:39:56,477 --> 00:39:58,568
+搞快点，麻溜点干！
+Fast, Get on with it!
+
+849
+00:39:59,076 --> 00:40:00,261
+哈哈，又装好一辆！
+Hahahh, another one.
+
+850
+00:40:00,269 --> 00:40:01,288
+我直接挥舞起小皮鞭，
+I cracked the whip
+
+851
+00:40:01,406 --> 00:40:03,726
+甚至还推出了一套奖励方案。
+and even introduced an incentive scheme.
+
+852
+00:40:03,726 --> 00:40:05,928
+我要你开得跟一阵风一样快，明白吗？
+I want you to go like the wind, OK?
+
+853
+00:40:06,258 --> 00:40:08,197
+超速罚单全都由我来掏！
+I'll pay you speeding fines.
+
+854
+00:40:09,148 --> 00:40:12,280
+但残酷的现实是，采石场离这儿足足有一小时车程。
+But the fact remained that the quarry was an hour away.
+
+855
+00:40:12,288 --> 00:40:14,092
+而且哈蒙德手里总共就只有五辆卡车。
+And Hammond only had five trucks.
+
+856
+00:40:14,252 --> 00:40:15,819
+这根本不够用。
+That wasn't enough.
+
+857
+00:40:17,093 --> 00:40:20,721
+修路之所以总要拖拖拉拉耗很久，
+The main reason why roadworks take a long time
+
+858
+00:40:21,356 --> 00:40:24,684
+最主要的原因就是运料卡车送得根本不够连贯。
+is because the trucks just don't come regularly enough.
+
+859
+00:40:24,684 --> 00:40:26,944
+- 那个跟你……一起干活的工人。
+- 对。
+- That guy that... you're working with.
+- Yeah.
+
+860
+00:40:27,147 --> 00:40:28,991
+他说他干这行已经干了32年，
+He said he's worked till the way it is now for 32 years
+
+861
+00:40:28,991 --> 00:40:31,539
+其中有24年都在原地杵着等卡车。
+24 of which has been standing around waiting for the trucks.
+
+862
+00:40:31,827 --> 00:40:32,907
+我们早就跟哈蒙德挑明了这事。
+We told Hammond this.
+
+863
+00:40:33,085 --> 00:40:36,776
+我们对哈蒙德千叮万嘱：唯一重要的事情，就是让卡车源源不断地送过来。
+We said to Hammond it's the only important thing: keep the trucks coming.
+
+864
+00:40:37,801 --> 00:40:40,138
+沥青确实还在陆陆续续地送过来，
+The tarmac did continued to dribbled in,
+
+865
+00:40:40,138 --> 00:40:41,856
+但简直慢得令人发指。而就在这时——
+but far too slowly, and then
+
+866
+00:40:42,085 --> 00:40:43,075
+视线转回采石场……
+Back at the quarry
+
+867
+00:40:45,024 --> 00:40:46,370
+怎么停工了？机器怎么停了？！
+What's killed it? Why is it stopped?
+
+868
+00:40:46,396 --> 00:40:47,293
+按了急停。
+Emergency stop.
+
+869
+00:40:47,437 --> 00:40:49,100
+好端端的按什么急停？！又没……
+Why is it in the emergency stop? There is no...
+
+870
+00:40:49,362 --> 00:40:50,895
+谁靠上去了？我们靠到什么了？
+Who's lent, we've lent on the what?
+
+871
+00:40:51,580 --> 00:40:52,786
+- 谁干的……
+- 你的人。
+- Who's...
+- Your man.
+
+872
+00:40:52,845 --> 00:40:55,376
+摄像师靠……我们靠到了那个紧急……
+The camera man lent... we lent on the emergency...
+
+873
+00:40:56,902 --> 00:40:57,960
+你把整座搅拌站都给停了？！
+You stopped the plant?
+
+874
+00:40:58,883 --> 00:41:00,974
+<i>对，我们……呃，好像稍微碰到了急停开关。</i>
+<i>Yeah, we sort of hit the emergency stop a bit.</i>
+
+875
+00:41:03,125 --> 00:41:03,972
+你碰那玩意儿干什么？！
+Why have you done that?
+
+876
+00:41:04,116 --> 00:41:05,267
+<i>这纯属一场该死的意外，好吗！</i>
+<i> Well this was a bloody accident, wasn't it.</i>
+
+877
+00:41:05,267 --> 00:41:06,994
+<i>我又不是故意的！</i>
+<i> I didn't do it on purpose.</i>
+
+878
+00:41:07,316 --> 00:41:09,008
+理查德，理查德，理查德……
+Richard, Richard, Richard
+
+879
+00:41:09,152 --> 00:41:12,038
+我给你提个真诚的建议：别回这儿来了。
+I'm gonna make a suggestion: Don't come back here.
+
+880
+00:41:12,690 --> 00:41:13,977
+千万……千万别回来。
+Don't... don't come back,
+
+881
+00:41:14,095 --> 00:41:16,339
+滚开，滚去火地……
+go away, go to Tierra del...
+
+882
+00:41:16,567 --> 00:41:20,597
+火地岛去吧，就算逃到那儿我也照样追杀过去弄死你。
+Tierra del Fuego, and even I'm gonna hunt you down and kill you there as well.
+
+883
+00:41:23,727 --> 00:41:25,895
+D5481公路上的弟兄们！
+Men at the D5481
+
+884
+00:41:27,636 --> 00:41:29,820
+这是我们最黑暗的时刻
+This is our darkest hour
+
+885
+00:41:30,591 --> 00:41:33,833
+我们绝不容许阿道夫·哈蒙德
+We will not allow Adolf Hammond
+
+886
+00:41:34,112 --> 00:41:38,667
+破坏我们这伟大、这精彩、这壮丽的……
+to ruin our plans for this great, this wonderful, this magnificent...
+
+887
+00:41:39,556 --> 00:41:40,165
+闭嘴！
+Shut up!
+
+888
+00:41:42,324 --> 00:41:44,298
+我们把那个劳保安监员给埋了
+We buried the Health and Safety man
+
+889
+00:41:44,298 --> 00:41:46,939
+边等采石场重新恢复供料。
+While we waited for the quarry to restart.
+
+890
+00:41:47,752 --> 00:41:48,539
+结果人家压根没开
+But it didn't
+
+891
+00:41:48,556 --> 00:41:50,707
+当时已经五点整，到下班的点了。
+It was five o'clock, knocking-off time.
+
+892
+00:41:51,613 --> 00:41:52,900
+工人们全都各回各家了。
+And they'd all gone home.
+
+893
+00:41:53,462 --> 00:41:55,367
+机器我们全关了，那个……
+We've shut down the plant, that...
+
+894
+00:41:55,376 --> 00:41:56,612
+就到这了，我们不能再干了。
+That's it. We can't work anymore.
+
+895
+00:41:57,340 --> 00:41:59,437
+呵，你们那些哥们每周只上35小时班
+Well, your friends're on a 35-hour week
+
+896
+00:42:00,114 --> 00:42:02,104
+换做大部分工程，这时候早撂挑子了。
+Most jobs would stop at this point.
+
+897
+00:42:02,159 --> 00:42:06,691
+但我们充分发挥主观能动性，找了家通宵营业的新采石场。
+But we used our initiative and found a new quarry that would stay open through the night.
+
+898
+00:42:07,284 --> 00:42:08,579
+在哪儿？这家新的？
+Where is it? This new one?
+
+899
+00:42:09,187 --> 00:42:11,270
+<i>- 阿什伯恩
+- 阿什伯恩？</i>
+<i>- Ashbourne
+- Ashbourne?</i>
+
+900
+00:42:11,312 --> 00:42:13,357
+- 那是在肯特郡。
+- 在德比郡。
+- That's in Kent.
+- In Derbyshire.
+
+901
+00:42:13,357 --> 00:42:14,718
+要是我开着另一台机器去阿什伯恩呢？
+If I go over to Ashbourne with the other plant?
+
+902
+00:42:14,718 --> 00:42:17,469
+别去阿什伯恩，你离任何采石场都远点儿。
+Don't go to Ashbourne, don't go anywhere near a quarry.
+
+903
+00:42:17,704 --> 00:42:18,805
+全被你搅黄了。
+You're ruining it.
+
+904
+00:42:19,118 --> 00:42:21,708
+紧接着，就在我们刚稳住局面的当口。
+And then just as we were getting on top of things.
+
+905
+00:42:23,911 --> 00:42:27,202
+用鲍兹尔·弗尔蒂的名言来说：“哦，太特么妙了！”
+In the immortal words of Basil Fawlty: "Oh spiffing!"
+
+906
+00:42:29,606 --> 00:42:32,598
+要是暴风雨真砸下来，运来多少沥青都白搭。
+If a storm broke it wouldn't matter how much tarmac came.
+
+907
+00:42:32,598 --> 00:42:34,088
+因为我们根本没法铺。
+'Cause we wouldn't be able to lay it.
+
+908
+00:42:34,723 --> 00:42:36,611
+很显然，这时候必须来段演讲了。
+Plainly, a speech was in order.
+
+909
+00:42:37,220 --> 00:42:40,028
+我们绝不会悄无声息地步入良夜。
+We shall not go quietly into the night.
+
+910
+00:42:41,044 --> 00:42:43,496
+白班我们历经了重重波折，但是……
+We are faced diversity in the day shift, but...
+
+911
+00:42:59,240 --> 00:43:01,264
+夜幕降临，大雨倾盆而下。
+As night fell, the rain came.
+
+912
+00:43:01,425 --> 00:43:04,094
+换成普通的修路工地，到这就该歇菜了。
+And in a normal roadworks that would be that.
+
+913
+00:43:05,279 --> 00:43:07,233
+但我坚决不许任何人停工
+But I refused to let anyone stop
+
+914
+00:43:07,326 --> 00:43:10,382
+因为第二家采石场的料刚好送到。
+Because the second quarry had just started to deliver.
+
+915
+00:43:10,804 --> 00:43:13,200
+这场面看着真叫人心里舒坦。
+This is a sight to warm the cockles of your heart.
+
+916
+00:43:13,514 --> 00:43:15,572
+- 妙极了。
+- 工人们通宵奋战。
+- Marvelous.
+- Men working at night.
+
+917
+00:43:15,572 --> 00:43:18,518
+总听人吹嘘说：“我去过日本，人家都是连夜赶工。”
+You're always hearing people say that 'I went to Japan and they work through the night.'
+
+918
+00:43:18,518 --> 00:43:20,881
+“我去过瑞士，人家也是连夜赶工。”
+'I went to Switzerland, they work through the night.'
+
+919
+00:43:21,491 --> 00:43:24,009
+看看咱们大英帝国，咱们也在连夜赶工！
+Here we are in England and we're working through the night.
+
+920
+00:43:25,710 --> 00:43:29,080
+为了确保彼得福德的乡亲们能早日通车
+And to make sure that people of Bidford got their work done quickly
+
+921
+00:43:29,173 --> 00:43:31,358
+晚饭休息时间我们也没闲着。
+We've been working through our supper break as well.
+
+922
+00:43:33,627 --> 00:43:36,387
+给我来75份炸鳕鱼配薯条。
+Can I have Cod and chips, 75 times
+
+923
+00:43:52,042 --> 00:43:54,489
+- 再加一根面糊炸香肠。
+- 好的，多谢。
+- And a butter sausage.
+- Yes, thank you.
+
+924
+00:43:59,748 --> 00:44:01,179
+- 薯条来喽！
+- 嗷！
+- Chips!
+- Ohh!
+
+925
+00:44:01,179 --> 00:44:03,287
+别光顾着抢，得我来发，我有活儿交给你。
+Yeah, but don't just grab them, I got to hand them out, I got a job for you.
+
+926
+00:44:03,287 --> 00:44:04,861
+- 你能去把湿巾发一下吗？
+- 没问题。
+- Can you hand out the wipes?
+- Yeah.
+
+927
+00:44:05,225 --> 00:44:07,248
+- 大伙儿肯定会……
+- 给你。
+- That'll appreciate...
+- There you go.
+
+928
+00:44:07,282 --> 00:44:08,868
+趁理查德去买晚饭，
+While Richard was getting supper,
+
+929
+00:44:08,910 --> 00:44:13,328
+我装了另一个“激励神器”，好给大家鼓鼓劲。
+I'd installed another motivational tool to keep everyone spirits up.
+
+930
+00:44:13,896 --> 00:44:17,159
+夜黑风高，长路漫漫。
+The night is dark, the road is long.
+
+931
+00:44:17,303 --> 00:44:19,436
+我们远离家室。
+And we are far from our families.
+
+932
+00:44:19,888 --> 00:44:20,836
+但别担心，
+But don't worry,
+
+933
+00:44:21,200 --> 00:44:24,088
+D5481公路上的纯爷们儿们，
+Gentlemen at D5481,
+
+934
+00:44:24,257 --> 00:44:27,335
+因为我有音乐陪我们熬过漫漫长夜！
+Because I have music to take us through the night!
+
+935
+00:44:28,123 --> 00:44:29,392
+燥起来吧！
+Chech it out!
+
+936
+00:44:32,257 --> 00:44:33,831
+恶心得我香肠都吃不下了。
+It's put me off the sausage.
+
+937
+00:44:40,275 --> 00:44:41,392
+一比一平了，詹姆斯。
+/One-all, James.
+
+938
+00:44:43,946 --> 00:44:45,791
+这才叫修路嘛！
+This is how you run roadworks
+
+939
+00:44:45,800 --> 00:44:47,797
+美味的炸鱼薯条，动感的音乐，
+Good fish and chips, good music
+
+940
+00:44:47,873 --> 00:44:49,812
+彻底告别狗屁安全与健康规范。
+No Health and no Safty.
+
+941
+00:44:50,235 --> 00:44:53,087
+我觉得这绝对是此时此刻全英国……
+I just think that this is the happiest roadwork crew
+
+942
+00:44:53,146 --> 00:44:55,858
+干活最开心的施工队了。
+working in the land right now anywhere.
+
+943
+00:44:56,484 --> 00:44:59,845
+大伙儿也很乐见领导能卷起袖子一起干。
+The guys also like the willingness of the bosses to muck in.
+
+944
+00:45:00,031 --> 00:45:03,570
+想到这里，詹姆斯和理查德接管了压路机。
+And with that in mind, James and Richard took over the roller.
+
+945
+00:45:03,663 --> 00:45:05,754
+你得压住这个边缘一点。
+You've got to, just overlap the edge of this.
+
+946
+00:45:05,754 --> 00:45:08,879
+如果我开得太靠边，直接陷进草地里，那你就得……
+If I go too far over the edge just stick it in the verge, and then you've got to..
+
+947
+00:45:08,879 --> 00:45:10,538
+不，老天，该死！
+No, God, bugger
+
+948
+00:45:11,020 --> 00:45:13,112
+你把水阀给碾了，你个大白痴！
+You've run over the stop cock you cock.
+
+949
+00:45:13,188 --> 00:45:14,296
+我都听到哐当一声了。
+I heard it go clanging.
+
+950
+00:45:14,973 --> 00:45:16,776
+喔，太糟了，我们要大祸临头了。
+Woo, that's bad, we are gonna in trouble.
+
+951
+00:45:16,790 --> 00:45:18,339
+这事儿我们该跟谁坦白啊？
+Who are we gonna tell about this?
+
+952
+00:45:18,678 --> 00:45:21,819
+啊，这样，我们可以开着压路机……
+Ahh. Well, what we could do is take steamroller.
+
+953
+00:45:23,433 --> 00:45:24,796
+- 直接继续往前开？
+- 没错。
+- And just keep going?
+- Yeah.
+
+954
+00:45:30,614 --> 00:45:34,458
+凌晨四点，还剩下700码没铺完。
+At 4 am, there were still 700 yards to go.
+
+955
+00:45:34,466 --> 00:45:36,202
+工人们都快累趴下了。
+And the men were flagging.
+
+956
+00:45:37,438 --> 00:45:41,195
+于是，我祭出了激励士气的终极大杀器。
+So, I brought out the motivational big gun
+
+957
+00:45:41,195 --> 00:45:43,488
+……又一个“不满的冬日”？
+... another Winter of discontent?
+
+958
+00:45:44,013 --> 00:45:46,002
+这是……撒切尔夫人。
+This is... Mrs Thatcher
+
+959
+00:45:46,900 --> 00:45:48,229
+- 没错。
+- 用来激励大伙儿。
+- Yeah.
+- To motivate the men.
+
+960
+00:45:49,491 --> 00:45:50,354
+效果拔群啊。
+This is going well.
+
+961
+00:45:51,079 --> 00:45:55,439
+希望接下来能迎来一个讲常识的寒冬。
+And I hope it will be followed by a Winter of common sense.
+
+962
+00:45:55,531 --> 00:45:58,020
+妙啊，这句我喜欢。
+Yes, I like that one.
+
+963
+00:45:58,036 --> 00:45:59,688
+别助长他的歪风，伙计，这也太……
+Don't encourage him, man, this is...
+
+964
+00:45:59,688 --> 00:46:02,795
+不过工友们可不像詹姆斯那样天天看《每日电讯报》，
+The chaps however were not telegraph readers like James
+
+965
+00:46:02,804 --> 00:46:07,301
+所以我向他们保证：铺得越快，我就越早把这玩意儿关了。
+So I promised them that the sooner they finish the laying the sooner I'll switch her off.
+
+966
+00:46:10,297 --> 00:46:13,511
+这招果然灵验，破晓前路面就重新铺好了。
+That worked, and by day break the road was resurfaced
+
+967
+00:46:13,993 --> 00:46:17,080
+但留给我们的时间，只够狼吞虎咽一顿快手早餐。
+But there were still only time for a quick power breakfast.
+
+968
+00:46:17,910 --> 00:46:19,579
+流浪汉干嘛非得窝在伦敦呢？
+Why do tramps live in London?
+
+969
+00:46:20,197 --> 00:46:21,509
+- 明明乡下有这么大片好风光。
+- 就是啊。
+- When there is all this out here.
+- Yeah.
+
+970
+00:46:24,548 --> 00:46:28,823
+我们向比德福德的居民承诺过，早上9点07分就把路还给他们，
+We'd promised the people of Bidford they'd have their road back by 9:07
+
+971
+00:46:28,831 --> 00:46:30,270
+可手头还有一大堆事没干。
+And there was still much to do
+
+972
+00:46:30,703 --> 00:46:32,134
+施工设备得清理撤走，
+The plants needed clearing
+
+973
+00:46:32,142 --> 00:46:34,191
+哈蒙德得把路标重新立起来，
+Hammond needed to get the signs back up.
+
+974
+00:46:34,640 --> 00:46:37,266
+我和詹姆斯还得在路面上画白线。
+And James and I had the white lines to paint.
+
+975
+00:46:37,596 --> 00:46:40,048
+看，就差那么一丁点儿，还行吧？
+Look, that's a little bit, OK?
+
+976
+00:46:41,623 --> 00:46:43,283
+- 堪称完美。
+- 才怪。
+- That perfect.
+- It isn't.
+
+977
+00:46:44,240 --> 00:46:46,280
+哈哈哈哈……
+Hahhaha..
+
+978
+00:46:47,305 --> 00:46:48,262
+我们确实尽力了，
+We did our best,
+
+979
+00:46:48,295 --> 00:46:51,097
+但市政局来的那帮人似乎并不买账。
+but the men from the council didn't seem impressed.
+
+980
+00:46:51,732 --> 00:46:56,218
+嘿哈哈哈……
+Hehahaha..
+
+981
+00:46:56,814 --> 00:47:00,238
+白线被我们画得一塌糊涂，眼看着时间一分一秒过去，
+We had made a terrible mess of the lines and with the clock ticking
+
+982
+00:47:00,365 --> 00:47:02,008
+我们赶紧跑去找哈蒙德，
+we ram to see Hammond,
+
+983
+00:47:02,397 --> 00:47:05,174
+结果发现他的路标立得更是一团糟。
+who've made a even bigger mess with his signs.
+
+984
+00:47:05,284 --> 00:47:06,164
+斜坡明明在那边，
+The hill is there,
+
+985
+00:47:07,519 --> 00:47:09,382
+而且那是……车是朝那个方向开的。
+And that's... you're going that way.
+
+986
+00:47:10,161 --> 00:47:11,312
+标牌应该朝向那边才对。
+They should be facing that way.
+
+987
+00:47:11,719 --> 00:47:14,749
+你说得对，我这等于是在提醒大家：你们刚刚拐了几个急弯，
+You're right, I'm just telling people they've just been around some bends.
+
+988
+00:47:14,766 --> 00:47:16,155
+- 外加刚下了一个坡。
+- 走开，别烦我。
+- And down a hill.
+- Go away, leave me lone.
+
+989
+00:47:16,214 --> 00:47:16,696
+行吧。
+Alright.
+
+990
+00:47:17,213 --> 00:47:19,391
+事实证明，他把所有牌子全都装反了。
+As it turned out, he's done them all wrong.
+
+991
+00:47:19,416 --> 00:47:22,515
+而我们只剩整整十分钟来把它们复原。
+And we had just ten minutes to put them right.
+
+992
+00:47:22,515 --> 00:47:23,491
+噢，真见鬼！
+Oh, bloody hell!
+
+993
+00:47:23,516 --> 00:47:25,319
+- 这一堆全是你装的？  - 是啊。
+- 好，退后。
+- Did you do this stuff?  - Yeah.
+- Right, stand back.
+
+994
+00:47:25,641 --> 00:47:26,388
+你到底是怎么做到的……
+How did you do it...
+
+995
+00:47:27,540 --> 00:47:28,920
+- 搞定，完美！
+- 成了，大功告成！
+- There you go. Perfect.
+- There. That's it, finished.
+
+996
+00:47:29,004 --> 00:47:30,240
+- 开放道路！
+- 走起！
+- Open road!
+- Right.
+
+997
+00:47:32,836 --> 00:47:34,867
+这事儿我早就想干一次了。
+I've been wanting to do this for a long time.
+
+998
+00:47:36,108 --> 00:47:36,802
+噢，快点啊！
+Oh, come on!
+
+999
+00:47:37,217 --> 00:47:38,444
+来啦来啦！
+I'm coming.
+
+1000
+00:47:39,217 --> 00:47:41,293
+整天就数你嚎得最大声。
+You're the one who's been shouting all day.
+
+1001
+00:47:41,506 --> 00:47:47,084
+瞧好了，比德福德-埃文的乡亲们，不到一天工夫，
+So there you are. People of Bidford-on-Avon in just under one day,
+
+1002
+00:47:47,973 --> 00:47:49,031
+你们的路通了。
+your road is open.
+
+1003
+00:47:49,886 --> 00:47:51,232
+乐意为您效劳。
+Glad to be of service.
+
+1004
+00:48:02,220 --> 00:48:05,168
+如果我们能搞定……如果我们都能搞定，
+If we can do that... If we can do that.
+
+1005
+00:48:05,414 --> 00:48:06,565
+那帮修路的没理由搞不定。
+They should be able to do that.
+
+1006
+00:48:06,565 --> 00:48:09,782
+讲真，我们还真有几条《Top Gear》修路锦囊送给建筑施工界。
+Really we do have some Top Gear top tips here for the construction industry.
+
+1007
+00:48:10,369 --> 00:48:11,581
+手脚麻利点，
+Work fast,
+
+1008
+00:48:12,038 --> 00:48:13,139
+多吃黑莓，
+Eat blackberries
+
+1009
+00:48:13,537 --> 00:48:16,187
+叫上一百辆卡车，别就叫五辆。
+Get 100 trucks, not 5.
+
+1010
+00:48:16,280 --> 00:48:19,011
+对，再给那台铺路机装个涡轮增压。
+Yeah, and fit that paving machine thing with a turbo charger
+
+1011
+00:48:19,028 --> 00:48:20,907
+- 对，还有千万别让他去开。
+- 千万别，可别那么干。
+- Yeah, and don't let him drive it
+- No, don't do that.
+
+1012
+00:48:21,285 --> 00:48:24,425
+行了，接下来，就是大家
+Anyway, now, it's the moment
+
+1013
+00:48:24,713 --> 00:48:25,771
+翘首以盼的时刻了。
+you've all been waiting for.
+
+1014
+00:48:27,151 --> 00:48:29,775
+达维娜正在《老大哥》那边现场直播呢，
+Devena is live on state of the Big Brother.
+
+1015
+00:48:30,156 --> 00:48:32,560
+总冠军马上就要揭晓了。
+winner is about to be announced.
+
+1016
+00:48:33,356 --> 00:48:35,948
+不过在我们BBC二台，我们要看我们这小矮个撞车。
+Here on BBC2 however we got our little fella's car crash
+
+1017
+00:48:35,999 --> 00:48:37,235
+来吧老兄，给我们讲讲当时的情况。
+So come on mate, talk us through it.
+
+1018
+00:48:37,334 --> 00:48:39,552
+行吧。瞧，这有些我们自己都没看过的录像。
+Oh Ok. Well, and look, we got some video of it we never looked.
+
+1019
+00:48:39,561 --> 00:48:41,559
+这是……出事前拍的。
+Here is umm.. Here's before it happened.
+
+1020
+00:48:41,576 --> 00:48:44,134
+就是这辆车，叫“吸血鬼”（Vampire）。
+This is the car. It's called the Vampire.
+
+1021
+00:48:44,329 --> 00:48:49,133
+基本上它就是台硕大无比的喷气发动机，前头用螺栓固定了把椅子，仅此而已。
+Basically it's just a socking great jet engine with a chair bolted to the front of it.That's it.
+
+1022
+00:48:49,573 --> 00:48:50,724
+那这玩意儿算高科技吗？
+So is it high tech?
+
+1023
+00:48:51,029 --> 00:48:51,867
+算，相当高科技。
+Yes, it's fairly high tech.
+
+1024
+00:48:51,876 --> 00:48:54,178
+那台发动机，喷气发动机，是从“红箭”飞行表演队军机上拆下来的。
+The engine, the jet engine, comes out of a Red Arrow.
+
+1025
+00:48:54,601 --> 00:48:57,759
+转向机来自一辆信赖知更鸟（Reliant Robin）。
+The steering box is from a Reliant Robin.
+
+1026
+00:48:58,256 --> 00:49:00,169
+燃油泵是从水泥搅拌机上拆的。
+And the fuel pumps from a cement mixer.
+
+1027
+00:49:02,075 --> 00:49:04,174
+哦，这就是我本来要开着它飙车的机场。
+Oh, that's the airfield where I was gonna be driving it.
+
+1028
+00:49:04,191 --> 00:49:06,765
+- 瞧，在约克郡附近的埃尔文顿。
+- 哎呀，这车复杂得很。
+- See, that's in Elvington near York.
+- Oh, it's complicated.
+
+1029
+00:49:07,906 --> 00:49:13,365
+当然了，在这种跑道上搞这种极限狂飙，你最不想要的一样东西……
+There is of course one thing you really don't want when you're doing this sort of stuff up a runway.
+
+1030
+00:49:13,713 --> 00:49:15,550
+就像吹成那样。侧风。
+Like that one. Cross winds.
+
+1031
+00:49:18,792 --> 00:49:20,067
+是啊，当时风确实有点大。
+Yeah, there was a bit of breeze.
+
+1032
+00:49:20,076 --> 00:49:21,693
+哦，看，那会儿我正钻进去呢。
+Oh that was me getting in it, you see.
+
+1033
+00:49:21,848 --> 00:49:22,728
+就在那儿，然后……
+At there and...
+
+1034
+00:49:23,101 --> 00:49:25,649
+造车的老哥正在给我做安全简报。
+And then I got a briefing from the man who built it.
+
+1035
+00:49:26,026 --> 00:49:28,693
+所以我今天的挑战就是开这玩意儿，
+So my challenge today is to drive this thing,
+
+1036
+00:49:29,447 --> 00:49:32,377
+不过，这还不是全部。
+except, that's not the full story
+
+1037
+00:49:32,631 --> 00:49:37,754
+因为我今天的挑战不仅是开它，还得按下这个看着人畜无害的小按钮。
+Because my challenge today is to drive this thing and hit this innocent-looking little button.
+
+1038
+00:49:38,254 --> 00:49:41,785
+因为一旦按下去，就会有一道火柱喷射穿过发动机，
+Because when I do that, it sends a flame, shooting through the engine
+
+1039
+00:49:42,005 --> 00:49:43,413
+进而点燃加力燃烧室。
+which ignites the afterburner.
+
+1040
+00:49:43,794 --> 00:49:46,808
+到了那一刻，我拥有的可就不止是五千匹马力了……
+And when that happens I haven't got 5,000 horse power,
+
+1041
+00:49:47,244 --> 00:49:49,860
+我有……一万匹马力，
+I've got, 10,000 horse power,
+
+1042
+00:49:50,410 --> 00:49:53,974
+我也许会是你们这辈子见过的最大的车祸现场。
+I'm possibly the biggest accident, you've ever seen in your life.
+
+1043
+00:49:58,567 --> 00:50:00,134
+我敢说你当时讲这话的时候，
+I bet when you said that,
+
+1044
+00:50:00,150 --> 00:50:01,573
+心里肯定觉得自己特……
+it was one of those...
+
+1045
+00:50:03,746 --> 00:50:04,355
+帅吧！
+Yeah!
+
+1046
+00:50:06,355 --> 00:50:08,700
+太丢人了，真够丢人的。
+Pathetic, very pathetic.
+
+1047
+00:50:10,613 --> 00:50:12,213
+而且我敢打赌，你说这话时肯定在琢磨：
+And I bet when you said that you thought
+
+1048
+00:50:12,230 --> 00:50:16,380
+“来句俏皮话，显得这事儿比实际情况更要命一点”。
+it's one of those snappy lines to make this look a bit more dangerous than it really is.
+
+1049
+00:50:16,414 --> 00:50:18,844
+说出口的时候我还真是这么想的。
+It's exactly what I thought when I said it.
+
+1050
+00:50:18,886 --> 00:50:20,959
+我能问清楚一点吗？这玩意是不是……
+Can I just qualify something about it? Is it...
+
+1051
+00:50:21,120 --> 00:50:23,360
+它其实没有传统意义上的油门踏板？
+It doesn't have like a throttle in the accelerator.
+
+1052
+00:50:23,394 --> 00:50:25,485
+- 不像普通车那样。
+- 对，这是喷气车。开起来完全是两码事。
+- Like a normal car.
+- No, a jet car. No, it is complete different to drive.
+
+1053
+00:50:25,519 --> 00:50:27,319
+它根本没有离合器之类的玩意儿。
+There is no clutches or such.
+
+1054
+00:50:27,345 --> 00:50:29,259
+你只要拧中控台上的旋钮，把发动机调到你想要的输出就行。
+You just turn the engine up to what you want with the knob on the dash.
+
+1055
+00:50:29,259 --> 00:50:30,351
+而且是在起步之前调。
+That's before you set off.
+
+1056
+00:50:30,377 --> 00:50:31,875
+对，启动时调好，之后就别管了。
+Yeah, you do that when you start it, you leave it.
+
+1057
+00:50:31,892 --> 00:50:33,018
+所以根本没有油门踏板。
+So there is no accelerator.
+
+1058
+00:50:33,027 --> 00:50:35,058
+你只要把脚从脚刹上挪开，车就开拔了。
+You pull away by just taking you foot off the footbrake.
+
+1059
+00:50:35,084 --> 00:50:36,100
+之后就不用再碰刹车了。
+You don't touch that again.
+
+1060
+00:50:36,287 --> 00:50:38,370
+所以开起来的时候，你手里就一个方向盘，
+So when you're going along, what you've got is a steering wheel
+
+1061
+00:50:38,594 --> 00:50:40,677
+还有一个兼顾发动机熄火和开减速伞的手柄。
+and a lever to stop the engine and pull the parachute.
+
+1062
+00:50:40,719 --> 00:50:41,752
+其实挺简单的嘛。
+So it's quite simple.
+
+1063
+00:50:41,786 --> 00:50:43,726
+哈，比操控你屁股底下那把椅子还省事呢，伙计。
+Oh, it's easier to control than your chair, mate.
+
+1064
+00:50:45,190 --> 00:50:47,484
+行吧，那咱们就瞧瞧接下来发生了什么。
+Ok, well, let's have a look what happened next.
+
+1065
+00:50:47,776 --> 00:50:50,155
+我们把这个套上，呃……手穿过去就行。
+Let us get these, err... just keep your arms through there.
+
+1066
+00:50:51,686 --> 00:50:52,499
+这玩意儿干嘛用的？
+What're they for?
+
+1067
+00:50:52,863 --> 00:50:53,735
+这是手臂约束带，
+These are arm strands
+
+1068
+00:50:54,395 --> 00:50:57,246
+呃，万一车翻个底朝天的时候用。
+Uh, in event if you're going upside down.
+
+1069
+00:50:58,134 --> 00:50:59,709
+防止你的胳膊甩出驾驶舱。
+They'll stop your arms coming out of the cockpit
+
+1070
+00:51:01,345 --> 00:51:02,572
+我可不想翻个底朝天。
+I don't want to go upside down.
+
+1071
+00:51:04,536 --> 00:51:05,171
+油门
+Throttle
+
+1072
+00:51:05,907 --> 00:51:07,355
+设在半开。
+Set to half.
+
+1073
+00:51:07,559 --> 00:51:09,176
+好的，准备点火。
+OK, so ignition
+
+1074
+00:51:12,214 --> 00:51:13,509
+我的个老天爷啊。
+Bloody hell fire.
+
+1075
+00:51:13,915 --> 00:51:15,168
+这可是真真切切的喷气发动机。
+That's a jet's engine.
+
+1076
+00:51:16,748 --> 00:51:18,187
+我去。
+Holy crap.
+
+1077
+00:51:20,199 --> 00:51:21,934
+太吓人了！
+This is terrifying!
+
+1078
+00:51:29,591 --> 00:51:31,094
+要来了。动真格的了。
+Here we go. This is it.
+
+1079
+00:51:33,541 --> 00:51:34,480
+我的天呐。
+Oh my god.
+
+1080
+00:51:35,411 --> 00:51:38,824
+这感觉简直难以置信。整台车都在剧烈震颤。
+The feel's just unbelievable. And it's vibrating.
+
+1081
+00:51:39,399 --> 00:51:42,184
+我的天，我的老天哪！
+Oh my God, Oh my God!
+
+1082
+00:51:44,250 --> 00:51:45,943
+我能感觉到它在往右偏！
+I can feel it pulling to the right!
+
+1083
+00:51:48,147 --> 00:51:49,592
+我已经开上黑色沥青路面了。
+I'm on the black tarmac.
+
+1084
+00:51:49,905 --> 00:51:54,485
+要放减速伞了，我得开减速伞
+/ / to use the parashute, I need a parachute
+
+1085
+00:51:59,562 --> 00:52:00,172
+这……
+That...
+
+1086
+00:52:01,323 --> 00:52:01,949
+简直……
+is...
+
+1087
+00:52:03,465 --> 00:52:04,413
+噢，太不可思议了。
+Oh, it's amazing.
+
+1088
+00:52:04,904 --> 00:52:07,020
+啊……（深吸一口气）
+Ah... (DEEP BREATH)
+
+1089
+00:52:10,881 --> 00:52:11,880
+啊——！
+Ahhh!
+
+1090
+00:52:11,888 --> 00:52:14,292
+我只想再快一点。
+I just want to go faster.
+
+1091
+00:52:15,085 --> 00:52:16,076
+再快点。
+More speed.
+
+1092
+00:52:16,220 --> 00:52:17,151
+刚才有多快？
+How quick was that.
+
+1093
+00:52:17,278 --> 00:52:19,028
+呃，跑了220.4。
+Eh, that's 220.4.
+
+1094
+00:52:22,939 --> 00:52:24,317
+- 220？
+- 没错。
+- 220.
+- Yeah.
+
+1095
+00:52:25,714 --> 00:52:26,867
+如今在我们……
+Now we are achieving...
+
+1096
+00:52:27,366 --> 00:52:30,160
+自家的测试跑道上，也能跑到差不多接近这个速度了。
+pretty close to that kind of speed now on our own runway here.
+
+1097
+00:52:30,331 --> 00:52:32,727
+那你觉得在咱们这儿开兰博，跟开那玩意儿有什么区别？
+So what's the difference you say a Lambo here and that?
+
+1098
+00:52:32,761 --> 00:52:35,285
+区别就在于喷气发动机输出动力的方式。
+It's just the way the jet engine delivers the power.
+
+1099
+00:52:35,285 --> 00:52:37,173
+你能真切感受到那股力量是何等浩瀚。
+You're aware that there is so much of it.
+
+1100
+00:52:37,190 --> 00:52:39,201
+就是源源不断倾泻而出的庞大动力。
+Just a huge amount of power going on.
+
+1101
+00:52:39,252 --> 00:52:41,572
+所以更多的是那种震撼感，而非实际的速度数字。
+So it's a sensation of that more than the actual speed.
+
+1102
+00:52:41,868 --> 00:52:44,946
+不过你怎么知道什么时候该拉减速伞扳柄呢？
+How did you know though when to pull the parachute lever.
+
+1103
+00:52:45,327 --> 00:52:47,668
+呃，我们在跑道上摆了几个锥桶，所以……
+En, well we just put some cones out on the runway so...
+
+1104
+00:52:47,703 --> 00:52:49,546
+换作是我，肯定老早就拉了。
+You see I would have pull it much sooner than that.
+
+1105
+00:52:49,690 --> 00:52:50,850
+“我刚起步！伞就放出去了！”
+I'm off! It's gone.
+
+1106
+00:52:52,356 --> 00:52:54,545
+我甚至会在发车前就先拉开。以防万一嘛。
+I'd pulled it before I set off. Just in case.
+
+1107
+00:52:55,722 --> 00:52:58,143
+事后想想，呃，对……或许真是个更好的主意。
+With hindsight, yeah. Bet... better idea perhaps.
+
+1108
+00:52:58,358 --> 00:53:01,626
+好吧，所以下一次你就要开加力燃烧室了。
+OK, so next time it was the afterburner.
+
+1109
+00:53:01,778 --> 00:53:02,714
+对，没错。
+Yes, absolutely.
+
+1110
+00:53:02,917 --> 00:53:04,559
+短片里能看到那个画面，是吧？
+And you can see that in the film, can you?
+
+1111
+00:53:04,585 --> 00:53:08,361
+能，只要一点火你就能看出来，因为发动机尾部会喷出一道巨焰。
+Yeah, you'll see you'll know when it's lit because this flame's coming out of the back of the engine.
+
+1112
+00:53:08,513 --> 00:53:10,435
+好的。现在我得向大家科普一下，免得有人不知道：
+OK. Now I have to explain to everybody in case you don't know
+
+1113
+00:53:10,443 --> 00:53:13,775
+加力燃烧室通常只会配备在速度最顶级的军用战机上。
+An afterburner is really only fits to the fastest military jets.
+
+1114
+00:53:14,157 --> 00:53:16,452
+或者，严格来说，协和式客机上也有。
+Or, and Concord, actually, for that matter.
+
+1115
+00:53:16,485 --> 00:53:19,846
+但比如“鹞”式垂直起降战机，就没有配备。
+A Harrier jump jet, for instance, doesn't have one.
+
+1116
+00:53:20,083 --> 00:53:22,027
+行吧，因为对它来说没那个必要。
+Ok, it's not deemed necessary for that.
+
+1117
+00:53:22,272 --> 00:53:25,176
+但他却打算在一辆车里点燃这玩意儿。
+But he was about to light one in a car.
+
+1118
+00:53:26,266 --> 00:53:26,596
+是的。
+Yeah.
+
+1119
+00:53:27,722 --> 00:53:28,840
+谁让我想这么干呢，
+Well I wanted to do this,
+
+1120
+00:53:29,085 --> 00:53:29,745
+而我现在确实在干了。
+And now I am.
+
+1121
+00:53:29,974 --> 00:53:32,531
+我……呃，要是说我不
+I've emm... I'd be lying if I said I wasn't
+
+1122
+00:53:33,750 --> 00:53:34,732
+害怕，那绝对是假话。
+quite scared.
+
+1123
+00:53:36,494 --> 00:53:36,943
+不过……
+However...
+
+1124
+00:53:39,040 --> 00:53:42,079
+我觉得关键在于，一旦起步，就没退路了。
+I think it's the fact that once you started, that's it.
+
+1125
+00:53:42,153 --> 00:53:44,414
+油门可容不得你犹犹豫豫。只要它一动，你就得豁出去冲。
+You don't mess about with the throttle. Once it go, you go.
+
+1126
+00:53:46,081 --> 00:53:49,099
+这就是，懂吧……孤注一掷。
+That's, you know... commitment.
+
+1127
+00:53:50,928 --> 00:53:52,443
+来了来了，走起，来吧！
+Here we go, here we go, here we go, come on.
+
+1128
+00:53:53,577 --> 00:53:54,993
+就是现在，我得出发了。
+This is it. I've got to be going.
+
+1129
+00:53:58,625 --> 00:54:00,084
+噢！哈哈哈哈！
+Ohh Hahaaaa!
+
+1130
+00:54:25,851 --> 00:54:31,190
+你……
+You /
+
+1131
+00:54:31,215 --> 00:54:33,899
+天哪，我没法形容。我……
+Yes, I can't describe. I...
+
+1132
+00:54:35,255 --> 00:54:36,720
+我觉得我都要哭了。
+I think I'm gonna cry.
+
+1133
+00:54:37,939 --> 00:54:39,065
+我真没开玩笑。
+I'm not joking.
+
+1134
+00:54:39,188 --> 00:54:42,345
+我全身上下的每一个细胞……
+Every part of my body is full...
+
+1135
+00:54:43,016 --> 00:54:43,930
+都塞满了肾上腺素！
+of adrenaline
+
+1136
+00:54:45,081 --> 00:54:46,283
+噢，太爽了！
+Oh, yes.
+
+1137
+00:54:46,749 --> 00:54:49,965
+活着的感觉真好，太痛快了！
+I'm so alive. I'm so alive.
+
+1138
+00:55:08,046 --> 00:55:09,926
+刚才那一下看着可真够快的。
+Now that looked really quick.
+
+1139
+00:55:10,019 --> 00:55:12,464
+那趟更快，跑到了时速314英里。
+That was quicker. That was 314 miles an hour.
+
+1140
+00:55:13,260 --> 00:55:18,077
+这算得上是全英国有史以来速度最快的陆地行驶了吧？
+And that is the fastest anyone's actually traveled in Britain before, isn't it?
+
+1141
+00:55:18,339 --> 00:55:19,707
+呃，从技术层面上讲，我觉得算。
+Well, technically, I suppose it is.
+
+1142
+00:55:19,707 --> 00:55:22,570
+因为之前的英国陆地极速纪录是时速301英里。
+'Cause I think the British land speed record is 301 miles an hour.
+
+1143
+00:55:22,570 --> 00:55:23,801
+- 就那辆车跑出来的？
+- 对。
+- In that car?
+- Yes.
+
+1144
+00:55:23,801 --> 00:55:25,911
+- 没人能打破了。
+- 没错，短期内恐怕没人了，没有。
+- Nobody's gonna beat it.
+- No, probably not now. No.
+
+1145
+00:55:27,511 --> 00:55:29,814
+但要想成为官方纪录，你必须
+But to be an official record, you've got do
+
+1146
+00:55:29,814 --> 00:55:32,996
+反方向再跑一趟，然后取两次时速的平均值。
+another run in the other direction then take an average of the 2 speeds.
+
+1147
+00:55:33,005 --> 00:55:35,858
+但从遥测数据我们确切知道那是314，
+The worse we know from telemetry that that was 314,
+
+1148
+00:55:35,884 --> 00:55:38,043
+- 没错！
+- 这就是全英国有人跑过的最快速度。
+- Oh yeah!
+- that's the fastest anyone's ever traveled.
+
+1149
+00:55:38,242 --> 00:55:39,960
+对，但这终究……你知道的，不算官方纪录。
+Oh yeah, but it's not, you know, official record.
+
+1150
+00:55:40,392 --> 00:55:41,332
+那感觉究竟如何？
+So what's it feel like?
+
+1151
+00:55:42,008 --> 00:55:43,142
+呃，快呗。
+Eh, fast.
+
+1152
+00:55:43,523 --> 00:55:47,173
+呃，其实……我倒不是为了破纪录，
+Eh, it's... I weren't trying to set a record.
+
+1153
+00:55:47,173 --> 00:55:49,018
+我就是想体验一下极致的快。
+I just wanted to get really really fast.
+
+1154
+00:55:49,077 --> 00:55:51,083
+- 可你都跑到了314。
+- 是啊。
+- But you did 314
+- Yeah.
+
+1155
+00:55:51,354 --> 00:55:53,868
+- 而且你也见识到了极致速度是啥滋味。
+- 没错。
+- and you wanted to know what it was like to go really fast.
+- Yeah.
+
+1156
+00:55:53,885 --> 00:55:54,994
+那你愿望已经达成了。
+So you'd found out.
+
+1157
+00:55:55,460 --> 00:55:57,875
+你干嘛不直接钻进车里回家呢？
+Why didn't you just get in your car and go home?
+
+1158
+00:55:58,688 --> 00:55:59,772
+我其实也不知道。
+I don't know really.
+
+1159
+00:56:00,009 --> 00:56:02,777
+呃，问题是，你们刚刚看到的那趟
+Emm, the thing is that run that you just saw
+
+1160
+00:56:02,811 --> 00:56:07,028
+是在下午五点跑的，而跑道我们租到了五点半。
+that was at 5 o'clock and we had the runway until 5:30.
+
+1161
+00:56:07,308 --> 00:56:07,753
+然后……
+And...
+
+1162
+00:56:09,886 --> 00:56:11,613
+我现在当然想明白了，
+I know now obviously,
+
+1163
+00:56:11,655 --> 00:56:14,044
+呃，我说不好，我觉得这有点像……你知道的，小时候，
+Eh, I don't know, I think it's a bit like, you know, when you were a kid,
+
+1164
+00:56:14,044 --> 00:56:15,288
+你跟小伙伴们在外面野，
+and you are out playing with your mates.
+
+1165
+00:56:15,407 --> 00:56:17,864
+老妈扯着嗓子喊你回家吃晚饭。
+And then your Mom would shout for you to come in for your tea.
+
+1166
+00:56:17,898 --> 00:56:20,548
+你就非要再多逞能一会儿，赖着不走。
+And you just pushing a bit and keep going a bit longer.
+
+1167
+00:56:20,677 --> 00:56:22,759
+而摔下树往往就在这种时候。
+And that's always when you fall out of the tree.
+
+1168
+00:56:23,521 --> 00:56:25,584
+事后诸葛亮来看，确实是。
+With hindsight again, yes
+
+1169
+00:56:25,906 --> 00:56:28,940
+行吧，那接下来就是正戏了，是吧？
+Well, alright. I suppose this it is then, isn't it really now?
+
+1170
+00:56:29,194 --> 00:56:30,490
+接下来发生的就是这个，没错。
+This is what happened next, yeah.
+
+1171
+00:56:57,880 --> 00:56:59,489
+当时一切发生得太快，所以……
+It was all over quite quickly so
+
+1172
+00:56:59,531 --> 00:57:00,818
+咱们慢动作再放一遍。
+do it again in slow motion.
+
+1173
+00:57:01,165 --> 00:57:04,396
+你能看到爆胎的那一瞬间。
+You can see the moment when the tire goes.
+
+1174
+00:57:04,396 --> 00:57:06,528
+此时车速依然有288英里（约463公里）。
+It's still doing 288 miles an hour here.
+
+1175
+00:57:07,247 --> 00:57:09,703
+但接着就失控了，彻底甩了出去。
+But then it's off. It's away.
+
+1176
+00:57:10,041 --> 00:57:13,754
+我觉得从爆胎到彻底失控，实际上也就0.4秒左右。
+I think it's about 0.4 of a second really from the tire blowing to it all going wrong.
+
+1177
+00:57:15,252 --> 00:57:18,265
+接着车头啃进草地，整辆车开始翻滚。
+Then when it digs in on the grass, the car rolls.
+
+1178
+00:57:18,612 --> 00:57:22,279
+在草地上底朝天狂滑的时候，车速居然还有230英里，
+It's still doing 230 when it's upside down on the grass
+
+1179
+00:57:23,795 --> 00:57:27,732
+也就是说……看这里，车底朝天滑行时依然有230英里时速。
+which is so... here now it's still doing 230 mph when it's upside and down.
+
+1180
+00:57:28,401 --> 00:57:29,643
+接着又连翻了几下。
+Then it flips a bit.
+
+1181
+00:57:30,870 --> 00:57:33,029
+然后总算停下了。
+And then it settles down.
+
+1182
+00:57:33,116 --> 00:57:36,849
+防滚架连带着我的脑袋一起刨进地里，于是车停得相当快，
+And the rollbar digs into the ground along with my head. And that stops it very quickly,
+
+1183
+00:57:38,493 --> 00:57:39,657
+确实。
+Indeed.
+
+1184
+00:57:41,760 --> 00:57:42,499
+噢，谢谢大家。
+Oh, thank you.
+
+1185
+00:57:54,659 --> 00:57:57,131
+最惨的是，这本该是
+The tragedy is, that would be
+
+1186
+00:57:57,606 --> 00:57:59,663
+全英国有史以来速度最快的车祸。
+the fastest car crash ever in Britain.
+
+1187
+00:58:00,036 --> 00:58:03,134
+可吉尼斯世界纪录的人说，你必须往反方向再开一次才算数。
+But Guinness Book of Records' people saying you got do it going in the other direction.
+
+1188
+00:58:05,407 --> 00:58:07,583
+我才不稀罕这纪录！鬼才想要啊！
+I don't want the record. It's not what I want.
+
+1189
+00:58:07,972 --> 00:58:10,199
+所以你拼了老命折腾这一遭，
+So you've come away with no record at all
+
+1190
+00:58:10,207 --> 00:58:12,952
+连个纪录都没捞着，这可真够悲催的。
+for having done that. That's a bit of a tragedy.
+
+1191
+00:58:13,468 --> 00:58:15,077
+不过话说回来，我能问一句吗？
+The thing is though, can I just ask,
+
+1192
+00:58:15,610 --> 00:58:18,446
+咱们再看一遍出事的这一趟，
+you can see again in the crash run,
+
+1193
+00:58:18,448 --> 00:58:19,523
+好，就是你跑的最后一趟。
+Ok, your last run.
+
+1194
+00:58:20,031 --> 00:58:22,918
+这轮胎分明已经开始散架了。
+The tire is starting to come apart.
+
+1195
+00:58:22,977 --> 00:58:25,618
+好，仔细看就能发现，瞧，右边那条轮胎。
+Ok, if we watch this you can see it, look at it, on the right end tyre.
+
+1196
+00:58:25,864 --> 00:58:26,651
+看那儿。
+Look there.
+
+1197
+00:58:27,792 --> 00:58:28,664
+那么，
+Now
+
+1198
+00:58:28,952 --> 00:58:29,560
+抱歉啊哥们儿，
+I'm sorry mate,
+
+1199
+00:58:30,000 --> 00:58:31,617
+你当时怎么就瞎了没瞧见呢？
+why didn't you spot that.
+
+1200
+00:58:31,812 --> 00:58:32,193
+呃……
+Well...
+
+1201
+00:58:33,014 --> 00:58:36,544
+我当时什么都不知道，我正以288英里的时速狂飙呢。
+I hadn't known all. I was doing 288 miles an hour.
+
+1202
+00:58:36,595 --> 00:58:37,364
+得了吧。
+I can have a lot.
+
+1203
+00:58:37,364 --> 00:58:39,904
+我坐在办公室里，孩子们在叫嚷，我写着稿子，还打着电话，
+I'm in the office the kids are shouting, I'm writting a story and I'm on the phone.
+
+1204
+00:58:39,921 --> 00:58:42,935
+就算进来一头狮子，我都能注意得到。
+If a lion walks in I'm going to notice it.
+
+1205
+00:58:43,349 --> 00:58:47,262
+从爆胎开始到事故发生，中间只有0.4秒。
+It was 0.4 of a second from the tire started to go to the accident started.
+
+1206
+00:58:47,516 --> 00:58:48,202
+我本来能救回来的。
+I could have held it.
+
+1207
+00:58:50,310 --> 00:58:52,317
+怎么救，来一把全世界最长的动力漂移？
+What, in the world's longest power slide?
+
+1208
+00:58:52,740 --> 00:58:55,449
+顺便再跟我们念叨一下车价，顺带吐槽后备箱根本没空间？
+Whilst telling us about the price and there was no room in the boot?
+
+1209
+00:58:55,483 --> 00:58:57,082
+- 小菜一碟。
+- 必须的。
+- Easy-peasy.
+- Yeah.
+
+1210
+00:58:57,083 --> 00:58:58,031
+但问题是，
+The problem is
+
+1211
+00:58:58,353 --> 00:59:01,714
+归根结底是因为你当时没垫欧盟规定的儿童安全增高垫。
+fundamentally you weren't wearing your EU booster seat.
+
+1212
+00:59:01,833 --> 00:59:04,230
+你坐得太矮了，根本看不着路。
+You were too low and you couldn't see it.
+
+1213
+00:59:04,264 --> 00:59:05,890
+我要是真垫了增高垫，
+If I had a booster seat on,
+
+1214
+00:59:05,932 --> 00:59:08,101
+等车最后翻滚的时候，我脑袋早就搬家了。
+my head would have come off when it rolled eventually.
+
+1215
+00:59:08,194 --> 00:59:09,472
+你读过《公路交规》吗？
+Have you read the highway codes?
+
+1216
+00:59:09,523 --> 00:59:11,258
+呃，我当时身上又没带着。
+Well, I didn't have a copy with me.
+
+1217
+00:59:11,284 --> 00:59:12,977
+因为这上面写得清清楚楚：
+Because it quite plainly says here,
+
+1218
+00:59:13,205 --> 00:59:16,647
+“当车辆失控时，顺着打滑方向反打方向盘。”
+When the car goes out of control, steer into the skid.
+
+1219
+00:59:17,747 --> 00:59:18,653
+他说得对。
+He's right.
+
+1220
+00:59:18,772 --> 00:59:20,963
+听着，负责分析车上遥测数据的专家们——
+Look, the expert guys that did the telemetry that was on the car
+
+1221
+00:59:20,980 --> 00:59:22,266
+就是车载电脑那一帮人，
+you know the computers and stuff,
+
+1222
+00:59:22,368 --> 00:59:25,155
+他们说我的反应速度堪比战斗机飞行员。
+they said I had the reactions of a fighter pilot.
+
+1223
+00:59:28,163 --> 00:59:30,508
+他们可没说是一战时期的战斗机飞行员。
+They didn't say it was a World War I fighter pilot.
+
+1224
+00:59:32,463 --> 00:59:37,360
+开着索普威思“骆驼”、拉着木制操纵杆的那种，一点没错。
+Riding-my-Sopwith-Camel-wooden-controls fighter pilot, exactly.
+
+1225
+00:59:37,487 --> 00:59:40,936
+不，我觉得咱们完全可以坐在这儿，像过去几个月那样可劲儿挖苦你。
+No, I think we could sit here as we have done for the last few months to take the Mickey out of you.
+
+1226
+00:59:40,936 --> 00:59:43,288
+但事实是，我只想说：
+The fact is though I would just like to say:
+
+1227
+00:59:43,929 --> 00:59:45,817
+敢坐进那台鬼玩意儿里，你真挺有种的。
+you were very brave to getting in that thing.
+
+1228
+00:59:45,869 --> 00:59:48,501
+换我是绝不敢坐的，换他那更是不可能。
+It's not something I would have done. It certainly not something he would have done.
+
+1229
+00:59:48,992 --> 00:59:52,098
+但更重要的是，你创造了一个奇迹，
+But more than that I think you've just performed a miracle
+
+1230
+00:59:52,158 --> 00:59:55,078
+而且极有勇气地彻底康复，重新回到了节目里。
+and really brave getting well and getting back on the show again.
+
+1231
+00:59:55,188 --> 00:59:55,733
+谢了，哥们儿。
+Thanks mate.
+
+1232
+00:59:57,951 --> 00:59:58,615
+你竟然……
+You've...
+
+1233
+01:00:00,063 --> 01:00:01,214
+你居然对我这么好。
+You just been nice to me.
+
+1234
+01:00:01,400 --> 01:00:04,194
+我保证，我发誓以后绝对不这样了，再也不会了。
+I promise, I promise I'll never do it again, ever.
+
+1235
+01:00:04,194 --> 01:00:06,632
+很好，既然说到再也不会发生的事，
+Good, talking about things will never happen again
+
+1236
+01:00:07,371 --> 01:00:10,198
+那我们在《Top Gear》里就绝不再提这次车祸了。
+That we never mention that crash on Top Gear again.
+
+1237
+01:00:10,529 --> 01:00:11,519
+- 再也不提。
+- 绝不再提。
+- Never.
+- Ever.
+
+1238
+01:00:11,519 --> 01:00:12,311
+同意吗？
+You up for that?
+
+1239
+01:00:12,555 --> 01:00:14,485
+- 什么？
+- 绝不再提那次撞车。
+- What?
+- Never gonna mention the crash.
+
+1240
+01:00:16,864 --> 01:00:17,406
+成交。
+There you go.
+
+1241
+01:00:20,708 --> 01:00:23,120
+我们绝不会再提那场车祸了。说到做到。
+We will never mention that crash again. That's a promise.
+
+1242
+01:00:23,146 --> 01:00:25,596
+现在也不提了，因为本期节目到此结束。
+We won't mention it now 'cause that is the end of the show.
+
+1243
+01:00:25,994 --> 01:00:29,649
+不过呢，多亏了理查德，我们今天确实吸取了极其深刻的一课。
+The thing is though we have learned an important lesson today. Thanks to Richard.
+
+1244
+01:00:30,157 --> 01:00:32,510
+请大家务必牢记：超速真会要命。
+Do please remember. Speed kills.
+
+1245
+01:00:36,495 --> 01:00:38,679
+我们下周再见。保重，感谢收看！
+See you next week. Take care. Thanks for watching.
+
+1246
+01:00:39,000 --> 01:00:44,000
+<font color="#38b0de">Top Gear 第九季第一集
+TransGear字幕组
+中国模拟赛车联盟
+www.srfc.com.cn</font>
+<font color="#38b0de">Top Gear S09E01
+TransGear subtitle team
+The Sim-Race Federation of China
+www.srfc.com.cn</font>
+

@@ -1,0 +1,7486 @@
+﻿1
+00:00:01,440 --> 00:00:03,520
+[片头主题曲]
+[THEME MUSIC PLAYING]
+
+2
+00:00:03,560 --> 00:00:05,000
+克拉克森：在今晚的《Top Gear》中——
+CLARKSON: In tonight's Top Gear,
+
+3
+00:00:05,040 --> 00:00:09,080
+一位摇滚巨星开上了我们的廉价车；
+a rock star in our reasonably-priced car.
+
+4
+00:00:09,120 --> 00:00:12,280
+我学着怎样才能把一辆
+路特斯Elise开得像模像样；
+I learn how to drive
+a Lotus Elise properly.
+
+5
+00:00:14,000 --> 00:00:18,600
+还有一场宗教竞速赛——
+我们要测测哪家信仰跑得最快！
+And it's religious racing
+as we find the fastest faith.
+
+6
+00:00:22,400 --> 00:00:25,240
+听上去今晚全是整活与狂欢。
+So it's a riot of fun and games.
+
+7
+00:00:25,280 --> 00:00:29,320
+不过，今晚这期节目的主题
+其实是——环保。
+But the theme of the show
+tonight is the environment.
+
+8
+00:00:29,360 --> 00:00:30,840
+[全场哀嚎]
+- 没错，我知道。
+[ALL GROANING]
+- Yeah, I know.
+
+9
+00:00:30,880 --> 00:00:33,880
+但事情是这样的，
+我们今晚打算试试看，
+But you see the thing is,
+what we're gonna try and do
+
+10
+00:00:33,920 --> 00:00:37,520
+能否在我们对汽车的热爱
+与环保需求之间找到平衡。
+is balance our love of the car
+with a need to be green.
+
+11
+00:00:37,560 --> 00:00:42,600
+正因如此，本周早些时候，
+我们在M4高速的公交车专用道上方架了个摄像头，
+And that's why we, earlier this week,
+put a camera over the M4 bus lane,
+
+12
+00:00:42,640 --> 00:00:45,480
+试图搞清楚这玩意儿到底是干嘛用的。
+to try and work out what it's for.
+
+13
+00:00:45,520 --> 00:00:47,720
+我是说，政府显然肯定做过调研，
+I mean, obviously, the government must
+have done research,
+
+14
+00:00:47,760 --> 00:00:51,120
+他们肯定算准了
+确实有设专用道的需求。
+they must have worked out
+there was a need for it.
+
+15
+00:00:51,160 --> 00:00:52,960
+显然嘛。
+[观众笑声]
+Obviously.
+[AUDIENCE LAUGHING]
+
+16
+00:00:53,000 --> 00:00:54,640
+毕竟正常人绝不会把所有车都挤在那两条道里，
+I mean, you wouldn't put
+all the cars in those two lanes.
+
+17
+00:00:54,680 --> 00:00:56,680
+只有疯子才会干出这种事。
+That would be the work of
+a madman to do that.
+
+18
+00:00:56,720 --> 00:00:58,560
+除非……真有成群结队的公交车。
+Unless there were lots of buses.
+
+19
+00:00:59,960 --> 00:01:01,720
+行吧，画面切过来了，呃……
+Well, there we are, erm...
+
+20
+00:01:01,760 --> 00:01:03,840
+整个节目期间我们都会挂着这个实时监控。
+We're gonna play this throughout the show.
+
+21
+00:01:03,880 --> 00:01:05,840
+如果你们谁看见一辆公交车
+And if anyone of you sees a bus
+
+22
+00:01:05,880 --> 00:01:08,080
+开过来，尽管喊出来，好吗？
+coming along, do shout out. Okay?
+
+23
+00:01:08,120 --> 00:01:11,960
+别客气。很好。
+- 没错，没问题。
+Feel free. Good.
+- Yeah. Okay.
+
+24
+00:01:12,000 --> 00:01:13,880
+好吧，趁我们等着的工夫……
+女观众：公交车！
+Well, while we're waiting...
+WOMAN: Bus.
+
+25
+00:01:13,920 --> 00:01:16,440
+啥？
+女观众：公交车！
+What?
+WOMAN: Bus.
+
+26
+00:01:16,480 --> 00:01:20,160
+哪儿呢？确实有东西开过来了，而且是个……
+Where? There is something
+coming, and it's a...
+
+27
+00:01:20,200 --> 00:01:22,240
+看起来个头有点小啊。
+It's a bit small.
+
+28
+00:01:22,280 --> 00:01:24,400
+哈蒙德：那不是公交车，那是救护车！
+克拉克森：虚惊一场。
+HAMMOND: That's not a bus.
+That's an ambulance.
+CLARKSON: False alarm.
+
+29
+00:01:24,440 --> 00:01:26,200
+解除警报。但都机灵点随时准备着，好吗？
+Panic down. But be ready. Okay?
+
+30
+00:01:26,240 --> 00:01:27,800
+趁我们还在等公交车出现，
+While we are waiting to spot a bus,
+
+31
+00:01:27,840 --> 00:01:30,200
+来看这辆全新的萨博9-3。
+this is the new Saab 9-3.
+
+32
+00:01:30,240 --> 00:01:32,280
+它的竞争对手是奥迪A4
+It is a competitor for the Audi A4
+
+33
+00:01:32,320 --> 00:01:34,000
+和宝马3系。
+and the BMW 3 Series.
+
+34
+00:01:34,040 --> 00:01:36,680
+但正因为它是萨博，因为它是瑞典车，
+But because it's a Saab,
+because it's Swedish,
+
+35
+00:01:36,720 --> 00:01:39,440
+它就要比那些咄咄逼人的
+it's that bit more cuddly, more friendly
+
+36
+00:01:39,480 --> 00:01:41,720
+德国对手，显得更温顺、更亲切。
+than those more aggressive
+German competitors.
+
+37
+00:01:41,760 --> 00:01:43,440
+这也让它成为了最完美的座驾，
+And that makes it the perfect car
+
+38
+00:01:43,480 --> 00:01:45,960
+正好契合今晚这个“充满关爱与分享”的《Top Gear》。
+to look at in tonight's caring,
+sharing Top Gear.
+
+39
+00:01:46,000 --> 00:01:47,560
+不过别担心，今晚绝不会有
+But don't worry, there's
+gonna be no nonsense
+
+40
+00:01:47,600 --> 00:01:49,200
+原地烧胎空转之类的胡闹。
+with spinning wheels or any of that.
+
+41
+00:01:49,240 --> 00:01:52,200
+因为我要用非常环保的方式
+来开这辆车。
+Because I'm gonna drive this
+in an eco-friendly manner.
+
+42
+00:01:52,240 --> 00:01:55,600
+♪ 《拉克美》/《花之二重唱》 ♪
+♪ Lakmé/Flower Duet ♪
+
+43
+00:02:07,240 --> 00:02:10,800
+哈蒙德：这台2.0T车型
+虽然拥有175匹马力，
+HAMMOND: This two litre T model
+may have 175 horsepower
+
+44
+00:02:10,840 --> 00:02:13,680
+零到60英里加速只需8.5秒。
+and do zero to 60 in 8.5 seconds.
+
+45
+00:02:13,720 --> 00:02:15,200
+但别担心。
+But don't worry.
+
+46
+00:02:15,240 --> 00:02:16,600
+因为我这次去上班，
+将严格遵守
+Because I'm going
+to travel to work following
+
+47
+00:02:16,640 --> 00:02:18,440
+政府发布的官方指南，
+the government's official guidelines
+
+48
+00:02:18,480 --> 00:02:21,160
+全程以环保模式通勤。
+on commuting in an eco-friendly manner.
+
+49
+00:02:22,500 --> 00:02:25,500
+♪ 《闪灵》原声 - Quicksilver ♪
+♪ The Shining - Quicksilver ♪
+
+50
+00:02:30,880 --> 00:02:33,920
+我们应该——我引用原文啊——“保持匀速”。
+We should, and I quote, "Steady our speed."
+
+51
+00:02:33,960 --> 00:02:36,560
+他们建议把时速控制在50英里，
+说这是最省油的，
+They suggest 50mph as being
+the most economical
+
+52
+00:02:36,600 --> 00:02:38,320
+而且事实上，可能确实如此。
+and in fact, it probably is.
+
+53
+00:02:38,360 --> 00:02:40,720
+好嘞，那就定在50英里每小时。
+Righty-ho then, 50 mph it is.
+
+54
+00:02:46,000 --> 00:02:50,340
+♪ 我曾脚踏实地，♪
+♪ 直到我的船触了暗礁 ♪
+♪ I kept my feet on the ground, ♪
+♪ 'til my ship ran aground ♪
+
+55
+00:02:50,360 --> 00:02:53,160
+以50英里的时速开着，感觉倒也不赖。
+And it's not bad at 50 mph.
+
+56
+00:02:53,200 --> 00:02:56,520
+悬挂偏硬，不过是那种很有运动感的硬。
+It's a firm ride, but sportily so.
+
+57
+00:02:56,560 --> 00:02:58,040
+并不让人难受。
+It's not unpleasant.
+
+58
+00:02:58,080 --> 00:03:00,120
+那位可不太环保啊，
+跑得飞快。
+That's not very economical.
+He's going quickly.
+
+59
+00:03:01,560 --> 00:03:03,200
+行吧，萨博确实和
+Now, alright, the Saab does share
+
+60
+00:03:03,240 --> 00:03:05,480
+沃克斯豪尔·威达共用了
+不少零配件。
+a lot of its bits and pieces
+with the Vauxhall Vectra.
+
+61
+00:03:05,520 --> 00:03:07,200
+但他们换上了自家的发动机，
+But they have put their own engines in
+
+62
+00:03:07,240 --> 00:03:10,000
+以及自研的悬挂调校。
+（事实证明这成了他们的败笔）
+and their own suspension setup.
+(which would prove to be their undoing)
+
+63
+00:03:10,040 --> 00:03:12,520
+开起来虽然算不上最敏锐犀利的家伙，
+It's not the sharpest feeling piece of kit,
+
+64
+00:03:12,560 --> 00:03:15,320
+但你确实能体会到一种扎实的高级感。
+but you do get a solid, premium car feel.
+
+65
+00:03:15,360 --> 00:03:16,480
+而这正是它的精髓所在。
+And that's what it's about.
+
+66
+00:03:16,520 --> 00:03:17,480
+它必须得做到这份上，
+That's what it's got to be to
+
+67
+00:03:17,520 --> 00:03:19,120
+如果想跟奥迪、
+if it's gonna compete with Audi,
+
+68
+00:03:19,160 --> 00:03:21,960
+宝马和奔驰竞争的话——
+而这正是厂家的野心。
+BMW and Mercedes which is what
+they want it to do.
+
+69
+00:03:22,000 --> 00:03:24,080
+这台2.0T搭载的是一台两升发动机
+The two-litre T has a two-litre engine
+
+70
+00:03:24,120 --> 00:03:27,080
+加一颗涡轮，而且是
+低增压涡轮。
+and a turbo, and it's
+a light pressure turbo.
+
+71
+00:03:27,120 --> 00:03:30,480
+增压值非常、非常低。
+低到你几乎感觉不到它的存在。
+A very, very light pressure.
+So light, it's hardly there.
+
+72
+00:03:30,520 --> 00:03:32,840
+转速超过大概3500转时，它就会……
+Over about 3,500 revs it goes...
+
+73
+00:03:32,880 --> 00:03:35,120
+[吹气] 噗一下，然后就没了。
+[BLOWS] And that's it.
+
+74
+00:03:35,160 --> 00:03:36,680
+我可不要什么低增压涡轮。
+I don't want light pressure turbos.
+
+75
+00:03:36,720 --> 00:03:40,240
+我要的是那种傻大粗暴、
+力大砖飞的狂暴大涡轮，
+I want great big, stonking,
+huge, heavy-handed turbos
+
+76
+00:03:40,280 --> 00:03:41,880
+能直接把你死死拍进座椅里的那种。
+that throw you through the seat.
+
+77
+00:03:41,920 --> 00:03:44,440
+但真那么干的话，
+就太不环保了，
+But then to do so would
+be very uneconomical,
+
+78
+00:03:44,480 --> 00:03:46,240
+而且违背了我们的出行指南。
+and against our guidelines.
+
+79
+00:03:50,680 --> 00:03:53,080
+眼下很显然，它的实力远不止于此。
+Now, obviously, it's capable
+of far, far more.
+
+80
+00:03:53,120 --> 00:03:54,400
+我们完全能跑出超过……
+We can do speeds in excess of...
+
+81
+00:03:54,440 --> 00:03:56,360
+哦，好吧，跑个60迈绝对没问题。
+Ooh, well, it can certainly do 60.
+
+82
+00:03:56,400 --> 00:03:58,320
+但那样就太疯狂了。
+But that'd be crazy.
+
+83
+00:04:01,320 --> 00:04:02,800
+不过你要真打算撒欢狂飙，
+But if you are going to let rip
+
+84
+00:04:02,840 --> 00:04:05,640
+去探索60迈以上的速度，
+and explore speeds beyond 60,
+
+85
+00:04:05,680 --> 00:04:07,600
+务必趁着还没开到
+make sure you do it before you get
+
+86
+00:04:07,640 --> 00:04:10,000
+那个伟大的政府发明——
+to that great government invention,
+
+87
+00:04:10,040 --> 00:04:11,440
+公交专用道之前赶紧搞定。
+the bus lane.
+
+88
+00:04:16,080 --> 00:04:18,880
+来了来了，公交专用道。
+Here we go. Bus lane.
+
+89
+00:04:18,920 --> 00:04:21,200
+据说，这里每小时
+Apparently, as many as two buses
+
+90
+00:04:21,240 --> 00:04:22,520
+足足会有两辆公交车经过呢。
+an hour come along here.
+
+91
+00:04:22,560 --> 00:04:25,080
+就为了这，封掉
+So, that's worth cordoning off
+
+92
+00:04:25,120 --> 00:04:28,160
+整整百分之五十的可用路面，太值了。
+fifty percent of the available road space.
+
+93
+00:04:28,200 --> 00:04:31,720
+还是永久封闭。真是天才般的设想。
+Permanently. Great thinking.
+
+94
+00:04:31,760 --> 00:04:33,960
+讽刺的是，就在宝马
+It's funny, at a time
+when BMW have introduced
+
+95
+00:04:34,000 --> 00:04:37,080
+在大7系上推出iDrive系统，
+their iDrive, the system
+on the big 7 Series,
+
+96
+00:04:37,120 --> 00:04:39,920
+让你用一个大旋钮就能掌控一切时——
+where you get one big knob
+to control everything,
+
+97
+00:04:39,960 --> 00:04:41,480
+我说的可不是司机（是个大蠢货），
+it's not the driver,
+
+98
+00:04:41,520 --> 00:04:43,920
+而是真真切切在中控台上的大旋钮。
+it's a big knob, literally,
+on the centre console.
+
+99
+00:04:43,960 --> 00:04:46,600
+而在这辆车里，走的却是复古路线，
+In here we've got an old fashioned approach
+
+100
+00:04:46,640 --> 00:04:47,560
+但凡是个功能，就有一个按键、一个开关，
+where we've got a button, a switch,
+
+101
+00:04:47,600 --> 00:04:49,720
+或者一个旋钮、拨盘。
+a knob or dial for everything.
+
+102
+00:04:49,760 --> 00:04:53,960
+我数了数，这车里有98个独立的控制键。
+I've counted 98 separate
+controls in this car.
+
+103
+00:04:54,000 --> 00:04:55,520
+整整九十八个。
+Ninety-eight.
+
+104
+00:04:55,560 --> 00:04:57,320
+这所有的按键，能让你操控
+And all those buttons give you control over
+
+105
+00:04:57,360 --> 00:04:59,200
+一大堆令人眼花缭乱的小玩意儿：
+an impressive array of toys,
+
+106
+00:04:59,240 --> 00:05:03,320
+空调、行车电脑、定速巡航，还有CD机。
+air conditioning, car computer,
+cruise control, and CD player.
+
+107
+00:05:03,360 --> 00:05:05,440
+全都是标配。
+All fitted as standard.
+
+108
+00:05:05,480 --> 00:05:06,400
+不过我们的指导手册
+But our guidelines have something
+
+109
+00:05:06,440 --> 00:05:07,680
+对此可有些话要说了。
+to say on that matter.
+
+110
+00:05:07,720 --> 00:05:09,480
+手册告诉我们，很遗憾，
+They tell us that unfortunately,
+
+111
+00:05:09,520 --> 00:05:12,800
+车上所有的用电设备，尤其是空调，
+all onboard electrical devices,
+particularly air conditioning
+
+112
+00:05:12,840 --> 00:05:15,560
+除非万不得已，否则都不应该开，
+shouldn't be used
+unless absolutely necessary,
+
+113
+00:05:15,600 --> 00:05:17,120
+因为它们会浪费宝贵的燃油。
+because they waste precious fuel.
+
+114
+00:05:17,160 --> 00:05:21,440
+所以，很遗憾，虽然这些东西都很方便，
+So, unfortunately,
+handy though all that stuff is,
+
+115
+00:05:21,480 --> 00:05:23,560
+但我得确保
+I'm gonna make sure
+
+116
+00:05:23,600 --> 00:05:25,640
+咱们碰都不碰，保持环保友好。
+we don't use it, and stay friendly.
+
+117
+00:05:25,680 --> 00:05:27,960
+因为政府就是这么教导我们的。
+Because that's what the government tell us.
+
+118
+00:05:28,000 --> 00:05:31,520
+这就搞定了。[叹气] 真可惜。
+That should do it.
+[SIGHS] Shame, really.
+
+119
+00:05:31,560 --> 00:05:35,040
+我本来超想开空调的，这车里已经开始有点闷热了。
+I'd have loved the air con.
+It's getting a bit muggy in here.
+
+120
+00:05:37,400 --> 00:05:39,560
+其实，这车性价比还挺高的。
+In fact, it's pretty good value for money.
+
+121
+00:05:39,600 --> 00:05:43,520
+卖两万一千五百镑，比同级别最便宜的
+At £21,500, it's over £2,000 cheaper
+
+122
+00:05:43,560 --> 00:05:45,880
+奔驰或宝马还要便宜两千多镑。
+than the nearest Mercedes or BMW.
+
+123
+00:05:45,920 --> 00:05:47,400
+你正好可以坐在这儿做做白日梦，
+And you can sit and dream
+
+124
+00:05:47,440 --> 00:05:49,440
+琢磨省下来的这笔巨款该怎么花，
+about how to spend all that
+money you've saved
+
+125
+00:05:49,480 --> 00:05:51,520
+顺便被死死堵在红绿灯前。
+whilst you're stuck at the lights.
+
+126
+00:05:52,120 --> 00:05:55,240
+寸步难行。
+And stationary.
+
+127
+00:05:56,640 --> 00:05:57,920
+瞧，我可完全按规矩办事了。
+Now, I've followed the guidelines.
+
+128
+00:05:57,960 --> 00:06:01,720
+我已经把发动机给熄了。真棒，简直妙极了。
+I've switched my engine off.
+Which is great, lovely.
+
+129
+00:06:01,760 --> 00:06:03,360
+伦敦这儿有这么个传言，
+There's a rumour here in London
+
+130
+00:06:03,400 --> 00:06:05,560
+说是市长肯·利文斯通，
+that the Mayor, Ken Livingstone,
+
+131
+00:06:05,600 --> 00:06:07,360
+其实在暗中对红绿灯动了手脚，
+is actually rigging the traffic lights
+
+132
+00:06:07,400 --> 00:06:09,240
+故意把交通搞得越乱越好，
+to cause maximum disruption,
+
+133
+00:06:09,280 --> 00:06:10,840
+好让大家更容易接受
+so that people are more accepting
+
+134
+00:06:10,880 --> 00:06:12,240
+他推行的“拥堵费”。
+of his congestion charges.
+
+135
+00:06:12,280 --> 00:06:13,600
+等这笔钱一开收，
+And when he brings them in,
+
+136
+00:06:13,640 --> 00:06:15,200
+他再把灯调回来，让全城畅通无阻。
+he can change the lights
+so everything moves.
+
+137
+00:06:15,240 --> 00:06:16,480
+多谢你了啊，肯。
+Cheers, Ken.
+
+138
+00:06:16,520 --> 00:06:19,360
+[汽车喇叭齐鸣]
+[CAR HORNS BLARING]
+
+139
+00:06:19,400 --> 00:06:20,720
+噢，变灯了。
+Ooh, lights are changing.
+
+140
+00:06:22,560 --> 00:06:25,880
+我刚起步往前开……又变回去了。
+I've started pulling forward...
+They've changed.
+
+141
+00:06:25,920 --> 00:06:29,560
+得咧。我这转瞬即逝的八秒起飞窗口就这么没了。
+That's it. That was
+my eight-second launch window.
+
+142
+00:06:29,600 --> 00:06:31,480
+当然了，这纯属谣传，
+Of course, it is only a rumour,
+
+143
+00:06:31,520 --> 00:06:33,040
+市长手底下的人也极力否认。
+and his people deny it.
+
+144
+00:06:33,080 --> 00:06:35,120
+他们坚称调整红绿灯，
+They say the traffic lights
+have been changed
+
+145
+00:06:35,160 --> 00:06:39,440
+是为了避免道路施工期间相关区域出现过度拥堵。
+to avoid too much congestion
+in areas during times of roadworks.
+
+146
+00:06:39,480 --> 00:06:41,920
+但这鬼地方不是随时随地都在修路吗？
+But that's everywhere
+all the time, isn't it?
+
+147
+00:06:41,960 --> 00:06:43,440
+明摆着的事。
+Surely.
+
+148
+00:06:43,480 --> 00:06:45,560
+他们还死不承认这引发了交通大瘫痪。
+They also deny that
+it's causing traffic chaos.
+
+149
+00:06:47,880 --> 00:06:49,320
+那眼前这算什么？
+What's this, then?
+
+150
+00:06:49,360 --> 00:06:52,440
+他们居然说司机们会另辟蹊径的。
+They say that drivers
+will find alternative routes.
+
+151
+00:06:52,480 --> 00:06:55,960
+从哪儿辟？上天吗？
+Where? In the sky?
+
+152
+00:06:56,000 --> 00:06:59,920
+红灯两分钟，绿灯八秒。干得漂亮。
+Two minutes red. Eight seconds green. Nice.
+
+153
+00:06:59,960 --> 00:07:03,360
+我们就只能这么傻坐在红绿灯前，
+And we can just sit here
+at the traffic lights
+
+154
+00:07:04,040 --> 00:07:06,280
+眼睁睁看着生命
+as our life ebbs
+
+155
+00:07:06,320 --> 00:07:09,320
+一点一滴地消逝……
+slowly away...
+
+156
+00:07:13,080 --> 00:07:14,600
+精彩极了。
+Well done.
+
+157
+00:07:14,640 --> 00:07:16,560
+本次短片拍摄过程中没有任何鲸鱼受到伤害，
+No whales were harmed in
+the making of that item,
+
+158
+00:07:16,600 --> 00:07:18,000
+这一点我必须郑重声明，
+I wanna make that absolutely plain,
+
+159
+00:07:18,040 --> 00:07:20,600
+但你压根就没提那辆车开起来到底怎么样。
+but you forgot to tell us
+what the car was like.
+
+160
+00:07:20,640 --> 00:07:23,280
+对哦，我还真把这茬给漏了。怎么着？
+[台下观众起哄声]
+Yeah, I did miss that bit out. What?
+[MAN HECKLING INDISTINCTLY]
+
+161
+00:07:23,320 --> 00:07:24,480
+克拉克森：公交车？
+- 我的老天爷啊。
+CLARKSON: Bus?
+- Good Lord.
+
+162
+00:07:24,520 --> 00:07:26,400
+克拉克森：不，那是长途大巴。
+CLARKSON: No, that's a coach.
+
+163
+00:07:26,440 --> 00:07:28,800
+所谓的公交车，得是个臭气熏天的铁疙瘩，
+里面塞满了老太太，
+A bus is a big, smelly thing
+full of old ladies
+
+164
+00:07:28,840 --> 00:07:29,920
+排着队坐车去邮局。
+going to the post office.
+
+165
+00:07:29,960 --> 00:07:31,240
+[众人大笑]
+[ALL LAUGHING]
+
+166
+00:07:31,280 --> 00:07:32,720
+那车拉的可是商务人士，
+That's taking businessmen
+
+167
+00:07:32,760 --> 00:07:34,560
+是从希思罗去伦敦市区的，根本不算。
+from Heathrow in to London, doesn't count.
+
+168
+00:07:34,600 --> 00:07:36,920
+根本不算。话说回来，这车嘛，
+确实有点平淡无奇。
+Doesn't count. Yeah, the car,
+it's just a bit bland.
+
+169
+00:07:36,960 --> 00:07:40,040
+以前的萨博向来特立独行，
+有着环抱式的挡风玻璃，
+Old Saabs used to be quirky
+with wraparound windscreens
+
+170
+00:07:40,080 --> 00:07:41,760
+还有一整块厚实的仪表台。
+and big slabs of dash.
+
+171
+00:07:41,800 --> 00:07:43,880
+但眼前这台……就只是一辆普通汽车。
+But this is just, it's just a car.
+
+172
+00:07:43,920 --> 00:07:45,320
+不过它的发动机倒是挺聪明的。
+It's got a clever engine though.
+
+173
+00:07:45,360 --> 00:07:46,640
+那台发动机确实非常聪明。
+It's got a very clever engine.
+
+174
+00:07:46,680 --> 00:07:48,200
+举个例子，要是你开着它穿过
+For instance, if you drive it through
+
+175
+00:07:48,240 --> 00:07:51,640
+污染极其严重的城市，
+比如洛杉矶、丹佛……
+really heavily polluted cities
+like L.A., Denver...
+
+176
+00:07:51,680 --> 00:07:53,640
+伯明翰。
+- 没错，还有伯明翰。
+Birmingham.
+- Yeah. Birmingham as well.
+
+177
+00:07:53,680 --> 00:07:55,720
+从它排气管里喷出来的废气，
+The stuff that comes out of the exhaust
+
+178
+00:07:55,760 --> 00:07:59,360
+居然比车头吸进去的空气毒性还要小。
+is actually less toxic than
+the air going in at the front.
+
+179
+00:07:59,400 --> 00:08:01,880
+真的假的？
+- 因为这种低压涡轮车上的
+Really?
+- Because the catalytic converter
+
+180
+00:08:01,920 --> 00:08:05,560
+三元催化器太聪明、效率太高了，
+on a light-pressure turbo
+like this is so clever and efficient
+
+181
+00:08:05,600 --> 00:08:07,560
+以至于堵车时周围所有车子
+喷出来的脏东西，
+that all the muck
+coming out of all the cars
+
+182
+00:08:07,600 --> 00:08:09,360
+它都能顺手从里面
+around you in the traffic, it'll take out
+
+183
+00:08:09,400 --> 00:08:10,720
+过滤掉相当一部分杂质。
+some of the bits and pieces from there.
+
+184
+00:08:10,760 --> 00:08:14,200
+所以，照这么说，要是你
+把这台车的发动机熄火，
+So, basically if you turn
+this car's engine off
+
+185
+00:08:14,240 --> 00:08:15,480
+在等红灯的时候……
+- 对。
+at the lights...
+- Yeah.
+
+186
+00:08:15,520 --> 00:08:17,440
+……你反倒是在破坏环境？
+...you're harming the environment?
+
+187
+00:08:17,480 --> 00:08:19,760
+没错，你那么做简直就是失职、不负责任，
+[观众大笑]
+Yeah, it's very neglectful
+of you to do that
+[AUDIENCE LAUGHING]
+
+188
+00:08:19,800 --> 00:08:21,720
+事实上虽然很荒谬，但神奇的是这居然是真的。
+in fact, which is weird but strangely true.
+
+189
+00:08:21,760 --> 00:08:24,360
+所以政府出的那套指南根本没用？
+These government guidelines don't work?
+
+190
+00:08:24,400 --> 00:08:25,920
+哎，反正本来也没管用过。
+Well, they don't work anyway.
+
+191
+00:08:25,960 --> 00:08:27,840
+我是说，等红绿灯起步时
+我没被后面的小货车司机
+I mean, I was lucky
+not to get punched in the face
+
+192
+00:08:27,880 --> 00:08:29,480
+狠狠揍上一拳，
+就已经算走大运了。
+by a van driver waiting
+to get away at those lights anyways.
+
+193
+00:08:29,520 --> 00:08:31,240
+结果你还错过了，你错过了起步窗口。
+Which you missed. You missed your window.
+
+194
+00:08:31,280 --> 00:08:33,480
+绿灯总共就八秒，
+You've got eight seconds of green,
+
+195
+00:08:33,520 --> 00:08:35,240
+红灯足足两分钟，
+two minutes of red,
+
+196
+00:08:35,280 --> 00:08:37,200
+你就像个苦等了两天就为开一枪的狙击手。
+you're like a sniper waiting for two days
+to take a shot.
+
+197
+00:08:37,240 --> 00:08:40,040
+[众人大笑]
+- 结果还脱靶了。
+[ALL LAUGHING]
+- Missed it.
+
+198
+00:08:40,080 --> 00:08:43,480
+行了，听着，咱们先别管怎么开车了，
+Okay, well, look, let's forget
+about how to drive
+
+199
+00:08:43,520 --> 00:08:45,680
+还是把注意力集中在开什么车上吧。
+and let's concentrate on what to drive.
+
+200
+00:08:45,720 --> 00:08:47,240
+节目稍后我们就会好好聊聊这个。
+We'll be doing that later in the programme
+
+201
+00:08:47,280 --> 00:08:48,640
+不过现在，进入新闻时间。
+but for now, The News.
+
+202
+00:08:50,480 --> 00:08:53,840
+本周，大发汽车带来了
+全新Copen的消息，
+This week, news from Daihatsu
+on the new Copen
+
+203
+00:08:53,880 --> 00:08:56,400
+这名字显然代表着
+“能敞篷的双门轿跑”。
+which obviously stands
+for coupe that opens.
+
+204
+00:08:56,440 --> 00:08:58,880
+这可是未来的汽车啊。
+This is the car of the future.
+
+205
+00:08:58,920 --> 00:09:00,880
+两周前我们不是聊过
+Smart Roadster吗？
+Couple of weeks ago, we talked about
+the Smart Roadster?
+
+206
+00:09:00,920 --> 00:09:04,920
+没错。
+- 这台车装了台小巧的
+660cc涡轮增压发动机，
+Yes.
+- This is a little
+660cc turbo-charged engine,
+
+207
+00:09:04,960 --> 00:09:07,440
+还有像SLK那样的折叠硬顶……
+folding roof like the SLK...
+
+208
+00:09:07,480 --> 00:09:08,960
+我看它唯一的问题在于，
+The only problem I can see with it
+
+209
+00:09:09,000 --> 00:09:11,800
+真要引进的话，
+售价可能得奔着一万四千镑去了。
+is they're gonna be out
+£14,000 if they import it.
+
+210
+00:09:11,840 --> 00:09:16,040
+一万四？那Smart才卖……
+- 一万二。呃，起步价一万二。
+Fourteen? And the Smart was...
+- Twelve. Well, starting at 12.
+
+211
+00:09:16,080 --> 00:09:17,560
+所以这车整整贵了两千镑。
+So this is £2,000 too much.
+
+212
+00:09:17,600 --> 00:09:18,920
+所以他们还没最终决定
+到底要不要引进。
+So it's not decided yet
+whether they're gonna import it.
+
+213
+00:09:18,960 --> 00:09:20,240
+换我才不费那劲呢。
+I wouldn't bother.
+
+214
+00:09:20,280 --> 00:09:23,240
+就是，这价格直接把自己给作死了。
+- 太贵了。
+No. That's gonna kill it.
+- Too expensive.
+
+215
+00:09:23,280 --> 00:09:24,480
+行了，这车算结案了。
+Sorted that one out.
+
+216
+00:09:24,520 --> 00:09:27,000
+上周还有个争议，是关于
+Last week there was an issue about
+
+217
+00:09:27,040 --> 00:09:29,720
+杰里米那台梅赛德斯SL55 AMG的。
+Jeremy's Mercedes SL55 AMG.
+
+218
+00:09:29,760 --> 00:09:31,080
+被你们给偷走的那台。
+Which you stole.
+
+219
+00:09:31,120 --> 00:09:32,760
+差不多算是偷了吧。
+[全场大笑]
+We kind of did.
+[ALL LAUGHING]
+
+220
+00:09:32,800 --> 00:09:34,680
+而且你知道
+最搞笑的是什么吗？
+And do you know
+what's really funny?
+
+221
+00:09:34,720 --> 00:09:38,600
+我们收到了不知道多少封、成百上千封观众邮件，
+Is we've had I don't know how many, 100s
+of e-mails from people
+
+222
+00:09:38,640 --> 00:09:41,120
+都说在赛道上被开的那台车，
+saying that the car driven round the track
+
+223
+00:09:41,160 --> 00:09:44,880
+斯提格开的那台根本就不是我的。
+by The Stig wasn't mine.
+
+224
+00:09:44,920 --> 00:09:48,240
+不是，真的，事情是这样的，
+我做公路路测的时候，
+No, really, the thing was,
+when I drove it in the road test
+
+225
+00:09:48,280 --> 00:09:49,960
+把车牌给换了。
+I changed my plates.
+
+226
+00:09:50,000 --> 00:09:54,080
+我挂了个“SL55 AMG”的牌子，这样就没人知道我的真实车牌了。
+I put SL55 AMG on so no-one
+knows what my number plate is.
+
+227
+00:09:54,120 --> 00:09:57,080
+你们偷去开的时候换车牌了吗？
+[全场大笑]
+Did you bother changing the plates?
+[ALL LAUGHING]
+
+228
+00:09:58,240 --> 00:09:59,760
+呃，并没有。
+No. Not really.
+
+229
+00:09:59,800 --> 00:10:01,120
+所以你们真偷了我的车？
+You did steal my car?
+
+230
+00:10:01,160 --> 00:10:03,080
+对啊，八九不离十吧。
+这下大家总算弄清楚了。
+Yeah, pretty much.
+So if we can just clear that up.
+
+231
+00:10:03,120 --> 00:10:06,800
+不过这里还有条新闻，
+保证让你更郁闷。
+But there is more news here,
+that's left you down hearted.
+
+232
+00:10:06,840 --> 00:10:09,480
+这绝对会让你彻底笑不出来，
+因为有台更好的出来了。
+This won't cheer you up at all
+because there's a better one.
+
+233
+00:10:09,520 --> 00:10:11,240
+德国改装厂巴博斯（Brabus），
+Brabus, the German tuning house,
+
+234
+00:10:11,280 --> 00:10:12,320
+你八成听说过他们，
+you've heard of 'em probably,
+
+235
+00:10:12,360 --> 00:10:14,200
+他们推出了K8，
+they brought out the K8
+
+236
+00:10:14,240 --> 00:10:16,480
+基本上动力能额外榨出大约75匹马力……
+basically it's going
+to be about 75 brake horsepower...
+
+237
+00:10:16,520 --> 00:10:17,680
+噢——
+- 比原来还要残暴。
+Ooh.
+- Even more than before.
+
+238
+00:10:17,720 --> 00:10:19,240
+还改装了一套帅炸的大轮毂。
+It's tricked up with great wheels.
+
+239
+00:10:19,280 --> 00:10:21,440
+我是说，那绝对是一台又大又狠的猛兽。
+And I mean, that is a big, mean car.
+
+240
+00:10:21,480 --> 00:10:23,120
+这车娘炮吗？
+- 噢，一点都不。
+Is that gay?
+- Oh, no.
+
+241
+00:10:23,160 --> 00:10:24,840
+有谁觉得那玩意儿太娘了？
+Who thinks that's gay?
+
+242
+00:10:24,880 --> 00:10:26,680
+观众：对！
+- 反正就是娘炮。
+AUDIENCE: Yeah.
+- That's still gay.
+
+243
+00:10:26,720 --> 00:10:28,520
+抱歉啦，杰里米。
+- 那它要卖多少钱？
+Sorry, Jeremy.
+- What's it gonna cost?
+
+244
+00:10:28,560 --> 00:10:31,880
+卖多少钱根本没区别，
+反正就是娘炮。
+It doesn't make any difference
+how much it's gonna cost. It's gay.
+
+245
+00:10:31,920 --> 00:10:33,680
+[全场大笑]
+[ALL LAUGHING]
+
+246
+00:10:33,720 --> 00:10:34,640
+安全性怎么样？
+What about safety?
+
+247
+00:10:34,680 --> 00:10:36,120
+我觉得很多人都以为
+I think a lot of people think
+
+248
+00:10:36,160 --> 00:10:37,800
+所有的车其实都差不多，
+that all cars are about the same,
+
+249
+00:10:37,840 --> 00:10:40,960
+都得通过同样的测试，
+但事实根本不是这样。
+they all have to pass the same tests,
+but actually they're not.
+
+250
+00:10:41,000 --> 00:10:44,800
+现在有个机构
+叫欧洲NCAP，对吧？
+There's an organisation
+now called EuroNCAP, okay?
+
+251
+00:10:44,840 --> 00:10:47,440
+他们测试了大量汽车并进行评级。
+And they test loads of cars and grade them.
+
+252
+00:10:47,480 --> 00:10:49,320
+代表我们消费者进行独立评测。
+They're independent on our behalf.
+
+253
+00:10:49,360 --> 00:10:51,320
+一星、两星、三星、四星、五星，
+One, two, three, four, five stars,
+
+254
+00:10:51,360 --> 00:10:53,800
+而到目前为止，
+唯一拿到五星评价的，
+and so far the only cars
+that have got five stars
+
+255
+00:10:53,840 --> 00:10:57,600
+就只有雷诺拉古那
+和奔驰C级，懂吧？
+were the Renault Laguna
+and the Mercedes C-Class, okay?
+
+256
+00:10:57,640 --> 00:10:59,760
+但他们刚又测了18款车，
+But they've just tested 18 more cars
+
+257
+00:10:59,800 --> 00:11:02,560
+其中有四款拿了五星。
+and four of them have got five stars.
+
+258
+00:11:02,600 --> 00:11:05,040
+它们是——这很重要，
+大家听好了——
+And they are, this is important
+you should know this,
+
+259
+00:11:05,080 --> 00:11:06,640
+奔驰E级、
+the Mercedes E-Class,
+
+260
+00:11:06,680 --> 00:11:09,600
+我们上周介绍过的
+雷诺Vel Satis、
+the Renault Vel Satis
+which we looked at last week,
+
+261
+00:11:09,640 --> 00:11:14,560
+雷诺梅甘娜，
+一辆雷诺梅甘娜居然拿了五星！
+the Renault Megane,
+five stars for a Renault Megane.
+
+262
+00:11:14,600 --> 00:11:17,760
+还有你最近开的那辆萨博9-3。
+And the Saab 9-3 which you've been driving.
+
+263
+00:11:17,800 --> 00:11:20,200
+确实，所以它不仅环保，
+That's true, so not only
+is it good for the environment,
+
+264
+00:11:20,240 --> 00:11:21,920
+穿过脏兮兮的市区时
+还能净化空气。
+it cleans the air if you go
+through a mucky city.
+
+265
+00:11:21,960 --> 00:11:23,680
+何止是空气，
+那玩意儿……
+It's not just the air,
+that thing...
+
+266
+00:11:23,720 --> 00:11:26,480
+连得了狂犬病的蝙蝠都能吸进去。
+[全场大笑]
+It'll suck rabid bats in.
+[ALL LAUGHING]
+
+267
+00:11:26,520 --> 00:11:28,240
+给洗得干干净净、蓬蓬松松的，
+Clean them up, nice and fluffy,
+
+268
+00:11:28,280 --> 00:11:31,840
+再从屁股后面喷出来，
+身上狂犬病毒都没了。
+- 真是太贴心了。
+shoot them out the back end
+with no rabies on them.
+- How lovely.
+
+269
+00:11:31,880 --> 00:11:33,800
+要是你看看这几款车，
+If you look to those cars,
+
+270
+00:11:33,840 --> 00:11:36,600
+你根本想不到它们能拿五星，对吧？
+比如Vel Satis。
+you wouldn't obviously think,
+would you? A Vel Satis.
+
+271
+00:11:36,640 --> 00:11:38,320
+还有梅甘娜，你打量一辆雷诺梅甘娜，
+Well, a Megane, you wouldn't
+look at a Renault Megane
+
+272
+00:11:38,360 --> 00:11:40,720
+绝不可能觉得
+“这玩意儿难道比奔驰S级还安全？”
+and think "Is that safer
+than a Mercedes S class?"
+
+273
+00:11:40,760 --> 00:11:42,800
+绝不可能。
+- 他们还测了行人碰撞安全，
+No.
+- They also test for pedestrian safety
+
+274
+00:11:42,840 --> 00:11:44,480
+也就是万一你真撞到了人，
+you know, if you actually run into someone
+
+275
+00:11:44,520 --> 00:11:47,360
+结果所有车的成绩不是惨不忍睹
+就是极度糟糕。
+and all of them do either badly
+or very badly.
+
+276
+00:11:47,400 --> 00:11:50,160
+至于铃木超级维特拉，
+Or in the case of the Suzuki Grand Vitara,
+
+277
+00:11:50,200 --> 00:11:53,480
+简直惨绝人寰：直接挂了个零蛋。
+appallingly; it got no stars.
+
+278
+00:11:53,520 --> 00:11:56,840
+所以要是你发现自己
+站在双车道主干道正中间，
+So if you find yourself
+in the middle of a dual carriageway
+
+279
+00:11:56,880 --> 00:11:58,640
+迎面有两辆车冲你疾驰而来，
+there are two cars coming towards you,
+
+280
+00:11:58,680 --> 00:11:59,960
+你心知肚明自己横竖都要被撞，
+you know you're going to be run over,
+
+281
+00:12:00,000 --> 00:12:02,200
+如果其中有一辆是铃木超级维特拉，
+if one of them is a Suzuki Grand Vitara,
+
+282
+00:12:02,240 --> 00:12:03,760
+果断选另一辆准没错。
+go for the other one.
+
+283
+00:12:03,800 --> 00:12:05,640
+[全场大笑]
+[ALL LAUGHING]
+
+284
+00:12:05,680 --> 00:12:08,520
+说点正经的，容我严肃一小会儿，
+Just being serious, if I may, for a moment,
+
+285
+00:12:08,560 --> 00:12:11,760
+因为，呃，在有娃之前
+because, erm, I never used to worry about
+
+286
+00:12:11,800 --> 00:12:14,120
+我从没操心过汽车安全问题。
+safety at all until I had kids.
+
+287
+00:12:14,160 --> 00:12:18,760
+而NCAP碰撞测试确实会在后排
+装上儿童安全座椅，
+And NCAP actually do test
+if they put child seats in the back
+
+288
+00:12:18,800 --> 00:12:21,760
+用18个月大的假人婴儿
+和3岁的孩子来测试，看看
+and test 18-month-old babies
+and three-year-olds to see
+
+289
+00:12:21,800 --> 00:12:24,040
+一旦发生事故，
+他们能撑成什么样，
+how they survive and how
+well they're looked after
+
+290
+00:12:24,080 --> 00:12:25,680
+受保护程度到底如何。
+if you have an accident.
+
+291
+00:12:25,720 --> 00:12:28,680
+大部分接受测试的车
+表现都挺不错，
+And most of the cars
+they tested have done very well
+
+292
+00:12:28,720 --> 00:12:32,000
+但被他们挑出来
+评为极其出色的，
+but the one they picked out
+as being very good
+
+293
+00:12:32,040 --> 00:12:35,240
+居然是斯巴鲁力狮傲虎。
+is the Subaru Legacy Outback.
+
+294
+00:12:35,280 --> 00:12:38,320
+你瞧瞧它，换谁也想不到会是它，对吧？
+And you look at that, that's not
+an obvious choice, is it?
+
+295
+00:12:38,360 --> 00:12:41,680
+两人：确实想不到。
+- 要是想把孩子放在安全的地方，
+BOTH: No.
+- If you wanted to put
+children somewhere safe,
+
+296
+00:12:41,720 --> 00:12:44,520
+你肯定会选沃尔沃、奔驰或者大号四驱车。
+you'd go Volvo or Mercedes or a big 4x4.
+
+297
+00:12:44,560 --> 00:12:45,960
+但偏偏是那辆车脱颖而出，
+But that is actually singled out
+
+298
+00:12:46,000 --> 00:12:49,520
+装上儿童座椅后
+表现极其拔尖，
+with its child seats
+as being very, very good
+
+299
+00:12:49,560 --> 00:12:51,960
+不管是侧面碰撞还是正面碰撞。
+in both side impacts and frontal ones.
+
+300
+00:12:52,000 --> 00:12:53,240
+事情就是这样。
+So there we are.
+
+301
+00:12:53,280 --> 00:12:54,720
+好。有人留意到
+Right. Has anybody seen
+
+302
+00:12:54,760 --> 00:12:57,520
+那位交通大臣阿利斯泰尔·达林了吗？真是难为他了。
+that Transport Minister
+Alistair Darling? Bless him.
+
+303
+00:12:57,560 --> 00:13:00,800
+他一直在嚷嚷
+说我们需要设立一位“路坑沙皇”。
+He's been saying
+that we need is a "Hole Tsar."
+
+304
+00:13:00,840 --> 00:13:02,640
+什么玩意儿？
+- 因为马路上到处都是坑……
+A what?
+- Because of all the holes in the road...
+
+305
+00:13:02,680 --> 00:13:04,880
+主要是因为各部门毫无规划、一团混乱，
+It's because of all the disorganisation,
+
+306
+00:13:04,920 --> 00:13:08,200
+我记得是在伦敦河岸街，居然挖了大概160个坑……
+I think it was in London on
+the Strand about 160 holes...
+
+307
+00:13:08,240 --> 00:13:10,280
+就在12个月之内，没错。
+In 12 months, yeah.
+
+308
+00:13:10,320 --> 00:13:12,440
+全无统筹。结果就是：
+交通瘫痪、大堵车、乱成一锅粥。
+They're not organised. And as a result,
+traffic, congestion, chaos.
+
+309
+00:13:12,480 --> 00:13:15,840
+呵，好笑的是，就在同一周我们刚听闻
+Well, it's funny that comes in
+the same week that we've heard
+
+310
+00:13:15,880 --> 00:13:21,320
+如今开车的平均耗时
+慢了整整16%。
+that the average car journey
+is now 16% slower.
+
+311
+00:13:21,360 --> 00:13:23,400
+大家开自己的车跑相同的路程，
+It's taking people 16% longer
+
+312
+00:13:23,440 --> 00:13:25,280
+耗时居然多出了16%。
+to make the same journeys in their cars.
+
+313
+00:13:25,320 --> 00:13:27,760
+比四年前还慢？
+- 对。我倒觉得这点都不稀奇。
+Than it was four years ago?
+- Yes. I don't know if that's
+a big surprise.
+
+314
+00:13:27,800 --> 00:13:30,600
+我平时接送孩子上学的路，不在伦敦，
+The school run I have to do not in London,
+
+315
+00:13:30,640 --> 00:13:33,280
+是从牛津城外开进牛津市中心，
+it's from outside Oxford
+into the centre of Oxford,
+
+316
+00:13:33,320 --> 00:13:35,160
+全英国对汽车“最友好”的城市……
+the most car-friendly city in Britain...
+
+317
+00:13:36,720 --> 00:13:38,800
+好吧行，第二友好的城市。
+Well, okay, second most car-friendly.
+
+318
+00:13:38,840 --> 00:13:41,400
+如今18英里的路，要开一个半小时。
+That's now 18 miles, an hour and a half.
+
+319
+00:13:41,440 --> 00:13:43,800
+而最有意思的地方在于，
+The interesting point being,
+
+320
+00:13:43,840 --> 00:13:46,400
+你们猜车流量到底增加了多少？
+how much do you think
+the traffic has increased by?
+
+321
+00:13:46,440 --> 00:13:47,840
+要造成这种局面的车流量。
+The volume of traffic to achieve that.
+
+322
+00:13:47,880 --> 00:13:50,000
+通勤时间足足增加了16%。
+So, journeys 16% longer.
+
+323
+00:13:50,040 --> 00:13:52,400
+你们觉得马路上到底
+多了多少辆车？
+How many more cars
+do you think there are on the roads?
+
+324
+00:13:52,440 --> 00:13:55,400
+女观众：二。
+- 多了百分之二？
+WOMAN: Two.
+- Two percent more.
+
+325
+00:13:55,440 --> 00:13:58,840
+还是就多了两辆？大蠢蛋！那哪至于啊。
+Or two cars? You fool! That wouldn't do it.
+
+326
+00:13:58,880 --> 00:14:01,280
+你们都猜错了。要不要揭晓答案？
+You're wrong. Should we say how many more?
+
+327
+00:14:01,320 --> 00:14:02,880
+我来告诉你们：一辆都没多。
+I'm gonna tell you. None.
+
+328
+00:14:02,920 --> 00:14:04,520
+车流量完全没变，然而
+通行时间却慢了那么多。
+It's exactly the same and yet
+journey times are that much slower.
+
+329
+00:14:04,560 --> 00:14:07,960
+全是拜我们刚才说的
+那些破烂事所赐……
+- 可不是嘛。
+And that's because of
+all the stuff we've...
+- That's why.
+
+330
+00:14:08,000 --> 00:14:10,840
+换作以前，那哥们儿在那条道上
+起码能开到70英里。
+That guy would have
+been doing 70 in that lane.
+
+331
+00:14:10,880 --> 00:14:13,640
+现在因为那玩意儿，只能憋屈地开到40。
+Now he's having to do 40 because of that.
+
+332
+00:14:13,680 --> 00:14:15,920
+哟，来车了。
+- 嗨。
+Ooh, there's something coming.
+- Hello.
+
+333
+00:14:15,960 --> 00:14:19,600
+克拉克森：是一辆出租车，
+又一辆出租车，还有一辆出租车。
+CLARKSON: It's a taxi,
+another taxi and another taxi.
+
+334
+00:14:19,640 --> 00:14:21,280
+一口气从希思罗机场开过来三辆。
+That's three coming in from Heathrow.
+
+335
+00:14:21,320 --> 00:14:23,040
+问题就在这儿。
+This is the problem.
+
+336
+00:14:23,080 --> 00:14:25,360
+还有，你们见识过他们搞的
+最新公交车站骗局吗？
+And now have you see
+the latest scam they got with bus stops?
+
+337
+00:14:25,400 --> 00:14:27,480
+以前路边好歹有个公交停靠港湾，
+There used to be a lay-by for buses.
+
+338
+00:14:27,520 --> 00:14:30,480
+对吧？好让老太太们慢慢上车。
+Okay? So that the old ladies could get on.
+
+339
+00:14:30,520 --> 00:14:34,160
+现在可好，他们直接把公交站
+往马路中间凸出来建。
+Now, they're building
+bus stops out into the road.
+
+340
+00:14:34,200 --> 00:14:35,480
+图什么呢？
+- 这是最新的“绝妙主意”，
+Why?
+- This is the latest idea
+
+341
+00:14:35,520 --> 00:14:37,200
+因为公交司机老抱怨说
+because bus drivers were saying
+
+342
+00:14:37,240 --> 00:14:38,880
+根本没人给他们让路出站。
+that no-one was letting them out.
+
+343
+00:14:38,920 --> 00:14:40,920
+[笑声]
+[LAUGHS]
+
+344
+00:14:40,960 --> 00:14:42,280
+“呜呜，没人让我出来。”
+"Nobody lets me out."
+
+345
+00:14:42,320 --> 00:14:43,840
+所以现在大家都得干等老太太在那儿磨叽：
+So now we have to wait while she dithers.
+
+346
+00:14:43,880 --> 00:14:46,120
+“哎哟，我的格子买菜小拉车还没提上来呢！”
+"Ooh I've got me tartan shopping trolley!"
+
+347
+00:14:46,160 --> 00:14:47,680
+[全场大笑]
+[ALL LAUGHING]
+
+348
+00:14:47,720 --> 00:14:49,120
+总之。
+Anyway.
+
+349
+00:14:49,160 --> 00:14:51,640
+在此之……什么？
+- 男观众：你经常坐公交出行是吧？
+Before... What?
+- MAN: Travel a lot, do you?
+
+350
+00:14:51,680 --> 00:14:54,360
+我经常坐公交……？
+- 你觉得呢？
+Do I travel a lot on...
+- What do you think?
+
+351
+00:14:54,400 --> 00:14:58,280
+[全场大笑]
+- 我其实坐过一次公交车。
+[ALL LAUGHING]
+- I went on a bus once.
+
+352
+00:14:58,320 --> 00:15:01,000
+那年我八岁，恶心透顶。
+（另见：Top Gear第36季第13集，1996年11月18日）
+I was eight. It was hideous.
+(See also: S36E13 of Top Gear, 18/11/1996)
+
+353
+00:15:01,040 --> 00:15:03,720
+言归正传，最近美国那边吵得不可开交，
+Anyway, there's been a lot of talk recently
+
+354
+00:15:03,760 --> 00:15:07,360
+都在琢磨耶稣要是活在现代
+会开什么车。
+in America about what Jesus
+would have driven.
+
+355
+00:15:07,400 --> 00:15:10,200
+我们对那玩意儿毫无兴趣。
+讲真，连半毛钱兴趣都没有。
+We're not interested in that.
+Actually, not even slightly.
+
+356
+00:15:10,240 --> 00:15:11,720
+我们真正感兴趣的，
+What we're interested in
+
+357
+00:15:11,760 --> 00:15:15,640
+是看哪个宗教能在我们的赛道上
+跑出最快圈速。
+is finding the fastest
+religion around our track.
+
+358
+00:15:15,680 --> 00:15:19,920
+所以，瞧瞧我们今天请来的阵仗。
+So, would you look at what we've got here.
+
+359
+00:15:19,960 --> 00:15:21,920
+这位先生，您代表的是……
+You, sir, are from the...
+
+360
+00:15:21,960 --> 00:15:24,080
+天主教会。
+- 天主教会，而您是……
+The Catholic church.
+- Catholic church and you're...
+
+361
+00:15:24,120 --> 00:15:25,360
+西蒙·汤普森神父。
+Father Simon Thompson.
+
+362
+00:15:25,400 --> 00:15:26,560
+好的，那么，你平时开什么车？
+Right, now, what do you drive?
+
+363
+00:15:26,600 --> 00:15:28,080
+一辆西雅特Leon。
+A Seat Leon.
+
+364
+00:15:28,120 --> 00:15:30,440
+一辆涡轮增压的西雅特Leon。
+A turbo-charged Seat Leon.
+
+365
+00:15:30,480 --> 00:15:33,320
+对。而且你还刷过行车电脑？
+Yeah. And you've had it chipped?
+
+366
+00:15:33,360 --> 00:15:35,000
+呃，掉漆的地方我确实拿补漆笔补过，对。
+Well I got the touch-up paint, yeah.
+
+367
+00:15:35,040 --> 00:15:40,000
+不，我是说你刷了ECU程序，
+把马力从180匹直接刷到了206匹。
+No, you've had it chipped from
+180 to 206 brake horsepower.
+
+368
+00:15:40,040 --> 00:15:42,800
+不得不说，这位神父车速有点猛啊。
+One fast priest, I would say.
+
+369
+00:15:42,840 --> 00:15:46,560
+那么这位先生，我猜是犹太拉比吧？
+- 没错。
+Now, you, sir, I'm guessing rabbi.
+- Correct.
+
+370
+00:15:46,600 --> 00:15:48,560
+拉比尊姓大名？
+- 皮尼·邓纳。
+Rabbi?
+- Pini Dunner.
+
+371
+00:15:48,600 --> 00:15:50,920
+皮尼·邓纳，好名字，皮尼·邓纳。
+Pini Dunner. Great name. Pini Dunner.
+
+372
+00:15:50,960 --> 00:15:54,000
+那你开什么车呢？
+- 我开一辆威达，实在抱歉。
+And what do you drive?
+- I drive a Vectra, I'm sorry.
+
+373
+00:15:54,040 --> 00:15:57,640
+[全场哄笑]
+[ALL LAUGHING]
+
+374
+00:15:57,680 --> 00:16:00,600
+你事先知道
+我们今天打算在这儿干嘛吧？
+You did know what
+we were planning on doing here?
+
+375
+00:16:00,640 --> 00:16:03,520
+我知道。
+- 呃，撞过车吗？
+I did.
+- Erm, any crashes?
+
+376
+00:16:03,560 --> 00:16:05,000
+撞过几回。
+A few.
+
+377
+00:16:05,040 --> 00:16:09,280
+跟我们细说一下。
+- 我曾经翻过一辆本田。
+Talk us through them.
+- I've turned over a Honda.
+
+378
+00:16:10,080 --> 00:16:12,800
+撞毁过一辆雪铁龙2CV。
+I've crashed a 2CV.
+
+379
+00:16:12,840 --> 00:16:16,480
+还有从自家车道倒车出来时，
+撞到了别人的车上。
+I've backed out of my drive
+into somebody's car.
+
+380
+00:16:16,520 --> 00:16:19,120
+这还只是我随口
+能想起来的三次，
+That's just three that
+I can think of offhand,
+
+381
+00:16:19,160 --> 00:16:21,120
+其实我还撞过好几次。
+but I've crashed a few more times.
+
+382
+00:16:21,160 --> 00:16:22,920
+我们唯一能总结出来的，就是你其实
+从来就没开过什么好车，
+And what we've learned is that you've
+never had a good car, actually,
+
+383
+00:16:22,960 --> 00:16:24,360
+瞧瞧这一堆破烂。
+from that little lot.
+
+384
+00:16:24,400 --> 00:16:27,360
+[全场哄笑]
+- 那么，站在你旁边的这位是……
+[ALL LAUGHING]
+- Now, standing alongside you is,
+
+385
+00:16:27,400 --> 00:16:33,200
+尼卡卡·喇嘛·日增·达隆·
+洛巴多杰。
+Nigaka Lama Rigzin Taklung
+Roll Paedyorge.
+
+386
+00:16:33,240 --> 00:16:36,320
+真没想到你的藏语居然这么溜，太不可思议了。
+I had no idea you were so fluent
+in Tibetan. It's quite amazing.
+
+387
+00:16:36,360 --> 00:16:40,440
+顶着这么长的名字，你的邮箱地址得写成啥样？
+[全场哄笑]
+What is your e-mail address with that?
+[ALL LAUGHING]
+
+388
+00:16:40,480 --> 00:16:42,400
+我能直接叫你日增吗？
+- 噢，求之不得，叫吧。
+Can I call you Rigzin?
+- Oh, please, yes.
+
+389
+00:16:42,440 --> 00:16:45,600
+妥了。那么，你是佛教徒。
+Fine. Now, you're Buddhist.
+
+390
+00:16:45,640 --> 00:16:48,120
+没错，正是。
+- 很好。那你开的是……
+Good, yes.
+- Good. And you drive a...
+
+391
+00:16:48,160 --> 00:16:50,080
+雷诺风景。
+- 雷诺风景。
+Renault Scenic.
+- Renault Scenic.
+
+392
+00:16:50,120 --> 00:16:51,360
+你有出过什么交通事故吗？
+You had any accidents?
+
+393
+00:16:52,320 --> 00:16:55,520
+我可能是全天下唯一一个……
+I may be the only person
+
+394
+00:16:55,560 --> 00:16:58,800
+能在高速公路服务区里
+把车撞到彻底报废的人。
+to have written off a car
+in a motorway service area.
+
+395
+00:16:58,840 --> 00:17:02,440
+真的假的？你是怎么办到的？
+[全场哄笑]
+Really? How did you manage that?
+[ALL LAUGHING]
+
+396
+00:17:02,480 --> 00:17:04,080
+哎，当时我整个人有点犯迷糊。
+Well, I got a bit disorientated.
+
+397
+00:17:04,120 --> 00:17:07,800
+我就是停下来撒个尿，
+结果推门进了一扇门，
+I only stopped for a pee
+and walked through the door
+
+398
+00:17:07,840 --> 00:17:10,720
+门上画着一个
+“穿裙子的男人”。
+with the picture
+of the man wearing a skirt.
+
+399
+00:17:12,280 --> 00:17:13,760
+[大笑] 真的。
+[LAUGHS] It's true.
+
+400
+00:17:13,800 --> 00:17:16,800
+仓皇逃跑的时候，
+我脑子还在天旋地转呢……
+And leaving in a hurry,
+I was still kind of revolving
+
+401
+00:17:16,840 --> 00:17:18,640
+我脑子里还在琢磨那起事故
+this incident in my mind
+
+402
+00:17:18,680 --> 00:17:21,760
+结果就撞上了一根不知打哪儿窜出来的路灯杆
+and I met with one of those rogue lampposts
+
+403
+00:17:21,800 --> 00:17:23,080
+反正这种事偶尔总能碰上。
+that you do occasionally.
+
+404
+00:17:23,120 --> 00:17:25,880
+就这么撞上了。哎，你说气不气人？
+In the thing. Well, how annoying is that?
+
+405
+00:17:25,920 --> 00:17:31,000
+那么现在，我们来采访下一位：
+安东尼·费尔瑟姆-怀特牧师。
+So now we move on
+to the Reverend Antony Feltham-White.
+
+406
+00:17:31,040 --> 00:17:33,720
+代表的是……
+- 英国国教会。
+Representing the...
+- Church of England.
+
+407
+00:17:33,760 --> 00:17:35,360
+英国国教会。
+Church of England.
+
+408
+00:17:35,400 --> 00:17:37,200
+说实话，你在这群人里算是一匹黑马，对吧？
+Now, actually you are a bit of
+a dark horse here, aren't you?
+
+409
+00:17:37,240 --> 00:17:40,080
+额，倒也不算，我可不敢这么说。
+Um, not exactly. I wouldn't say so.
+
+410
+00:17:40,120 --> 00:17:42,040
+但你可是真跑过赛车的。
+But you actually race cars.
+
+411
+00:17:42,080 --> 00:17:44,760
+也就是一年跑个三四次，没错。
+Only some three or four times a year, yes.
+
+412
+00:17:44,800 --> 00:17:47,120
+那也是赛车。
+你们车队叫什么名字？
+It's still racing.
+What's your team called?
+
+413
+00:17:47,160 --> 00:17:49,120
+“启示录”车队。
+Revelation Racing.
+
+414
+00:17:49,160 --> 00:17:52,400
+用赛车竞技的方式来荣耀上帝。
+- 没错，正是如此。
+Glorifying God through
+competition in motor sport.
+- Absolutely.
+
+415
+00:17:52,440 --> 00:17:54,280
+行啊，干得漂亮。
+- 谢谢。
+Well, good on you.
+- Thank you.
+
+416
+00:17:54,320 --> 00:17:55,960
+我知道现场已经有一位英国国教会的代表了，
+Now I know that there's already someone
+from the Church of England,
+
+417
+00:17:56,000 --> 00:17:58,160
+但最后一刻我们实在没抗拒住诱惑，
+but we couldn't resist it
+when at the last minute
+
+418
+00:17:58,200 --> 00:18:00,920
+因为联系我们的是一位……
+- 主教。
+we were contacted by a...
+- Bishop.
+
+419
+00:18:00,960 --> 00:18:03,600
+一位主教！这我们哪能拒绝啊。
+A bishop. I mean, we had to say yes.
+
+420
+00:18:03,640 --> 00:18:06,760
+主教大人亲自来电，
+怎么也得把您请上车。
+When Bish rings
+we've got to have you on board.
+
+421
+00:18:06,800 --> 00:18:09,640
+所以您是华莱士·本恩右敬主教，来自……
+So you're Right Reverend
+Wallace Benn from...
+
+422
+00:18:09,680 --> 00:18:12,040
+我住在伊斯特本，但我是刘易斯的主教，
+I live in Eastbourne,
+but I'm Bishop of Lewes,
+
+423
+00:18:12,080 --> 00:18:14,520
+也就是东萨塞克斯郡。
+- 刘易斯主教，好的。
+which is East Sussex.
+- Bishop of Lewes, okay.
+
+424
+00:18:14,560 --> 00:18:18,160
+而且还是英国高级驾驶员协会的会员。
+- 没错。
+And member of the Institute
+Of Advanced Motorists.
+- Yep.
+
+425
+00:18:18,200 --> 00:18:20,880
+这招在这儿可不管用。
+This isn't gonna help.
+
+426
+00:18:20,920 --> 00:18:24,480
+规规矩矩倒腾方向盘在这儿可帮不了你，明白吗？
+Shuffling your arms around
+won't help here, okay?
+
+427
+00:18:24,520 --> 00:18:26,320
+必须得是那种一把抡到底的架势，懂吗？
+It has to be all that. Okay?
+
+428
+00:18:26,360 --> 00:18:28,400
+关键是，他们其实已经去赛道跑过了，
+Now, the thing is they've already
+been round the track
+
+429
+00:18:28,440 --> 00:18:30,200
+同行的还有一位哈瑞奎师那教派的朋友，
+along with a guy from the Hare Krishna,
+
+430
+00:18:30,240 --> 00:18:33,120
+但遗憾的是，他今天没能来到现场。
+but sadly he can't be here today.
+
+431
+00:18:33,160 --> 00:18:36,920
+太可惜了。
+- 我们也没请来穆斯林代表，
+因为正赶上斋月。
+Shame.
+- Nor have we got a Muslim
+and that's cos it's Ramadan.
+
+432
+00:18:36,960 --> 00:18:39,440
+不过等斋月结束了，请务必联系我们。
+But when Ramadan's over,
+do please get in touch.
+
+433
+00:18:39,480 --> 00:18:41,160
+我们很乐意让你坐进同一款车里，
+We'd love to put you in
+the same sort of car,
+
+434
+00:18:41,200 --> 00:18:43,000
+跑同一条赛道，
+看看你的水平究竟如何。
+same track,
+see how you get on.
+
+435
+00:18:43,040 --> 00:18:47,320
+不管怎样，稍后我们就能看到这几位的表现了。
+Anyway, we'll be seeing
+how you guys get on a bit later.
+
+436
+00:18:47,360 --> 00:18:49,400
+我真的是等不及了。
+I really can't wait for that.
+
+437
+00:18:49,440 --> 00:18:51,080
+不过我们先转回环保话题聊两句，
+But let's get back to
+the environment for a bit
+
+438
+00:18:51,120 --> 00:18:52,400
+来聊聊柴油车。
+and talk about diesel.
+
+439
+00:18:52,440 --> 00:18:54,160
+我们其实一点也不怪任何人
+Now we don't blame anybody
+
+440
+00:18:54,200 --> 00:18:55,880
+去买一辆柴油车。
+for buying a diesel-engined car.
+
+441
+00:18:55,920 --> 00:18:58,800
+好吧，虽说柴油价格
+可能和汽油差不多，
+Okay, so the fuel might cost
+about the same as petrol,
+
+442
+00:18:58,840 --> 00:19:01,000
+但它的燃油经济性要好得多。
+but you'll get much better economy.
+
+443
+00:19:01,040 --> 00:19:04,040
+而且柴油发动机本身
+也早已不可同日而语。
+And the engines themselves
+have come a very long way.
+
+444
+00:19:04,080 --> 00:19:07,640
+比方说，这台福特福克斯（Ford Focus）
+上的TDCi柴油发动机。
+For instance, the TDCi
+diesel engine in this Ford Focus.
+
+445
+00:19:07,680 --> 00:19:09,880
+太棒了，这绝对是一辆出色、
+实用的日常代步车，
+Great, it's a really good,
+usable everyday car,
+
+446
+00:19:09,920 --> 00:19:10,960
+而且它还是台柴油车。
+and it's a diesel.
+
+447
+00:19:11,000 --> 00:19:12,720
+想要再大一点的？
+Need something bigger?
+
+448
+00:19:12,760 --> 00:19:15,200
+宝马5系。里面那台
+3.0升柴油发动机，
+The BMW 5 Series. The three-litre
+diesel engine in there
+
+449
+00:19:15,240 --> 00:19:17,520
+没骗你，就算飙到时速90英里，
+I kid you not, at 90 miles an hour,
+
+450
+00:19:17,560 --> 00:19:19,120
+你也绝不可能发现它是台柴油车。
+you'd never know it was a diesel.
+
+451
+00:19:19,160 --> 00:19:20,480
+想要空间更大的，
+Need something even bigger,
+
+452
+00:19:20,520 --> 00:19:22,160
+对避孕一无所知、孩子多到装不下，
+completely clueless about contraception
+
+453
+00:19:22,200 --> 00:19:23,480
+需要一辆大号保姆车？
+and want a people carrier?
+
+454
+00:19:23,520 --> 00:19:25,760
+全新的雪铁龙C8，棒极了。
+The new Citroen C8, it's great.
+
+455
+00:19:25,800 --> 00:19:28,520
+内饰新潮又酷炫，
+设计相当巧妙。
+It's got a cool and funky
+interior, it's very clever.
+
+456
+00:19:28,560 --> 00:19:30,240
+空间巨大而且十分宽敞。
+It's very big and spacious.
+
+457
+00:19:30,280 --> 00:19:31,960
+里面坐得舒服吗，伙计们？
+~ 挺舒服的。
+Are you comfy in there, guys?
+- Yeah.
+
+458
+00:19:32,000 --> 00:19:33,600
+噢，那就好。
+Oh, good.
+
+459
+00:19:33,640 --> 00:19:35,120
+但最耐人寻味的是，
+But the most interesting thing
+about this is,
+
+460
+00:19:35,160 --> 00:19:36,880
+《Top Gear》这么多年来
+Top Gear hasn't been renowned
+
+461
+00:19:36,920 --> 00:19:39,040
+可从没以热爱柴油车而闻名，
+for its love of diesels over the years
+
+462
+00:19:39,080 --> 00:19:40,960
+但在这台雪铁龙C8上，
+and yet the version of this, the C8
+
+463
+00:19:41,000 --> 00:19:44,320
+我们建议你买的
+居然偏偏是柴油版。
+that we'd advise you to go for
+is the diesel-engined one.
+
+464
+00:19:44,360 --> 00:19:47,480
+三款截然不同、用途迥异的车，
+So three very different cars
+with very different purposes,
+
+465
+00:19:47,520 --> 00:19:50,240
+却全都是柴油车，而且全都非常优秀。
+but all diesels and all very good.
+
+466
+00:19:50,280 --> 00:19:51,720
+那么柴油车的下一步是什么？
+So what's next for diesel?
+
+467
+00:19:56,400 --> 00:19:58,240
+哈蒙德：这是标致RC（Peugeot RC），
+HAMMOND: This is the Peugeot RC,
+
+468
+00:19:58,280 --> 00:20:01,640
+大概是世界上第一款
+真正意义上的柴油跑车。
+possibly the world's first
+proper diesel sports car.
+
+469
+00:20:01,680 --> 00:20:04,480
+而且由于全世界仅此一辆，
+And since there's only one in existence,
+
+470
+00:20:04,520 --> 00:20:09,040
+标致对让斯提格（The Stig）
+去祸害它感到有点心惊胆战。
+Peugeot were a little nervous
+about The Stig having a play.
+
+471
+00:20:09,080 --> 00:20:12,560
+于是他们派来了自己的当家车手，
+理查德·伯恩斯（Richard Burns）。
+So they sent down their own man,
+Richard Burns.
+
+472
+00:20:16,600 --> 00:20:19,760
+这台RC具备纯正跑车该有的全部看家本领。
+The RC has all the sports car credentials.
+
+473
+00:20:19,800 --> 00:20:22,040
+碳纤维车身、中置发动机、
+Carbon fibre body, mid-mounted engine,
+
+474
+00:20:22,080 --> 00:20:26,640
+六速序列式变速箱、
+零到六十英里加速仅需六秒，
+a six-speed sequential gearbox,
+a zero-to-60 time of six seconds,
+
+475
+00:20:26,680 --> 00:20:31,600
+但即便如此，标致依然宣称
+它一加仑油能跑57英里。
+and yet Peugeot still claim that it will do
+57 miles to the gallon.
+
+476
+00:20:31,640 --> 00:20:34,360
+那么，你能接受吗？你真会买吗？
+你敢迈出这一步，
+So, could you, would you?
+Would you take the leap
+
+477
+00:20:34,400 --> 00:20:36,680
+去买一辆柴油跑车吗？
+and have a diesel sports car?
+
+478
+00:20:37,960 --> 00:20:39,920
+克拉克森：“问我会不会买柴油车？”
+CLARKSON: "Would I buy a diesel car?"
+
+479
+00:20:39,960 --> 00:20:44,160
+绝不买。我来告诉你为什么。
+拿大众高尔夫（Golf）来说，对吧？
+No. And I can explain why.
+Volkswagen Golf, okay?
+
+480
+00:20:44,200 --> 00:20:46,400
+汽油发动机，浓浓的欧洲时髦范儿，
+Petrol engine, European chic,
+
+481
+00:20:46,440 --> 00:20:50,080
+所以它得贴到我的“酷车墙”上，
+也就是我们上周推出的那个玩意儿。
+so it goes into my Cool Wall
+which we introduced last week.
+
+482
+00:20:50,120 --> 00:20:51,440
+归在“酷”这一栏。
+In the Cool section.
+
+483
+00:20:51,480 --> 00:20:54,120
+大众高尔夫柴油版。
+Volkswagen Golf diesel.
+
+484
+00:20:54,160 --> 00:20:57,640
+除了发动机之外一模一样的车，
+它该放哪儿？
+Identical car except for
+the engine, where does it go?
+
+485
+00:20:57,680 --> 00:21:00,880
+“不酷”，因为开这车
+一眼就能看出你是个抠门鬼。
+Uncool because it marks you out
+as a cheapskate.
+
+486
+00:21:00,920 --> 00:21:02,920
+[全场大笑]
+[ALL LAUGHING]
+
+487
+00:21:02,960 --> 00:21:04,960
+再来看看这个，我们刚才聊过的那辆萨博。
+Here we go, the Saab we looked at earlier.
+
+488
+00:21:05,000 --> 00:21:06,680
+说到现在的萨博，我知道
+它们已经变得毫无个性、随波逐流了，
+And now Saabs, I know
+they've gone all conventional,
+
+489
+00:21:06,720 --> 00:21:09,160
+我也知道它是套用
+沃克斯豪尔威达平台造出来的，
+I know it runs on
+a Vauxhall Vectra platform
+
+490
+00:21:09,200 --> 00:21:12,080
+但不管怎么说，跟别人讲
+你开的是一辆萨博……
+and yet, somehow telling people
+you've got a Saab.
+
+491
+00:21:12,120 --> 00:21:13,240
+还是挺酷的。
+Quite cool.
+
+492
+00:21:13,280 --> 00:21:14,920
+所以它搁这儿。
+So it goes there.
+
+493
+00:21:14,960 --> 00:21:16,600
+[观众嘘声]
+[AUDIENCE BOOING]
+
+494
+00:21:16,640 --> 00:21:17,840
+哎呀，不好意思，我想我可能
+没跟你们解释清楚，
+Oh, I'm sorry. I don't think
+I've explained,
+
+495
+00:21:17,880 --> 00:21:20,520
+这里可不是辩论赛现场。
+[全场大笑]
+this isn't a debate.
+[ALL LAUGHING]
+
+496
+00:21:20,560 --> 00:21:24,280
+车放哪儿由我说了算，
+我才是这里的法官。
+I tell you where things go.
+I am the judge here.
+
+497
+00:21:24,320 --> 00:21:25,920
+当然，除非它装了台柴油发动机，
+Unless, of course,
+it's got a diesel engine,
+
+498
+00:21:25,960 --> 00:21:28,960
+就像现在的萨博那样，
+要是这种情况，它就得放这儿。
+as Saabs now do,
+in which case it goes there.
+
+499
+00:21:29,000 --> 00:21:30,680
+现在满意了吧？
+Happy now?
+
+500
+00:21:30,720 --> 00:21:32,600
+不过说真的，这面“酷车墙”
+I have to say, actually, this Cool Wall
+
+501
+00:21:32,640 --> 00:21:34,440
+可以说是引发了一场大地震。
+has caused an absolute furore.
+
+502
+00:21:34,480 --> 00:21:38,240
+我们收到了足足两万封关于它的邮件。
+We have had 20,000 e-mails about it.
+
+503
+00:21:38,280 --> 00:21:39,800
+两万封啊！而且一整天下来，
+Twenty thousand, and all day long,
+
+504
+00:21:39,840 --> 00:21:41,320
+现场的所有人都在冲我嚷嚷：
+all the people here have been going,
+
+505
+00:21:41,360 --> 00:21:43,120
+“你凭什么把那辆车搁那儿？！”
+"Why did you put that there for?"
+
+506
+00:21:43,160 --> 00:21:46,120
+我手里这不拿了个麦克风嘛，
+待会儿正好拿来揍人。
+I've got a microphone here
+so we can hit people with it.
+
+507
+00:21:46,160 --> 00:21:48,200
+你，你想把哪辆给挪个地儿？
+You. What do you want moving?
+
+508
+00:21:48,240 --> 00:21:50,760
+MX-5和MG TF。
+The MX-5 and the MG TF.
+
+509
+00:21:50,800 --> 00:21:55,000
+你想把一辆MX-5跟……对调？
+- MG TF。
+You want to switch an MX-5 with a...
+- MG TF.
+
+510
+00:21:55,040 --> 00:21:57,840
+还有谁有高见？
+你刚才说的是哪辆来着？
+Anyone else got any thoughts?
+What was yours earlier?
+
+511
+00:21:57,880 --> 00:22:01,240
+阿斯顿·马丁，我会把它扔进
+“不酷”那一栏，
+The Aston Martin, I would put down
+into the Uncool
+
+512
+00:22:01,280 --> 00:22:04,400
+理由是做工质量太差，
+而且性价比极低。
+on the basis of build quality
+and it's not value for money.
+
+513
+00:22:04,440 --> 00:22:06,080
+一股子福特廉价味儿。
+It's too much Ford.
+
+514
+00:22:06,120 --> 00:22:07,840
+你简直是个纯种白痴。
+You are such an idiot.
+
+515
+00:22:07,880 --> 00:22:12,360
+[全场大笑]
+- 这车简直酷毙了好吗！
+[ALL LAUGHING]
+- This is the coolest car.
+
+516
+00:22:12,400 --> 00:22:15,160
+[观众鼓掌]
+[AUDIENCE CLAPPING]
+
+517
+00:22:15,200 --> 00:22:19,400
+我大概是没向各位说明白，
+到底什么才叫“酷”。
+I perhaps haven't explained
+how the 'Cool' thing works.
+
+518
+00:22:19,440 --> 00:22:21,880
+这跟做工质量半毛钱关系都没有。
+It's got nothing to do with build quality.
+
+519
+00:22:21,920 --> 00:22:23,960
+绝对、完全没有任何关系。
+Absolutely nothing to do with it.
+
+520
+00:22:24,000 --> 00:22:28,200
+跟长相没关，跟什么都没关，
+更不关开起来感受如何的事。
+Or looks, or anything,
+or how they are to drive.
+
+521
+00:22:28,240 --> 00:22:29,800
+唯一要看的就是，它们到底酷不酷？
+All that matters is, are they cool?
+
+522
+00:22:29,840 --> 00:22:31,920
+判断标准其实很简单，听好了：
+And the way you can judge it is this, okay?
+
+523
+00:22:31,960 --> 00:22:35,680
+你要带
+克里斯汀·斯科特·托马斯出去吃晚饭。
+（KST梗 #1）
+You've got to take
+Kristin Scott Thomas out for dinner.
+(KST Reference #1)
+
+524
+00:22:35,720 --> 00:22:37,480
+够酷的女人吧，对不对？
+Cool girl, yes?
+
+525
+00:22:37,520 --> 00:22:39,400
+你压根没听说过她，是吧？
+You've never heard of her, have you?
+
+526
+00:22:39,440 --> 00:22:41,560
+怎么说呢，她绝对是全天下最酷的女演员了。
+Anyway, she's the coolest actress there is.
+
+527
+00:22:41,600 --> 00:22:46,280
+你要是开这么一台车去赴约，
+比如法拉利360，
+You turn up in something
+like that, Ferrari 360.
+
+528
+00:22:46,320 --> 00:22:48,320
+她只会觉得你是个大蠢蛋。
+She is going to think you're a berk.
+
+529
+00:22:49,200 --> 00:22:51,040
+但你要是开那台去，
+You turn up in that,
+
+530
+00:22:51,080 --> 00:22:54,120
+她当场就会甩了她老公。
+[全场爆笑]
+she's going to leave her husband.
+[ALL LAUGHING]
+
+531
+00:22:54,160 --> 00:22:56,480
+这才叫“酷”。
+That's how cool works.
+
+532
+00:22:56,520 --> 00:22:58,920
+刚才谁在抱怨福特Ka来着？
+Who was complaining about
+the Ford KA?
+
+533
+00:22:58,960 --> 00:23:01,680
+是你。
+你干嘛抱怨福特Ka？
+You were. Why were
+you complaining about the Ford KA?
+
+534
+00:23:01,720 --> 00:23:03,240
+它挺好的啊。
+It's good.
+
+535
+00:23:03,280 --> 00:23:04,720
+它就是挺好的。除了长相之外，
+你根本找不出
+It's just good. There is nothing
+you can say about it
+
+536
+00:23:04,760 --> 00:23:06,120
+它有什么毛病。
+它真的是辆好车。
+apart from the look of it.
+It is a good car.
+
+537
+00:23:06,160 --> 00:23:08,120
+你戴着整整86个耳环跑来录节目，
+You have turned up with 86 earrings
+
+538
+00:23:08,160 --> 00:23:10,440
+然后跟我们说
+那车棒极了。
+[全场爆笑]
+and you are telling us
+that's a brilliant car.
+[ALL LAUGHING]
+
+539
+00:23:10,480 --> 00:23:13,280
+我话讲完了。哟，看把他给气的。
+My case rests. Oh, he is looking angry.
+
+540
+00:23:13,320 --> 00:23:15,560
+我就喜欢戴耳环。
+I like earrings.
+
+541
+00:23:15,600 --> 00:23:19,240
+顺便说一句，我开奔驰SL，行了吧，我出柜了。
+You know, I drive an SL, okay, I'm gay.
+
+542
+00:23:20,720 --> 00:23:23,960
+呃，话说回来，我刚才讲到哪了？
+彻底忘光了。
+Erm, anyway, where was I?
+I completely forgot.
+
+543
+00:23:24,000 --> 00:23:27,640
+哦对，柴油车。重点在于，
+你要是买一辆柴油车，
+Oh. Diesels. The point is,
+that if you have a diesel,
+
+544
+00:23:27,680 --> 00:23:30,200
+就等于在脑门上刻着“抠门”，
+所以它们
+it marks you out as
+being mean, and that's why
+
+545
+00:23:30,240 --> 00:23:31,880
+必须归进“不酷”区。
+they're in Uncool.
+
+546
+00:23:31,920 --> 00:23:32,960
+讲完了。
+The end.
+
+547
+00:23:33,000 --> 00:23:34,320
+喷完这一通，心里痛快多了吧？
+Feel better for that, do you?
+
+548
+00:23:34,360 --> 00:23:35,600
+痛快，刚才有点上头，但话糙理不糙。
+Yes, had a bit of a moment, it makes sense.
+
+549
+00:23:35,640 --> 00:23:38,040
+别招惹那位戴耳环的老兄了。
+Don't upset the bloke in the earrings.
+
+550
+00:23:38,080 --> 00:23:40,560
+继续吧，但小心点。
+- 我还是往那边躲躲吧。
+Carry on but just be careful.
+- I'll just go that way.
+
+551
+00:23:40,600 --> 00:23:42,240
+所以我们一致认定柴油车不酷，
+So we're saying diesel is uncool,
+
+552
+00:23:42,280 --> 00:23:43,720
+全都给塞到板子这一头。
+they're down this end of the board.
+
+553
+00:23:43,760 --> 00:23:45,640
+行了，下一个该看电动车了。
+All right, the next thing
+could be electric cars.
+
+554
+00:23:45,680 --> 00:23:47,920
+现在，成百上千亿英镑
+Now billions and billions of pounds
+
+555
+00:23:47,960 --> 00:23:49,800
+被美国各大机构砸了进去，
+are spent in America by organisations,
+
+556
+00:23:49,840 --> 00:23:53,440
+连政府都在投钱
+研发电动车。
+including the government
+on developing electric cars.
+
+557
+00:23:53,480 --> 00:23:56,920
+而眼前这玩意，福特Th!nk……呃……
+And this, the Ford Th!nk... Hmm...
+
+558
+00:23:56,960 --> 00:23:58,720
+就是他们能拿得出手的最高水平了。
+is the best they can come up with.
+
+559
+00:23:58,760 --> 00:24:00,120
+说实话，你还不如
+And frankly you're better off
+
+560
+00:24:00,160 --> 00:24:03,240
+学《卫报》那帮文青，慢跑去上班。
+doing a Guardian thing and jogging to work.
+
+561
+00:24:03,280 --> 00:24:04,960
+让我给你们瞧瞧为什么。
+Let me show you why.
+
+562
+00:24:05,000 --> 00:24:08,560
+瞧，这就是那台Th!nk，
+由斯提格亲自掌舵。
+Now, here's the Th!nk
+with the Stig at the wheel.
+
+563
+00:24:08,600 --> 00:24:10,600
+听听这震颤人心的寂静，
+Listen to the throbbing silence
+
+564
+00:24:10,640 --> 00:24:12,680
+来自那台电动机。太美妙了。
+of that electric motor. Glorious.
+
+565
+00:24:12,720 --> 00:24:14,360
+为了做个对比，我们给它找了个
+For comparison, we've lined it up against
+
+566
+00:24:14,400 --> 00:24:16,600
+同样生龙活虎的对手。
+something equally sprightly.
+
+567
+00:24:16,640 --> 00:24:20,240
+杰森。
+[众人大笑]
+Jason.
+[ALL LAUGHING]
+
+568
+00:24:22,760 --> 00:24:24,480
+比赛开始！这台Th!nk可以做到
+And they're off. Now, the Th!nk can do
+
+569
+00:24:24,520 --> 00:24:27,280
+七秒内完成0到30英里加速。
+nought-30 in seven seconds.
+
+570
+00:24:28,280 --> 00:24:29,800
+但随之而来的会是各种麻烦，
+But you can have problems
+
+571
+00:24:29,840 --> 00:24:31,360
+尤其是当你用上
+车里的电器时。
+particularly if you use
+the electrical stuff.
+
+572
+00:24:31,400 --> 00:24:33,600
+比如说，车载音响。
+Things like, the stereo.
+
+573
+00:24:34,800 --> 00:24:36,560
+♪ 格拉迪斯·奈特与花群合唱团 -
+《开往佐治亚的午夜列车》 ♪
+♪ Gladys Knight & The Pips -
+Midnight Train to Georgia ♪
+
+574
+00:24:37,160 --> 00:24:39,360
+[众人大笑]
+[ALL LAUGHING]
+
+575
+00:24:39,400 --> 00:24:41,280
+此时杰森已经被远远甩在后头，
+And Jason by now is way behind,
+
+576
+00:24:41,320 --> 00:24:42,400
+但瞧瞧发生什么了。
+but look what's happening.
+
+577
+00:24:42,440 --> 00:24:43,960
+它快没劲儿了。
+It's running out of steam.
+
+578
+00:24:44,000 --> 00:24:46,800
+[音乐逐渐变慢]
+[MUSIC SLOWING DOWN]
+
+579
+00:24:48,160 --> 00:24:49,480
+天哪，它彻底停了。
+Oh, my word, it's stopped.
+
+580
+00:24:49,520 --> 00:24:51,040
+于是这只加拉帕戈斯巨龟
+And the giant Galapagos Tortoise
+
+581
+00:24:51,080 --> 00:24:53,600
+完成反超，冲过了终点线！
+[众人鼓掌]
+has passed and has crossed the line.
+[ALL APPLAUDING]
+
+582
+00:24:55,480 --> 00:24:57,880
+那你愿意开电动车吗，
+杰里米？
+Would you drive an electric car,
+then, Jeremy?
+
+583
+00:24:57,920 --> 00:24:59,480
+不，我才不想开着个
+家用电器到处招摇。
+No, I don't want to drive
+around in an appliance.
+
+584
+00:24:59,520 --> 00:25:01,240
+道理就这么简单。
+It's as simple as that.
+
+585
+00:25:01,280 --> 00:25:02,240
+而且关于电动车，
+And I'll tell you something else
+
+586
+00:25:02,280 --> 00:25:04,000
+我再跟你们说点别的。
+about electric cars, okay.
+
+587
+00:25:04,040 --> 00:25:06,760
+你晚上必须给它充上电，对吧。
+You have to charge them up at night, okay.
+
+588
+00:25:06,800 --> 00:25:10,600
+可现实中有几个人能把车停在自家门口？
+How many people park outside their houses?
+
+589
+00:25:10,640 --> 00:25:13,040
+你得停隔三条街……你能停门口？
+You have to park three streets, you do?
+
+590
+00:25:13,080 --> 00:25:14,480
+好吧，算你厉害。
+Well, well done you.
+
+591
+00:25:14,520 --> 00:25:16,840
+终于出了一个能把车
+停在自家门口的大神。
+There is one man
+who parks outside his house.
+
+592
+00:25:16,880 --> 00:25:19,720
+但对我们其余所有人来说，
+车都得停在三条街开外。
+But for the rest of us,
+you park three streets away.
+
+593
+00:25:19,760 --> 00:25:22,400
+而且就算你真能把车
+停在自家家门口，
+And even if you CAN park
+outside your house,
+
+594
+00:25:22,440 --> 00:25:23,680
+满大街也全都会是电线，
+there's just going to be flex,
+
+595
+00:25:23,720 --> 00:25:24,880
+你走在人行道上
+就得像这样，
+you'd be walking down
+the pavement like this,
+
+596
+00:25:24,920 --> 00:25:26,360
+跨过一条又一条电线。
+over all the flexes.
+
+597
+00:25:26,400 --> 00:25:27,920
+这玩意儿蠢透了。
+They're stupid.
+
+598
+00:25:27,960 --> 00:25:29,600
+纯电也许不算最佳，但可能
+存在一个解决办法。
+Maybe not the best, but there
+might be a solution.
+
+599
+00:25:29,640 --> 00:25:31,720
+而且就像往常一样，
+这是个折中的妥协方案。
+And as is often the case,
+it's a compromise.
+
+600
+00:25:31,760 --> 00:25:34,240
+一台混合动力车——
+丰田普锐斯。
+And it's a hybrid car,
+it's the Toyota Prius.
+
+601
+00:25:34,280 --> 00:25:36,880
+精妙之处在于，同时也是
+它妥协折中的原因，
+The clever thing is, and the reason
+it's a compromise,
+
+602
+00:25:36,920 --> 00:25:38,200
+它装了两台发动机。
+it's got two engines.
+
+603
+00:25:38,240 --> 00:25:40,200
+有一台1.3升汽油机，
+There's a 1.3 litre petrol
+
+604
+00:25:40,240 --> 00:25:41,840
+还有一台电动机。
+and an electric motor.
+
+605
+00:25:41,880 --> 00:25:43,960
+它的工作原理是：
+低速行驶时全靠电机驱动，
+And the way it works is
+it runs on the electric motor
+
+606
+00:25:44,000 --> 00:25:45,680
+然后当它需要
+at slow speeds and then when it needs
+
+607
+00:25:45,720 --> 00:25:48,320
+更大动力，或者电量耗尽的时候，
+more power or the motor runs out of charge,
+
+608
+00:25:48,360 --> 00:25:50,720
+发动机——那台汽油机就会点火启动，
+the engine, the petrol engine fires up
+
+609
+00:25:50,760 --> 00:25:52,560
+顺便给电动机充电。
+and that puts the charge
+into the electric one.
+
+610
+00:25:52,600 --> 00:25:55,320
+所以，你根本用不着插电。绝妙。
+So, you don't have
+to plug it in. Brilliant.
+
+611
+00:25:55,360 --> 00:25:56,680
+而且何止是绝妙。
+And not just brilliant.
+
+612
+00:25:56,720 --> 00:25:59,920
+我这里有一份名单，
+I've got a list here of the people
+
+613
+00:25:59,960 --> 00:26:01,680
+全都是开这车的人。
+who are driving this car.
+
+614
+00:26:01,720 --> 00:26:03,800
+可不是我瞎编的，货真价实。
+Not a made up list, this is for real.
+
+615
+00:26:03,840 --> 00:26:07,440
+卡梅隆·迪亚兹就有一辆。
+Cameron Diaz has one of these cars.
+
+616
+00:26:07,480 --> 00:26:10,000
+莱昂纳多·迪卡普里奥，
+Leonardo Di Caprio,
+
+617
+00:26:10,040 --> 00:26:12,720
+唐尼·奥斯蒙，跳过这家伙，
+艾丽西亚·银石，
+Donny Osmond, we'll skip over
+that, Alicia Silverstone,
+
+618
+00:26:12,760 --> 00:26:15,640
+简·方达、杰夫·高布伦、比利·乔尔，
+Jane Fonda, Jeff Goldblum, Billy Joel,
+
+619
+00:26:15,680 --> 00:26:18,400
+略过这位，
+泰德·丹森、丹尼斯·韦弗，
+move over that one,
+Ted Danson, Dennis Weaver,
+
+620
+00:26:18,440 --> 00:26:20,440
+大卫·杜楚尼、约翰·凯特利，
+David Duchovny, John Kettley,
+
+621
+00:26:20,480 --> 00:26:23,080
+名单长得根本念不完。
+the list goes on and on forever.
+
+622
+00:26:23,120 --> 00:26:28,480
+可即便如此，
+即便有这么豪华的大牌阵容捧场，
+And yet, despite that,
+despite the incredible patronage,
+
+623
+00:26:28,520 --> 00:26:30,120
+我也说不准，咱们该把它贴哪儿？
+I don't know, where do we put it?
+
+624
+00:26:31,160 --> 00:26:32,120
+“不酷”。“不酷”？
+Uncool. Uncool?
+
+625
+00:26:32,160 --> 00:26:34,360
+我看不仅是“不酷”。
+I'm thinking not Uncool.
+
+626
+00:26:34,400 --> 00:26:37,480
+我看连“极度不酷”都便宜它了。
+I'm thinking not even Seriously Uncool.
+
+627
+00:26:37,520 --> 00:26:39,920
+我觉得还得往更底下挪。
+I am thinking further down here.
+
+628
+00:26:39,960 --> 00:26:43,120
+我觉得应该彻底挪出这片打光的地界，
+I'm thinking way out of
+the lit part of the base,
+
+629
+00:26:43,160 --> 00:26:46,040
+一直打入地狱最深最黑的阴暗角落里。
+in the deep dark recesses of hell.
+
+630
+00:26:46,080 --> 00:26:47,160
+[全场大笑]
+[ALL LAUGHING]
+
+631
+00:26:47,200 --> 00:26:48,520
+但你知道吗，杰里米，
+But do you know what, Jeremy,
+
+632
+00:26:48,560 --> 00:26:49,720
+不管政府怎么宣传，
+despite what the governments say,
+
+633
+00:26:49,760 --> 00:26:51,840
+不管环保人士怎么鼓吹，
+despite what the environmentalists say,
+
+634
+00:26:51,880 --> 00:26:53,800
+绝不是柴油车和电动车
+it's not diesels and electric powered cars
+
+635
+00:26:53,840 --> 00:26:56,800
+能够让未来的驾驶者们热血沸腾。
+that are going to excite
+the drivers of the future.
+
+636
+00:26:56,840 --> 00:26:59,440
+我去了几所学校，想看看
+I went to a couple of schools
+to see which cars
+
+637
+00:26:59,480 --> 00:27:01,400
+现在的孩子们究竟想开什么车，
+the kids of today want to drive
+
+638
+00:27:01,440 --> 00:27:02,520
+结果等我走进教室，
+and when I got in the classroom
+
+639
+00:27:02,560 --> 00:27:05,720
+他们画的根本就不是普锐斯。
+they weren't drawing a Prius.
+
+640
+00:27:05,760 --> 00:27:07,960
+所以为了查明孩子们是否依然热爱超跑，
+So to find out if kids
+still love super cars
+
+641
+00:27:08,000 --> 00:27:09,240
+跟他们以往一样，
+like they've always done,
+
+642
+00:27:09,280 --> 00:27:11,560
+我准备了些课间小甜点。
+I lined up some breaktime treats.
+
+643
+00:27:11,600 --> 00:27:15,120
+一辆法拉利360，一辆帕加尼Zonda，
+A Ferrari 360, a Pagani Zonda,
+
+644
+00:27:15,160 --> 00:27:18,240
+一辆日产Skyline R34 GT-R，
+a Nissan Skyline R34 GT-R
+
+645
+00:27:18,280 --> 00:27:21,200
+最后，还有一辆TVR Tuscan。
+and finally, a TVR Tuscan.
+
+646
+00:27:21,240 --> 00:27:23,320
+帅呆了，看啊，有辆法拉利！
+Cool, look, there's a Ferrari!
+
+647
+00:27:23,360 --> 00:27:25,720
+[孩子们欢呼惊叹]
+[CHILDREN EXCLAIMING]
+
+648
+00:27:29,640 --> 00:27:32,160
+先看这辆，红色的这辆，好吗？
+Look at this one first, the red one, okay?
+
+649
+00:27:32,200 --> 00:27:33,800
+法拉利，没错。
+Ferrari, right.
+
+650
+00:27:33,840 --> 00:27:35,840
+谁开这车？
+Who drives one of these?
+
+651
+00:27:35,880 --> 00:27:37,760
+大卫·贝克汉姆。
+- 迈克尔·舒马赫。
+David Beckham.
+- Michael Schumacher.
+
+652
+00:27:37,800 --> 00:27:41,360
+大卫·贝克汉姆。
+那它们是哪个国家造的？
+David Beckham.
+And they're made in what country?
+
+653
+00:27:41,400 --> 00:27:43,360
+众人：意大利。
+- 意大利，对头。
+ALL: Italy.
+- Italy, okay.
+
+654
+00:27:43,400 --> 00:27:47,160
+那咱们做会儿单词拼写？
+孩子们：不要！
+Shall we do some spellings?
+CHILDREN: No!
+
+655
+00:27:47,200 --> 00:27:50,920
+那咱们接着看车好不好？
+孩子们：好！
+Shall we look at the cars instead?
+CHILDREN: Yeah.
+
+656
+00:27:50,960 --> 00:27:54,560
+行。有谁猜得到这车
+要多少钱吗？
+Okay. Can anyone guess how much money
+one of these costs?
+
+657
+00:27:54,600 --> 00:27:56,880
+七百五……
+杰森：七百五十块？
+Seven-fifty...
+JASON: Seven-fifty?
+
+658
+00:27:56,920 --> 00:27:59,600
+好吧，比那还要贵那么一点点。
+不过猜得不错。
+Right. A little bit more
+than that. Good guess though.
+
+659
+00:27:59,640 --> 00:28:03,440
+这车差不多
+能顶得上一套房子的钱。
+This would cost about
+the same amount as a house.
+
+660
+00:28:03,480 --> 00:28:06,320
+这玩意儿要11万英镑，相当于
+This costs £110,000 which is like
+
+661
+00:28:06,360 --> 00:28:07,880
+好大好大一笔零花钱呢。
+loads and loads of pocket money.
+
+662
+00:28:07,920 --> 00:28:10,920
+好了，有人知道这是什么车吗？
+Right. Anybody know what car this is?
+
+663
+00:28:10,960 --> 00:28:14,160
+GT-R。对，这是一辆日产Skyline GT-R。
+GT-R. Yeah, it's a Nissan Skyline GT-R.
+
+664
+00:28:14,200 --> 00:28:17,720
+这车可不是意大利造的，
+它是产自……
+Now these aren't made in Italy,
+these are made in...
+
+665
+00:28:17,760 --> 00:28:21,120
+有人知道吗？克洛克拉？
+Anybody know? Crockra?
+
+666
+00:28:21,160 --> 00:28:24,040
+克洛克拉？没听说过这地儿。
+Crockra, not heard of that place.
+
+667
+00:28:24,080 --> 00:28:27,800
+我刚才听到有人喊出这辆的名字了。
+这辆叫什么来着？
+I heard someone say the name of this one.
+What's this one called?
+
+668
+00:28:27,840 --> 00:28:29,000
+TVR。
+- TVR？
+TVR.
+- TVR?
+
+669
+00:28:29,040 --> 00:28:30,200
+那你们知道这是哪儿造的吗？
+And do you know where are these made?
+
+670
+00:28:31,160 --> 00:28:32,480
+塞浦路斯。
+- 塞浦路斯？
+Cyprus.
+- Cyprus?
+
+671
+00:28:32,520 --> 00:28:34,320
+这是咱们英国本土造的！这辆车，
+They make them here! This car,
+
+672
+00:28:34,360 --> 00:28:36,480
+是在一个叫布莱克浦的地方造出来的。
+is made in a place called Blackpool.
+
+673
+00:28:36,520 --> 00:28:38,280
+想听听它的声浪吗？
+孩子们：想！
+You want to hear it?
+CHILDREN: Yeah.
+
+674
+00:28:38,320 --> 00:28:40,880
+那行。准备好了吗？
+All right then. Ready?
+
+675
+00:28:40,920 --> 00:28:43,160
+[引擎轰鸣]
+[ENGINE REVVING]
+
+676
+00:28:43,200 --> 00:28:46,040
+[引擎震耳欲聋地轰鸣]
+[ENGINE REVVING LOUDLY]
+
+677
+00:28:46,840 --> 00:28:47,840
+哇哦。
+Wow.
+
+678
+00:28:47,880 --> 00:28:52,880
+这辆车最高能飙到每小时220英里。
+This car will do 220 miles an hour.
+
+679
+00:28:52,920 --> 00:28:55,000
+这车其实名叫——名字挺逗的，
+This is actually called, it's a funny name,
+
+680
+00:28:55,040 --> 00:28:56,480
+它叫Zonda。
+it's called a Zonda.
+
+681
+00:28:56,520 --> 00:28:58,720
+你们觉得这笔钱能买几套房子？
+How many houses do you think you could buy?
+
+682
+00:29:00,720 --> 00:29:02,040
+三套。
+- 完全正确。
+Three.
+- Quite right.
+
+683
+00:29:02,080 --> 00:29:03,240
+整整三套房子。
+Three houses.
+
+684
+00:29:03,280 --> 00:29:06,560
+而这辆车就要卖30万英镑。
+This car costs £300,000.
+
+685
+00:29:06,600 --> 00:29:08,880
+三，二，一。
+Three, two, one.
+
+686
+00:29:08,920 --> 00:29:11,440
+孩子们：哇！
+CHILDREN: Wow!
+
+687
+00:29:11,480 --> 00:29:13,000
+男孩：哇塞！
+BOY: Cor.
+
+688
+00:29:13,040 --> 00:29:15,160
+[引擎轰鸣]
+[ENGINE REVVING]
+
+689
+00:29:19,640 --> 00:29:21,360
+我还有一辆车想给你们瞧瞧，
+One car that I'd like to show you
+
+690
+00:29:21,400 --> 00:29:22,720
+在你们做决定之前……
+before you decide...
+
+691
+00:29:24,280 --> 00:29:26,160
+没错，往你们身后看。
+Yeah, if you look behind you.
+
+692
+00:29:26,200 --> 00:29:27,760
+哇。
+Wow.
+
+693
+00:29:27,800 --> 00:29:29,320
+[杰森大笑]
+[JASON LAUGHING]
+
+694
+00:29:29,360 --> 00:29:32,840
+瞧瞧是谁来了，这位老将，
+未尝败绩的常胜冠军，
+Here it is, the old stager,
+the undefeated champion
+
+695
+00:29:32,880 --> 00:29:37,880
+称霸每一间卧室海报墙的……
+兰博基尼 Countach！
+of the bedroom wall posters...
+The Lamborghini Countach.
+
+696
+00:29:37,920 --> 00:29:40,520
+[引擎急促轰鸣]
+[ENGINE REVVING RAPIDLY]
+
+697
+00:29:41,720 --> 00:29:44,200
+这车帅爆了！
+This car rocks!
+
+698
+00:29:44,240 --> 00:29:47,080
+觉得红色法拉利最好的
+请举手……
+Put your hand up if you think
+that the red Ferrari...
+
+699
+00:29:47,120 --> 00:29:49,000
+等到这帮熊孩子在每一寸车漆上
+When the kids had covered
+every inch of the paintwork
+
+700
+00:29:49,040 --> 00:29:52,080
+都印满了指纹，就到了投票环节。
+♪ The Chemical Brothers - Hey Boy Hey Girl♪
+in fingerprints it was time for the vote.
+♪ The Chemical Brothers - Hey Boy Hey Girl♪
+
+701
+00:29:52,120 --> 00:29:54,480
+好了，投TVR的举手。
+谁最喜欢TVR？
+Right, hands up for the TVR.
+Who likes the TVR most?
+
+702
+00:29:54,520 --> 00:29:57,360
+第五名是日产，
+拿了5票。
+In fifth place was the Nissan,
+with five points.
+
+703
+00:29:57,400 --> 00:30:01,320
+第四名是TVR，拿了11票。
+Fourth place was the TVR, with 11 points.
+
+704
+00:30:01,360 --> 00:30:03,440
+第三名，法拉利。
+Third place, the Ferrari.
+
+705
+00:30:03,480 --> 00:30:06,160
+第二名，Zonda，16票。
+Second place, the Zonda, 16 points.
+
+706
+00:30:06,200 --> 00:30:07,880
+Zonda排在第二。
+The Zonda was second.
+
+707
+00:30:07,920 --> 00:30:10,240
+冠军则是兰博基尼，
+狂揽41票。
+The winner is the Lamborghini
+with 41 points.
+
+708
+00:30:10,280 --> 00:30:13,360
+[全场欢呼]
+[ALL CHEERING]
+
+709
+00:30:16,120 --> 00:30:17,640
+妙极了。
+Excellent.
+
+710
+00:30:17,680 --> 00:30:19,280
+那么杰森，那帮孩子里有人
+So Jason, did any of those children go on
+
+711
+00:30:19,320 --> 00:30:20,840
+念叨过半句环保吗？
+about the environment at all?
+
+712
+00:30:20,880 --> 00:30:23,600
+呃，完全没有。是这样，
+关键在于，当我们到达时，
+Ah, no. You see,
+the thing is, when we arrived
+
+713
+00:30:23,640 --> 00:30:25,000
+把那些车停在操场上，
+and we put those cars on the playground,
+
+714
+00:30:25,040 --> 00:30:26,880
+你也看到了，他们冲出教室，
+you saw it, they came out of the classrooms
+
+715
+00:30:26,920 --> 00:30:29,240
+眼睛瞪得像茶碟一样大。
+and their eyes were like saucers.
+
+716
+00:30:29,280 --> 00:30:32,520
+等我们发动引擎，
+他们简直魂都飞了。
+When we started them up,
+they just went to another place.
+
+717
+00:30:32,560 --> 00:30:34,360
+场面绝了，而且最不可思议的是，
+It was fantastic and the strange thing was,
+
+718
+00:30:34,400 --> 00:30:36,040
+竟然是Countach，全场最老、
+it was the Counctach, it was the oldest,
+
+719
+00:30:36,080 --> 00:30:38,640
+最脏的一辆车，
+反而最让他们热血沸腾。
+the dirtiest car of the lot
+that fired them up the most.
+
+720
+00:30:38,680 --> 00:30:40,480
+这对未来来说，恐怕不是什么好兆头。
+Which could be bad news for the future.
+
+721
+00:30:40,520 --> 00:30:42,160
+但其实大可不必，因为有种办法，
+But not necessarily because there is a way
+
+722
+00:30:42,200 --> 00:30:43,840
+能让任何汽油车——哪怕是Countach，
+that any petrol car, the Countach,
+
+723
+00:30:43,880 --> 00:30:45,560
+任何车都能改装得
+anything can be converted
+
+724
+00:30:45,600 --> 00:30:47,560
+更加环保。
+to be more environmentally friendly.
+
+725
+00:30:47,600 --> 00:30:48,760
+我们要拿眼前这台车来做个示范。
+And we are going to demonstrate with this.
+
+726
+00:30:48,800 --> 00:30:50,000
+这是一辆Bristol。
+It's a Bristol.
+
+727
+00:30:50,040 --> 00:30:52,000
+一台轰隆作响的傻大笨粗V8车。
+Clunking great V8 engined car.
+
+728
+00:30:52,040 --> 00:30:55,280
+但它已经被改装成烧LPG了，
+也就是燃气。
+But it has been converted
+to run on LPG, that's gas.
+
+729
+00:30:55,320 --> 00:30:56,800
+这对环保绝对是个大好消息。
+Which is good news for the environment.
+
+730
+00:30:56,840 --> 00:30:58,920
+它燃烧更清洁，
+而且实际上还便宜得多，
+It's cleaner burning
+and it's actually cheaper too
+
+731
+00:30:58,960 --> 00:31:01,040
+改这玩意儿其实
+也花不了几个钱。
+and it doesn't cost a fortune
+to do it either.
+
+732
+00:31:01,080 --> 00:31:03,600
+没错，几乎任何汽油发动机，
+你花上
+No, you can convert
+pretty much any petrol engine
+
+733
+00:31:03,640 --> 00:31:04,880
+大概1500英镑就能改。
+for about £1,500.
+
+734
+00:31:04,920 --> 00:31:07,560
+关键在于燃气实在太便宜了，
+And the thing is that gas
+is so much cheaper,
+
+735
+00:31:07,600 --> 00:31:09,160
+只要你跑上大概两万英里，
+when you've done about 20,000 miles
+
+736
+00:31:09,200 --> 00:31:10,480
+就能彻底回本，
+you will have recouped the money
+
+737
+00:31:10,520 --> 00:31:12,040
+把当初改装掏的钱全省出来。
+you have actually spent on the conversion.
+
+738
+00:31:12,080 --> 00:31:14,960
+太棒了，这叫全赢——我们赢，
+环保也赢，皆大欢喜。
+Great, so we all win, us,
+the environment, everybody's happy.
+
+739
+00:31:15,000 --> 00:31:16,080
+不过有个问题。
+But there is a problem.
+
+740
+00:31:16,120 --> 00:31:17,560
+燃气之所以这么便宜，
+The gas is only so cheap because
+
+741
+00:31:17,600 --> 00:31:19,640
+纯粹是因为政府冻结了税收
+the government has frozen the tax on it
+
+742
+00:31:19,680 --> 00:31:20,960
+来压低价格。
+to keep it cheap.
+
+743
+00:31:21,000 --> 00:31:23,880
+而且他们承诺
+这项政策只持续到2004年。
+And they have promised
+to do that until 2004.
+
+744
+00:31:23,920 --> 00:31:25,600
+那之后呢？
+So what happens then?
+
+745
+00:31:25,640 --> 00:31:28,480
+万一他们突然脑子一抽说：
+“管他的，咱们还是加点税吧。”
+When they suddenly say
+"Let's bung some tax on it after all."
+
+746
+00:31:28,520 --> 00:31:30,440
+他们当年对柴油不就这么干的？
+- 没错。
+They did it with diesel, didn't they?
+- Yeah.
+
+747
+00:31:30,480 --> 00:31:31,720
+要是他们故技重施怎么办？
+What if they do that again?
+
+748
+00:31:31,760 --> 00:31:32,920
+那我们全得傻眼。
+We're all stuffed.
+
+749
+00:31:32,960 --> 00:31:34,400
+我们刚把车改成了烧液化气，
+We've converted our cars to run on LPG
+
+750
+00:31:34,440 --> 00:31:35,880
+转头就得当冤大头掏钱。
+and we've got to pay for it.
+
+751
+00:31:35,920 --> 00:31:38,320
+所以到底要不要改车烧气，
+So whether or not
+to convert your car to run on gas
+
+752
+00:31:38,360 --> 00:31:40,240
+全取决于一件事。
+depends on one thing.
+
+753
+00:31:40,280 --> 00:31:42,760
+你们信得过政府吗？
+Do you trust the government?
+
+754
+00:31:42,800 --> 00:31:44,000
+观众：信不过！
+AUDIENCE: No.
+
+755
+00:31:44,040 --> 00:31:45,400
+可不是嘛，我跟你们讲。
+No, I'll tell you what.
+
+756
+00:31:45,440 --> 00:31:47,560
+我觉得这帮当官的最搞笑的一点，
+The funniest thing for me
+about the government
+
+757
+00:31:47,600 --> 00:31:49,560
+就是他们最近居然决定，
+is that they recently decided to judge
+
+758
+00:31:49,600 --> 00:31:51,840
+要交多少公务车税，
+how much company car tax you pay
+
+759
+00:31:51,880 --> 00:31:55,200
+居然取决于你的排气管
+喷出了多少二氧化碳。
+on how much carbon dioxide
+comes out of the back.
+
+760
+00:31:56,280 --> 00:31:57,800
+简直蠢到家了。
+What a stupid thing.
+
+761
+00:31:57,840 --> 00:32:00,800
+它又不是什么致命毒气。
+看到这张图表了吧？
+It's not a killer gas.
+We've got this chart here, okay?
+
+762
+00:32:00,840 --> 00:32:04,040
+上面清楚地标明了
+二氧化碳到底都打哪儿来的。
+And this shows where
+carbon dioxide comes from.
+
+763
+00:32:04,080 --> 00:32:09,320
+整整95.5%都来自大自然。
+95.5% comes from nature.
+
+764
+00:32:09,360 --> 00:32:11,160
+有人会到处追着农夫收税，
+Do they go round taxing farmers
+
+765
+00:32:11,200 --> 00:32:13,800
+就凭他们养了一群牛吗？
+for their flocks of cows?
+
+766
+00:32:13,840 --> 00:32:16,000
+埃特纳火山每次喷发，
+有人向它收过税吗？
+Do they tax Mount Etna
+every time it blows up?
+
+767
+00:32:16,040 --> 00:32:17,760
+简直荒唐透顶。
+It's ridiculous.
+
+768
+00:32:17,800 --> 00:32:20,640
+只有这块小小的橙色细条
+才是人类折腾出来的。
+Only this little orange sliver
+here comes from man.
+
+769
+00:32:20,680 --> 00:32:23,960
+而这当中，发电厂占了34%。
+And of that, 34% from power stations.
+
+770
+00:32:24,000 --> 00:32:26,320
+全怪那些给电动车充电的人。
+People charging up their electric cars.
+
+771
+00:32:26,360 --> 00:32:30,640
+然后还有14%来自日常生活。
+And then you've got 14% from domestic use.
+
+772
+00:32:30,680 --> 00:32:33,880
+比如波特顿锅炉，
+怎么不干脆把他们税到关门大吉？
+Potterton's Boilers,
+tax THEM out of business.
+
+773
+00:32:33,920 --> 00:32:35,160
+可看看他们在针对谁，
+Look what they're doing
+
+774
+00:32:35,200 --> 00:32:38,920
+因为在那微不足道的一丁点儿里，
+because only 13% of that
+little tiny bit there
+
+775
+00:32:38,960 --> 00:32:40,600
+只有13%来自汽车。
+comes from cars.
+
+776
+00:32:40,640 --> 00:32:43,520
+简直可笑。但既然规矩已经立了，
+Ridiculous. But we have the rules
+
+777
+00:32:43,560 --> 00:32:45,480
+我们《Top Gear》的职责，
+and it's our job on Top Gear
+
+778
+00:32:45,520 --> 00:32:49,000
+就是教大家怎么钻这个空子。
+to show you a way round them.
+
+779
+00:32:49,040 --> 00:32:50,320
+[全场大笑]
+[ALL LAUGHING]
+
+780
+00:32:50,360 --> 00:32:52,600
+这就要请出眼前这位了，瞧好了。
+And that's where this comes in, okay?
+
+781
+00:32:52,640 --> 00:32:58,040
+一台莲花Elise，这玩意儿
+一加仑油能跑40英里。
+A Lotus Elise, now this does
+40 miles to the gallon.
+
+782
+00:32:58,080 --> 00:33:03,200
+整整40英里，而且它在税费档位上
+居然跟一台福特嘉年华平起平坐。
+Forty, but it's in the same
+tax bracket as a Ford Fiesta.
+
+783
+00:33:03,880 --> 00:33:05,520
+一点不假。
+It is.
+
+784
+00:33:05,560 --> 00:33:09,720
+所以，在法律条文上它挑不出半点毛病。
+So, it obeys the letter
+of the law perfectly.
+
+785
+00:33:09,760 --> 00:33:12,080
+但立法初衷呢？完全没有。
+But the spirit? No.
+
+786
+00:33:12,120 --> 00:33:13,720
+半毛钱都不沾边。
+Not even slightly.
+
+787
+00:33:24,960 --> 00:33:26,960
+克拉克森：这辆当然就是新款Elise，
+CLARKSON: This, of course,
+is the new Elise,
+
+788
+00:33:27,000 --> 00:33:30,400
+你可以选配普通的1.8升发动机，
+which you can have with the normal
+1.8 litre-engine
+
+789
+00:33:30,440 --> 00:33:32,400
+改调校、瞎折腾都很容易。
+that's easy to tune and tinker with.
+
+790
+00:33:32,440 --> 00:33:36,840
+但这台111S版本，配的是完全封死的1.8升机头，
+But this version, the 111S,
+has a sealed-for-life 1.8,
+
+791
+00:33:36,880 --> 00:33:41,800
+还塞满了各种复杂花哨的玩意儿，
+比如可变气门正时。
+with all sorts of complicated trickery
+like variable valve timing.
+
+792
+00:33:41,840 --> 00:33:45,160
+它能榨出156匹制动马力，
+It offers up 156 brake horsepower,
+
+793
+00:33:45,200 --> 00:33:47,320
+零到60英里加速只要5秒，
+zero-to-60 in five seconds,
+
+794
+00:33:47,360 --> 00:33:50,800
+极速能飚到132英里每小时。
+and a top speed of 132.
+
+795
+00:33:58,800 --> 00:34:01,720
+那问题来了，它怎么会这么省油，
+So how come then, it's so economical
+
+796
+00:34:01,760 --> 00:34:04,040
+而且对环境这么友好呢？
+and so kind to the environment?
+
+797
+00:34:05,360 --> 00:34:08,880
+究竟是怎么做到的，嗯？怎么可能？
+How does it do that, hmm? How?
+
+798
+00:34:08,920 --> 00:34:13,560
+秘诀就在于重量。这车比驾驶员还轻。
+The key is weight. This car
+weighs less than the driver.
+
+799
+00:34:13,600 --> 00:34:16,480
+所以根本不需要多少油就能拉着它跑。
+So it doesn't need much fuel
+to move it around.
+
+800
+00:34:16,520 --> 00:34:18,480
+这么说吧，你根本不需要
+Put it like this, you don't need
+
+801
+00:34:18,520 --> 00:34:21,120
+拿火箭发动机去推一块舒芙蕾。
+a rocket motor to move a souffle.
+
+802
+00:34:23,240 --> 00:34:25,240
+在老款Elise上，莲花从来不给装
+Lotus never fitted the old Elise
+
+803
+00:34:25,280 --> 00:34:26,520
+电动车窗。
+with electric windows.
+
+804
+00:34:26,560 --> 00:34:28,640
+倒不是因为太贵，
+Not because they were too expensive
+
+805
+00:34:28,680 --> 00:34:31,520
+纯粹是升降电机太沉了。
+but because the motors were too heavy.
+
+806
+00:34:31,560 --> 00:34:34,280
+他们以前连地毯都舍不得铺，可眼前这台，
+And they never fitted carpets
+either and yet this one,
+
+807
+00:34:34,320 --> 00:34:36,480
+这台居然全铺了威尔顿高级地毯，
+this one has the full Wilton
+
+808
+00:34:36,520 --> 00:34:40,600
+甚至还有空调、
+CD机，外加真皮内饰。
+and air conditioning
+and a CD player, and leather.
+
+809
+00:34:40,640 --> 00:34:45,720
+这么说来，
+莲花是不是有点向舒适妥协变质了？
+So does this mean, then,
+that Lotus has sold out a bit?
+
+810
+00:34:51,040 --> 00:34:52,760
+并没有。
+No.
+
+811
+00:34:52,800 --> 00:34:56,520
+瞧见他们换上的这套新轮圈了吗？
+See these new wheels that they've fitted?
+
+812
+00:34:56,560 --> 00:34:59,440
+精致吧？精巧又轻盈。
+Delicate, aren't they? Delicate and light.
+
+813
+00:34:59,480 --> 00:35:01,880
+确切地说，比老款车上的轮圈
+Specifically, six kilograms lighter
+
+814
+00:35:01,920 --> 00:35:04,480
+整整轻了6公斤。
+than they used to be on the old car.
+
+815
+00:35:04,520 --> 00:35:06,760
+所以，哪怕塞进了这么多奢华配置，
+So, even with all the new luxuries,
+
+816
+00:35:06,800 --> 00:35:10,720
+整台车加在一块儿
+也仅仅只有760公斤。
+the whole car in total
+only weighs 760 kilograms.
+
+817
+00:35:10,760 --> 00:35:13,640
+差不多也就跟奔驰的一个座椅头枕一样重。
+That's about the same
+as a Mercedes headrest.
+
+818
+00:35:13,680 --> 00:35:15,720
+再加上后面塞了更强劲的动力，
+And with the extra power in the boot,
+
+819
+00:35:15,760 --> 00:35:17,800
+开起来理应更有乐趣才对。
+it should be even more fun to drive.
+
+820
+00:35:18,920 --> 00:35:20,400
+爽爆了。
+Great.
+
+821
+00:35:26,560 --> 00:35:29,000
+老款Elise曾被无数人誉为
+The old Elise was described by many as
+
+822
+00:35:29,040 --> 00:35:31,000
+“全世界操控最佳的汽车”，
+"The best-handling car in the world",
+
+823
+00:35:31,040 --> 00:35:34,800
+而初上手时，
+这台新车也同样没让人失望。
+and initially,
+this doesn't disappoint either.
+
+824
+00:35:34,840 --> 00:35:38,600
+噢，这转向手感
+还是一如既往的无可挑剔。
+Oh, this steering
+is still just as good as ever.
+
+825
+00:35:39,520 --> 00:35:42,880
+极其细腻，路感丰富得惊人。
+It's so delicate, and so much feel.
+
+826
+00:35:42,920 --> 00:35:44,960
+你就算轧死一只昆虫，
+You could run over an insect
+
+827
+00:35:45,000 --> 00:35:47,920
+光凭方向盘传来的路感反馈，
+and know just from the messages
+coming through the wheel
+
+828
+00:35:47,960 --> 00:35:50,440
+都能清清楚楚数出它有几条腿。
+how many legs it had.
+
+829
+00:35:50,480 --> 00:35:52,800
+是只甲虫？还是只蜘蛛？
+Was it a beetle? Or was it a spider?
+
+830
+00:35:52,840 --> 00:35:55,120
+等等，是蜘蛛。
+Hang on, spider.
+
+831
+00:35:57,040 --> 00:35:58,400
+那真正的操控表现到底如何？
+So what about the handling?
+
+832
+00:36:00,560 --> 00:36:03,800
+噢，推头！严重的推头！
+Oh, understeer. Big understeer.
+
+833
+00:36:03,840 --> 00:36:05,360
+[轮胎尖叫声]
+[TYRES SCREECH]
+
+834
+00:36:07,520 --> 00:36:09,680
+我知道老款Elise动态极其神经质，
+I know the old Elise was very twitchy,
+
+835
+00:36:09,720 --> 00:36:12,360
+把不少人都吓破了胆。
+and some people were scared by that.
+
+836
+00:36:12,400 --> 00:36:14,840
+所以他们在这台上换了更窄的前胎，
+So they fitted narrower tyres
+
+837
+00:36:14,880 --> 00:36:17,800
+想借此削减车头的抓地力，
+on this one to reduce front-end grip,
+
+838
+00:36:17,840 --> 00:36:20,400
+但依我看，他们根本不是削减，
+but I don't think they've reduced it.
+
+839
+00:36:20,440 --> 00:36:21,640
+而是彻底把抓地力给削没了。
+They completely removed it.
+
+840
+00:36:21,680 --> 00:36:23,360
+好了，我们马上要进锤头弯了。
+Here we are, coming up
+to the Hammerhead now.
+
+841
+00:36:23,400 --> 00:36:25,400
+好，切入弯心，不给油。
+Okay, turn in, no power.
+
+842
+00:36:25,440 --> 00:36:28,320
+我的天啊。
+[轮胎尖叫]
+Oh, Lord.
+[TYRES SCREECH]
+
+843
+00:36:28,360 --> 00:36:31,160
+你见过推头推成这样的吗？
+Have you ever seen understeer like this?
+
+844
+00:36:32,920 --> 00:36:34,200
+哎呦喂。
+Oh, dear.
+
+845
+00:36:38,840 --> 00:36:41,800
+甩了！甩起来了！
+Slide! Slide!
+
+846
+00:36:41,840 --> 00:36:45,200
+你要是真发了疯，
+一脚把车尾给甩出去，
+And if you do go mad
+and kick the rear end out,
+
+847
+00:36:45,240 --> 00:36:48,240
+最后就会原地掉头，面朝来时的路。
+you end up facing the way you came.
+
+848
+00:36:48,280 --> 00:36:50,200
+陷在一阵浓烟里。
+In a cloud of smoke.
+
+849
+00:36:57,640 --> 00:36:59,640
+所以，就目前摆在眼前的表现来看，
+So, on the evidence we've seen so far,
+
+850
+00:36:59,680 --> 00:37:02,400
+这车可真不怎么样。
+not a particularly good car.
+
+851
+00:37:02,440 --> 00:37:05,160
+但这位是加文·克肖，来自Lotus，
+But this is Gavin Kershaw, he's from Lotus
+
+852
+00:37:05,200 --> 00:37:08,040
+他坚称这车一点问题都没有，
+and he says there's nothing
+wrong with the car,
+
+853
+00:37:08,080 --> 00:37:10,680
+纯粹是我开车技术的问题。
+the problem was my driving.
+
+854
+00:37:10,720 --> 00:37:13,440
+于是他主动提出带我上咱们的赛道跑一圈，
+So he offered to take me out on our track
+
+855
+00:37:13,480 --> 00:37:15,680
+亲自示范这车究竟该怎么开。
+and show me how it should be done.
+
+856
+00:37:18,840 --> 00:37:21,640
+所以你是Lotus的首席底盘调校一把手？
+So you're the chief chassis man at Lotus?
+
+857
+00:37:21,680 --> 00:37:24,360
+首席底盘工程师之一，没错。
+One of the principal chassis
+engineers, yes.
+
+858
+00:37:24,400 --> 00:37:26,080
+而且你住在诺福克。
+- 没错。
+And you live in Norfolk.
+- Yep.
+
+859
+00:37:26,120 --> 00:37:28,360
+那你有女朋友吗？
+- 我有个女朋友。
+So you got a girlfriend?
+- I have got a girlfriend.
+
+860
+00:37:28,400 --> 00:37:29,640
+她有几个轮子？
+How many wheels has she got?
+
+861
+00:37:30,720 --> 00:37:32,800
+天哪。
+Goodness.
+
+862
+00:37:32,840 --> 00:37:35,080
+好吧，我本来其实是想问她有几条腿来着？
+Well, I was going to say
+how many legs has she got?
+
+863
+00:37:35,120 --> 00:37:37,360
+反正都一样。
+[两人大笑]
+Same thing.
+[BOTH LAUGHING]
+
+864
+00:37:39,160 --> 00:37:41,080
+[轮胎尖叫]
+[TYRES SCREECH]
+
+865
+00:37:46,360 --> 00:37:47,920
+我刚才怎么就开不出这架势。
+I couldn't make it do that.
+
+866
+00:37:47,960 --> 00:37:51,520
+你是怎么做到的？
+它怎么就不推头了？
+How are you doing it?
+Why doesn't it just understeer?
+
+867
+00:37:51,560 --> 00:37:54,240
+克肖：动作必须极其细腻，这车有点违背物理常识。
+KERSHAW: You have to be very
+gentle with it. It defies physics.
+
+868
+00:37:54,280 --> 00:37:55,880
+进这个弯道的时候，
+Coming down this corner,
+
+869
+00:37:55,920 --> 00:38:00,120
+踩下刹车，
+然后猛打方向入弯再收油。
+put on the brakes,
+then flick it in and lift.
+
+870
+00:38:02,480 --> 00:38:03,480
+我的天。
+God.
+
+871
+00:38:05,440 --> 00:38:07,440
+过这里可不能全油门。
+Not flat out through here.
+
+872
+00:38:10,240 --> 00:38:12,920
+你们为什么把它调得
+Why've you made it more understeery
+
+873
+00:38:12,960 --> 00:38:15,160
+比老款Elise还容易推头？
+than the old Elise?
+
+874
+00:38:15,200 --> 00:38:17,280
+因为我们要卖出三千辆，
+Because we're selling 3,000 cars,
+
+875
+00:38:17,320 --> 00:38:19,720
+得照顾到所有水平的驾驶者。
+we have to cater for all drivers.
+
+876
+00:38:19,760 --> 00:38:22,480
+我们调校底盘就是为了让你哪怕根本
+We make the chassis so if you don't know
+
+877
+00:38:22,520 --> 00:38:25,080
+不会开车，也能玩得转。
+how to drive, you can play with it.
+
+878
+00:38:26,440 --> 00:38:27,680
+克拉克森：我现在真想吐你一身。
+CLARKSON: I could vomit on you now.
+
+879
+00:38:27,720 --> 00:38:31,000
+我真的在认真考虑吐你身上。
+I'm really considering vomiting on you.
+
+880
+00:38:31,040 --> 00:38:32,480
+[克拉克森呻吟]
+[CLARKSON GROANS]
+
+881
+00:38:33,360 --> 00:38:35,640
+我看某些人真是越来越不顺眼了。
+I can go off people.
+
+882
+00:38:39,280 --> 00:38:41,280
+我确实挺佩服的，
+I'm really quite impressed,
+
+883
+00:38:41,320 --> 00:38:46,520
+但同时也相当郁闷，
+凭什么我做不到而你却能做到。
+and actually quite depressed at how I
+couldn't do that and how you can.
+
+884
+00:38:46,560 --> 00:38:49,480
+我们又要过那个锤头弯了。
+We're going round
+that Hammerhead corner again.
+
+885
+00:38:49,520 --> 00:38:52,800
+甩尾进弯。继续甩。
+Oversteer in. Oversteer.
+
+886
+00:38:54,080 --> 00:38:55,480
+要撞轮胎墙了。
+Into the tyres.
+
+887
+00:38:55,520 --> 00:38:59,280
+哥们儿，你刚才离轮胎墙就差那么一丁点。
+You were so close to the tyres, man.
+
+888
+00:38:59,320 --> 00:39:01,600
+我们现在能回家了吗？
+克肖：行啊。
+Can we go home now?
+KERSHAW: Yeah.
+
+889
+00:39:01,640 --> 00:39:04,240
+这么开车可算不上什么体面聪明的举动，对吧？
+It's not big nor clever
+to drive like that, is it?
+
+890
+00:39:04,280 --> 00:39:06,000
+姑娘们，这种开法把你们震住了吗？
+女观众：震住了。
+Are you impressed, girls,
+with driving like that?
+WOMEN: Yes.
+
+891
+00:39:06,040 --> 00:39:09,920
+真震住了？好吧，那搬去诺福克郡吧。
+他们那儿的人全这么开。
+You are? All right. Move to Norfolk, then.
+They all do that.
+
+892
+00:39:09,960 --> 00:39:13,000
+但问题是，
+我又不住在诺福克。
+The thing is, though,
+I don't live in Norfolk.
+
+893
+00:39:13,040 --> 00:39:14,240
+我可是有正经生活的人。
+I have a life.
+
+894
+00:39:14,280 --> 00:39:17,160
+所以，如果我要买这么一辆车，
+So, how do I kill the understeer
+
+895
+00:39:17,200 --> 00:39:18,760
+怎么才能解决推头问题？
+if I were to buy a car like that?
+
+896
+00:39:18,800 --> 00:39:20,920
+我们可以提供选配的加宽前胎，
+We can supply optional bigger front tyres
+
+897
+00:39:20,960 --> 00:39:22,600
+这样就连你开也不会推头了。
+so even you won't get understeer.
+
+898
+00:39:22,640 --> 00:39:24,840
+真的？你们能卖我大号轮胎？
+- 没错。
+Really, you can sell me big tyres?
+- Yes.
+
+899
+00:39:24,880 --> 00:39:26,760
+这就能解决？太妙了。
+- 对。
+That would solve it? Brilliant.
+- Yup.
+
+900
+00:39:26,800 --> 00:39:29,760
+所以我们现在唯一要做的，
+So all we need do now is see how fast
+
+901
+00:39:29,800 --> 00:39:30,680
+就是看它绕我们赛道能跑多快。
+it goes round our track.
+
+902
+00:39:31,640 --> 00:39:33,280
+放斯提格！
+Unleash the Stig.
+
+903
+00:39:35,120 --> 00:39:36,360
+起步了！
+And he's off.
+
+904
+00:39:36,400 --> 00:39:38,400
+当然，对斯提格来说，转向过度
+Of course, for the Stig, oversteer
+
+905
+00:39:38,440 --> 00:39:40,400
+和转向不足根本不是问题。
+and understeer are not really the issue.
+
+906
+00:39:40,440 --> 00:39:44,760
+要想做出最快圈速，他必须
+走线极其干净利落。
+To get the best time, he needs to
+keep it nice and tidy.
+
+907
+00:39:44,800 --> 00:39:47,080
+好，现在进入一号弯。
+And here we are into the first corner.
+
+908
+00:39:47,120 --> 00:39:51,440
+瞧瞧这个。即使在湿地路况下，
+依然丝般顺滑。
+Look at that. Even in the wet,
+it's as smooth as silk.
+
+909
+00:39:51,460 --> 00:39:54,460
+♪ 斯潘道芭蕾合唱团 - 《True》 ♪
+♪ Spandau Ballet - True ♪
+
+910
+00:39:55,240 --> 00:39:58,680
+看他那副样子，正美滋滋地
+享受着Elise的车载音响呢。
+Look at him, really enjoying
+the Elise's stereo here.
+
+911
+00:40:00,560 --> 00:40:03,280
+好，现在他来到了锤头弯。
+So here he is at the Hammerhead.
+
+912
+00:40:03,320 --> 00:40:05,000
+这个弯角当年是由路特斯设计的。
+This corner was designed by Lotus.
+
+913
+00:40:05,040 --> 00:40:07,560
+Elise过这儿应该很有一套，确实如此。
+The Elise should be good
+through here, and it is.
+
+914
+00:40:07,600 --> 00:40:09,480
+完全没有上周本田NSX
+None of the slithering about
+
+915
+00:40:09,520 --> 00:40:12,320
+那种滑来滑去的狼狈样。
+we had from the Honda NSX last week.
+
+916
+00:40:12,340 --> 00:40:19,440
+♪ 我买了一张看世界的门票 ♪
+♪ 如今我却已归来—— ♪
+♪ I bought a ticket to the world, ♪
+♪ but now I've come back- ♪
+
+917
+00:40:20,000 --> 00:40:24,960
+说真的，这台车很有希望
+刷出一个奇快无比的成绩。
+You know, this car is on
+for a seriously fast time.
+
+918
+00:40:25,000 --> 00:40:26,640
+我是说，真的巨快。
+I mean really fast.
+
+919
+00:40:27,480 --> 00:40:28,880
+再瞧瞧斯提格，
+And look at The Stig,
+
+920
+00:40:28,920 --> 00:40:30,840
+他手里的方向盘几乎都不用怎么费劲去救。
+he's hardly having to work at that wheel.
+
+921
+00:40:30,880 --> 00:40:32,320
+开起来太轻松了。
+It's all so easy.
+
+922
+00:40:32,360 --> 00:40:33,920
+只要你懂点门道，
+If you know what you're doing,
+
+923
+00:40:33,960 --> 00:40:38,200
+这车的平衡性简直绝了。
+this is such a well-balanced car.
+
+924
+00:40:38,240 --> 00:40:40,600
+于是，连续第五个星期，
+So, for the fifth week on the trot,
+
+925
+00:40:40,640 --> 00:40:42,480
+斯提格都得冒雨跑圈。
+The Stig had to go round in the rain.
+
+926
+00:40:42,520 --> 00:40:44,400
+但这圈速快得惊人。
+But the time was astonishing.
+
+927
+00:40:44,440 --> 00:40:47,280
+1分35秒。
+One minute, 35 seconds.
+
+928
+00:40:48,480 --> 00:40:51,320
+这跟法拉利575打了个平手，
+That's the same as a Ferrari 575,
+
+929
+00:40:51,360 --> 00:40:54,400
+而它不过配了台1.8升发动机。
+and it only has a 1.8 litre engine.
+
+930
+00:40:54,440 --> 00:40:56,920
+不过，咱们先别得意忘形。
+However, let's not get carried away.
+
+931
+00:40:56,960 --> 00:41:00,120
+它可不是花钱能买到的……
+It is not the most
+environmentally friendly car
+
+932
+00:41:00,160 --> 00:41:01,560
+……最环保的车。
+that money can buy.
+
+933
+00:41:02,160 --> 00:41:03,880
+因为那一辆才是。
+Because that is.
+
+934
+00:41:03,920 --> 00:41:05,760
+杰森、理查德，二位请揭幕。
+Jason, Richard, do the honours.
+
+935
+00:41:06,800 --> 00:41:08,800
+[众人大笑]
+[ALL LAUGHING]
+
+936
+00:41:08,840 --> 00:41:12,560
+这是一台标致607。
+This is a Peugeot 607.
+
+937
+00:41:12,600 --> 00:41:16,320
+至于它为什么如此环保，原因很简单。
+And the reason why it's so green is simple.
+
+938
+00:41:16,360 --> 00:41:18,560
+它太烂了。烂到令人发指。
+It's awful. It's dreadful.
+
+939
+00:41:18,600 --> 00:41:20,000
+要是你买了这玩意儿，
+If you bought one of these,
+
+940
+00:41:20,040 --> 00:41:23,320
+我保证你绝不会想把它开去任何地方。
+I guarantee you'd never drive it anywhere.
+
+941
+00:41:23,360 --> 00:41:25,280
+[众人大笑]
+[ALL LAUGHING]
+
+942
+00:41:25,320 --> 00:41:27,680
+好了。现在，又到了请明星……
+Right. Now, it's time to put a star
+
+943
+00:41:27,720 --> 00:41:29,880
+……开廉价车的时刻了。
+in our reasonably-priced car.
+
+944
+00:41:29,920 --> 00:41:33,360
+他曾105次登上《流行顶峰》（Top of the Pops），
+He's been on Top of the Pops 105 times.
+
+945
+00:41:33,400 --> 00:41:36,080
+但今天，他来到了“最高档位”（Top of the Gear）。
+But now, he's on Top of the Gear.
+
+946
+00:41:36,120 --> 00:41:40,080
+女士们先生们，
+Status Quo乐队的，里克·帕菲特！
+Ladies and gentlemen,
+from Status Quo, Rick Parfitt.
+
+947
+00:41:40,120 --> 00:41:41,760
+[观众掌声]
+[AUDIENCE APPLAUDING]
+
+948
+00:41:47,000 --> 00:41:50,080
+近来可好？请坐。
+How are you? Have a seat.
+
+949
+00:41:52,640 --> 00:41:54,400
+说老实话，在咱们环保周这期，
+You're not the ideal guest
+
+950
+00:41:54,440 --> 00:41:56,960
+你可算不上是什么理想嘉宾。
+to have on in environmental week,
+I have to be honest.
+
+951
+00:41:57,000 --> 00:41:58,280
+对，确实算不上，真不是。
+No. Not really, no.
+
+952
+00:41:58,320 --> 00:42:00,640
+昨晚我们在办公室里，翻查了
+We went through some of your singles
+
+953
+00:42:00,680 --> 00:42:02,760
+你历年来的各种单曲和热门金曲。
+and hits over the years
+in the office last night.
+
+954
+00:42:02,800 --> 00:42:04,640
+结果没在任何一首歌里
+We didn't find a single environmental lyric
+
+955
+00:42:04,680 --> 00:42:06,360
+找到哪怕一句关于环保的词。
+- 没错，半句都没有。
+in any of them.
+- No. None at all.
+
+956
+00:42:06,400 --> 00:42:08,760
+净是些情情爱爱还有亲嘴什么的，
+It's just about love and stuff like that
+and kissing
+
+957
+00:42:08,800 --> 00:42:11,000
+全都是那种傻里傻气的调调，你懂的。
+and all that sort of dopey stuff, you know.
+
+958
+00:42:11,040 --> 00:42:13,400
+好吧，可人家卖得好啊。
+- 那确实很卖座。
+Yeah, well. And it sells.
+- It certainly does.
+
+959
+00:42:13,440 --> 00:42:15,960
+呃，新专辑？
+- 对。
+Erm, new album?
+- Yep.
+
+960
+00:42:16,000 --> 00:42:17,600
+《重度拥堵》（Heavy Traffic）。
+- 没错。
+Heavy Traffic.
+- Yeah.
+
+961
+00:42:17,640 --> 00:42:20,920
+受这玩意儿启发的？
+- 名字起得倒挺贴切，不是吗？
+Inspired by this?
+- Aptly named, isn't it?
+
+962
+00:42:20,960 --> 00:42:23,400
+没，其实完全没受任何启发。
+No, it wasn't inspired by anything, really.
+
+963
+00:42:23,440 --> 00:42:25,720
+不过说真的，这事儿简直离大谱，不是吗？
+But I mean, this is unbelievable, isn't it?
+
+964
+00:42:25,760 --> 00:42:28,640
+当初刚划出来那会儿，
+我记得我当时还在想……
+When it first went in,
+I remember thinking...
+
+965
+00:42:28,680 --> 00:42:32,440
+那可是进希思罗机场的瓶颈路段。
+It's a bottleneck going into Heathrow.
+
+966
+00:42:32,480 --> 00:42:34,040
+通向欧洲最大的城市。
+Europe's biggest city.
+
+967
+00:42:34,080 --> 00:42:36,440
+在那种地方搞这个，硬生生夺走一条车道
+To put that in there, to take a lane away
+
+968
+00:42:36,480 --> 00:42:39,000
+从我们手里抢走，我觉得简直无耻透顶。
+from us, I think it's disgraceful.
+
+969
+00:42:39,040 --> 00:42:40,480
+这可是M4高速。
+This is the M4.
+
+970
+00:42:40,520 --> 00:42:41,920
+你在M4高速上也有过惨痛经历，对吧？
+You've had some bad times
+on the M4, haven't you?
+
+971
+00:42:41,960 --> 00:42:43,520
+我？
+- 没错。
+Me?
+- Yeah.
+
+972
+00:42:43,560 --> 00:42:46,720
+我撞车是在M3高速上，对，是M3。
+I had a shunt on the M3, it was. Yeah.
+
+973
+00:42:46,760 --> 00:42:50,560
+是在M3？
+- 那次撞车彻底改变了我对开车的看法。
+Was the M3?
+- It kind changed my whole view
+about driving.
+
+974
+00:42:50,600 --> 00:42:53,080
+打那之后我变得懂事多了，
+I kind of became sensible after that
+
+975
+00:42:53,120 --> 00:42:55,160
+现在基本都会老老实实按限速开。
+and I kind of stick to the speed limit now.
+
+976
+00:42:55,200 --> 00:42:56,840
+挺无聊的，你懂的。
+- 真的假的？
+Bit boring, you know.
+- Really?
+
+977
+00:42:56,880 --> 00:42:58,240
+就像看完摇滚演出后去喝杯茶。
+Like a cup of tea after a concert.
+
+978
+00:42:58,280 --> 00:43:00,520
+喝杯茶，然后上床睡觉。
+A cup of tea and go to bed.
+
+979
+00:43:00,560 --> 00:43:03,040
+真够“摇滚”的。但我现在确实这样。
+Real rock'n'roll. But I do.
+
+980
+00:43:03,080 --> 00:43:06,960
+我现在觉得，
+驾照这玩意儿实在太珍贵了。
+I feel these days
+a license is a precious thing.
+
+981
+00:43:07,000 --> 00:43:08,200
+对我来说绝对如此，
+It certainly is to me
+
+982
+00:43:08,240 --> 00:43:09,520
+我知道对很多人来说也是。
+and I know it is to a lot of other people.
+
+983
+00:43:09,560 --> 00:43:13,320
+我可真不想再被吊销驾照了。
+And I really don't want to lose it
+any more.
+
+984
+00:43:13,360 --> 00:43:15,360
+我都丢过三次驾照了。
+- 三次？！
+I've lost it three times.
+- Three times?
+
+985
+00:43:15,400 --> 00:43:18,160
+而且每次被吊销的经过都精彩绝伦。
+And in great circumstances.
+
+986
+00:43:18,200 --> 00:43:21,760
+真的？有那么精彩？
+- 呃，最后那次绝对堪称传奇，没错。
+Really? Were they?
+- Well, the last one
+certainly was, yeah.
+
+987
+00:43:21,800 --> 00:43:26,520
+当时我正以估计120英里的时速
+沿着M3高速一路狂飙。
+I was doing an estimated
+120 mph down the M3.
+
+988
+00:43:26,560 --> 00:43:28,000
+我其实也不知道具体开了多快，
+I don't know what speed I was going
+
+989
+00:43:28,040 --> 00:43:29,000
+因为当时我其实睡着了。
+because I was actually asleep.
+
+990
+00:43:29,040 --> 00:43:32,080
+[全场爆笑]
+[ALL LAUGHING]
+
+991
+00:43:32,120 --> 00:43:35,600
+你就是在那儿撞烂的？
+- 没错，我命大得很。
+Is that where you stuffed it?
+- Yeah, I was very lucky.
+
+992
+00:43:35,640 --> 00:43:37,720
+我觉得当时要是开的哪怕比保时捷
+I think had it been in anything lesser
+
+993
+00:43:37,760 --> 00:43:39,600
+稍次一点的车，
+than a Porsche,
+
+994
+00:43:39,640 --> 00:43:42,640
+我今天大概就没命坐在这里了，但我运气极好。
+I probably wouldn't be sitting here now,
+but I was very lucky.
+
+995
+00:43:42,680 --> 00:43:44,720
+车子原地打转。当时大概是凌晨四点，
+It kind of spun. It was like
+4:00 in the morning
+
+996
+00:43:44,760 --> 00:43:46,440
+所以万幸的是周围没有别人，
+and so fortunately nobody else
+
+997
+00:43:46,480 --> 00:43:49,000
+也没波及到任何人。
+was around or involved.
+
+998
+00:43:49,040 --> 00:43:50,280
+但最后我的车冲进了田里，
+But I ended up in a field,
+
+999
+00:43:50,320 --> 00:43:52,280
+而我本人就坐在那儿美滋滋地接着大睡。
+and just sat there merrily sleeping.
+
+1000
+00:43:52,320 --> 00:43:53,920
+[全场爆笑]
+[ALL LAUGHING]
+
+1001
+00:43:53,960 --> 00:43:56,440
+我压根就没醒过来。
+I didn't wake up at all.
+
+1002
+00:43:56,480 --> 00:43:59,160
+那么，最初究竟是什么
+让你迷上保时捷的？
+So what was it that first
+turned you onto Porsches?
+
+1003
+00:43:59,200 --> 00:44:01,000
+我以前有辆Mini Cooper S，
+I had a Mini Cooper S,
+
+1004
+00:44:01,040 --> 00:44:04,640
+早年间买的，那是我这辈子
+最喜欢的车之一。
+in the early days which is one
+of my all-time favourite cars.
+
+1005
+00:44:04,680 --> 00:44:06,440
+现在依然是，你知道的，就带双油箱那款。
+It still is, you know, with the twin tanks.
+
+1006
+00:44:06,480 --> 00:44:07,440
+其实我对新款还挺失望的，
+I'm really rather brought down actually
+
+1007
+00:44:07,480 --> 00:44:09,200
+就新款，那台新的Cooper S，
+with the new one, the new Cooper S
+
+1008
+00:44:09,240 --> 00:44:10,520
+它居然没配双油箱。
+that it hasn't got the twin tanks.
+
+1009
+00:44:10,560 --> 00:44:11,720
+懂你，就像捷豹也必须得有双油箱才对味。
+I know, like Jags should have twin tanks.
+
+1010
+00:44:11,760 --> 00:44:13,960
+完全赞同。要是做成相通油箱就完美了。
+I agree. A common tank. It would be great.
+
+1011
+00:44:14,000 --> 00:44:17,880
+话说回来，有回我在A3公路上等红灯，
+However, I was sitting on
+the lights on the A3,
+
+1012
+00:44:17,920 --> 00:44:19,520
+那时候A3公路上还有红绿灯呢，
+when the A3 used to have lights
+
+1013
+00:44:19,560 --> 00:44:21,800
+前面正好是一条笔直的大直道，
+and it's a complete straight piece of road,
+
+1014
+00:44:21,840 --> 00:44:24,000
+我那台Cooper S做过扩缸，
+and the Cooper S I'd had it
+kind of bored out
+
+1015
+00:44:24,040 --> 00:44:26,880
+削平了缸头，还装了Recaro赛车桶椅，
+and shaven and the Recaro racing seat,
+
+1016
+00:44:26,920 --> 00:44:29,880
+改了直通排气，懂吧，
+那简直是件大杀器。
+the straight-through, you know,
+it was a real tool.
+
+1017
+00:44:29,920 --> 00:44:31,800
+那天晚上，有个玩意儿慢悠悠停在我旁边，
+So this thing pulls up beside me this night
+
+1018
+00:44:31,840 --> 00:44:34,840
+我当时摩拳擦掌，
+就等着绿灯起步烧胎弹射，
+and I am really looking forward
+to this burn away
+
+1019
+00:44:34,880 --> 00:44:37,080
+结果一给油，那玩意儿“嗖”的一下就把我甩得没影了，
+from the lights and this thing
+just went away from me
+
+1020
+00:44:37,120 --> 00:44:38,960
+我当时完全不知道那是台什么车。
+and I had no idea what it was.
+
+1021
+00:44:39,000 --> 00:44:40,960
+后来到了下一个红绿灯路口
+我才追上它，
+I later found out, I caught it up at
+the next set of lights
+
+1022
+00:44:41,000 --> 00:44:43,560
+一看原来是辆保时捷，
+我心想：我必须也得整一辆！
+and it was a Porsche
+and I thought, I've got to have one.
+
+1023
+00:44:43,600 --> 00:44:45,240
+幸运的是，托大家的福，
+And luckily enough
+I've been in the position
+
+1024
+00:44:45,280 --> 00:44:47,120
+我的财力刚好买得起保时捷。
+where I can afford a Porsche.
+
+1025
+00:44:47,160 --> 00:44:51,560
+于是我就买了一辆，打那以后我陆陆续续
+买了十辆……十一辆保时捷。
+And so I got one and I've had 10,
+11 of them since then.
+
+1026
+00:44:51,600 --> 00:44:53,200
+十一辆保时捷？！
+- 对啊。
+Eleven Porsches?
+- Yeah.
+
+1027
+00:44:53,240 --> 00:44:54,680
+你现在还在开吗？
+Are you still on them now?
+
+1028
+00:44:54,720 --> 00:44:57,680
+早不开了。因为自从
+我出了那次车祸之后，
+No I'm not. Because since
+I had the accident
+
+1029
+00:44:57,720 --> 00:45:00,320
+我老妈——愿上帝保佑她，她现在已经过世了——
+my mum, bless her, she's passed away now,
+
+1030
+00:45:00,360 --> 00:45:02,960
+她当时对我说：“看在上帝的份上，
+你可别再买保时捷了！”
+but she said "For Christ's sake,
+don't buy another Porsche,"
+
+1031
+00:45:03,000 --> 00:45:04,240
+后来我就真没买。
+and I haven't.
+
+1032
+00:45:04,280 --> 00:45:05,400
+我再也没买过，
+I've never had another one.
+
+1033
+00:45:05,440 --> 00:45:07,000
+甚至再也没开过。
+I've never driven another one.
+
+1034
+00:45:07,040 --> 00:45:09,400
+到现在得有七八年
+没碰过保时捷了。
+Seven, eight years now
+since I've driven a Porsche.
+
+1035
+00:45:09,440 --> 00:45:11,520
+那她就没劝过你：“你干嘛不把
+Didn't she ever say, "Why don't you give up
+
+1036
+00:45:11,560 --> 00:45:13,280
+酒和那些药给戒了？”
+"the booze and the drugs?"
+
+1037
+00:45:13,320 --> 00:45:14,760
+［全场大笑］
+- 因为搞不好那才是
+[ALL LAUGHING]
+- Because probably that was
+
+1038
+00:45:14,800 --> 00:45:17,920
+引发车祸的罪魁祸首，而不是车的问题？
+causing the accidents more than the car?
+
+1039
+00:45:17,960 --> 00:45:20,640
+我就随口一说。
+- 我妈是个明白人。
+Just a thought.
+- She was a sensible woman, my mum.
+
+1040
+00:45:22,760 --> 00:45:25,920
+言归正传，当然了，
+你今天来的重头戏是这个。
+Anyway, of course,
+the reason you're here is this.
+
+1041
+00:45:25,960 --> 00:45:30,600
+这是我们的铃木圈速榜。你已经
+去赛道上跑了一圈，感觉怎么样？
+This is our Suzuki lap times. You've been
+out there, you've had a go. How did it go?
+
+1042
+00:45:30,640 --> 00:45:34,360
+呃，我是说……
+其实特别过瘾。
+Well, I mean it was...
+It was great fun, actually.
+
+1043
+00:45:34,400 --> 00:45:37,800
+想不想看看你跑得如何？
+Would you like to see how you did?
+
+1044
+00:45:37,840 --> 00:45:40,160
+想，当然想。
+- 好嘞，各位，咱们走着。
+Yeah, I would.
+- Okay, everyone, here we go.
+
+1045
+00:45:40,200 --> 00:45:41,720
+放录像！
+Play the tape.
+
+1046
+00:45:41,760 --> 00:45:44,680
+里克·帕菲特开着平价车，
+Rick Parfitt in a reasonably-priced car
+
+1047
+00:45:44,720 --> 00:45:46,840
+三十年来头一遭，
+起跑了！
+for the first time in 30 years
+and you're off.
+
+1048
+00:45:46,880 --> 00:45:49,880
+赛道是干的。
+帕菲特：刚开始是干的。
+It's a dry track.
+PARFITT: It started out dry.
+
+1049
+00:45:49,920 --> 00:45:52,560
+克拉克森：刚开始是干的。
+快进这个弯时感觉……
+CLARKSON: It started out dry.
+How was this coming up to the...
+
+1050
+00:45:52,600 --> 00:45:54,240
+开大灯了。
+Lights on.
+
+1051
+00:45:54,280 --> 00:45:55,920
+[打齿声]
+克拉克森：真顺滑。噢，那是什么动静？
+[GEARS GRINDING]
+CLARKSON: Smooth. Oh, what was that?
+
+1052
+00:45:55,960 --> 00:46:00,480
+我刚才听到的那声是什么？
+你是不是把我们的……
+What was that noise I just heard?
+Have you broke our...
+
+1053
+00:46:00,520 --> 00:46:03,440
+大概是我崩了个屁。
+- 行吧。
+I probably broke wind.
+- Yes.
+
+1054
+00:46:03,480 --> 00:46:06,360
+你手上戴的这是什么手套？
+What are those gloves you've got on there?
+
+1055
+00:46:06,400 --> 00:46:09,400
+指节上还带“杰森·金”式的开孔。
+They've got Jason King holes
+in the knuckles.
+
+1056
+00:46:09,440 --> 00:46:11,400
+可不是嘛，还是在哈罗德百货买的。
+I know. And they're from Harrods.
+
+1057
+00:46:11,440 --> 00:46:12,560
+[笑声]
+[LAUGHS]
+
+1058
+00:46:13,920 --> 00:46:17,160
+来了，过了这个弯就要冲线。
+Here we go, across the line
+after this corner.
+
+1059
+00:46:17,200 --> 00:46:19,640
+[轮胎尖叫声]
+- 哦，挺精神嘛。
+[TYRES SCREECH]
+- Ooh, quite sprightly.
+
+1060
+00:46:19,680 --> 00:46:22,680
+坐在车里感觉可比这快多了……
+It felt so much faster than that
+when you're in the car...
+
+1061
+00:46:22,720 --> 00:46:25,200
+那一下确实挺快。
+- 感觉快飞了。
+That was quite fast.
+- It felt so fast.
+
+1062
+00:46:25,240 --> 00:46:27,040
+我拿到成绩了。
+I've got the time.
+
+1063
+00:46:27,080 --> 00:46:29,640
+这是我们目前的圈速榜。
+干地赛道。
+These are the times we've had so far.
+Dry track.
+
+1064
+00:46:29,680 --> 00:46:31,160
+所以，基本可以说这些是，
+So, really we can sort of
+say these are,
+
+1065
+00:46:31,200 --> 00:46:36,320
+塔拉，1分54秒，这位罗斯·坎普，1分54秒，
+Tara, 1:54, this Ross Kemp, 1:54,
+
+1066
+00:46:36,360 --> 00:46:38,080
+乔纳森·罗斯。
+- 没错。
+Jonathan Ross.
+- Yeah.
+
+1067
+00:46:38,120 --> 00:46:39,960
+说实话，惨不忍睹。
+Pathetic, frankly.
+
+1068
+00:46:40,000 --> 00:46:42,960
+你……准备好了吗？
+- 我现在心里直犯嘀咕。
+You... Ready?
+- I'm feeling quite nervous about this.
+
+1069
+00:46:43,000 --> 00:46:46,600
+里克·P，因为写不下全名，
+Rick P., cos I'm not going to get it on,
+
+1070
+00:46:46,640 --> 00:46:49,600
+1分……
+- 至少进1字头了。
+one minute...
+- At least I'm in the one.
+
+1071
+00:46:49,640 --> 00:46:52,720
+……52秒！
+...52 seconds.
+
+1072
+00:46:52,760 --> 00:46:55,800
+[观众欢呼]
+[AUDIENCE CHEERING]
+
+1073
+00:46:55,840 --> 00:46:56,640
+漂亮。
+Lovely.
+
+1074
+00:46:58,880 --> 00:47:01,600
+刚好排在库根后面。
+- 还真是。
+That's just after Coogan.
+- It is.
+
+1075
+00:47:01,640 --> 00:47:04,400
+他肯定高兴不起来了。
+- 太爽了。
+He's not going to be happy.
+- That's great.
+
+1076
+00:47:04,440 --> 00:47:06,320
+库根铁定要郁闷了。
+Coogan is not gonna be happy.
+
+1077
+00:47:06,360 --> 00:47:08,640
+不过各位，重点在于，
+But the thing is, everybody,
+
+1078
+00:47:08,680 --> 00:47:11,800
+你刚才在赛道上的那一趟，
+it wasn't an entirely incident-free time
+
+1079
+00:47:11,840 --> 00:47:14,160
+可不算一路顺风顺水吧，对不对？
+- 确实不太平，并不顺利。
+you had out there, was it?
+- Not entirely, no.
+
+1080
+00:47:14,200 --> 00:47:17,280
+谁想看看刚才到底出什么事了？
+观众：想！
+Who'd like to see what happened?
+AUDIENCE: Yes.
+
+1081
+00:47:17,320 --> 00:47:18,680
+好的，能回放一下刚才那段吗？
+Okay, can we play that?
+
+1082
+00:47:18,720 --> 00:47:20,120
+来看看里克过
+Let's watch Rick coming through
+
+1083
+00:47:20,160 --> 00:47:22,760
+倒数第二个弯角，然后……
+the second-to-last corner and...
+
+1084
+00:47:22,800 --> 00:47:25,880
+哎哟喂。
+Oh, dear.
+
+1085
+00:47:25,920 --> 00:47:29,720
+克拉克森：漂——亮……
+哦不，还没完，又冲回赛道了！
+CLARKSON: Beautiful...
+Oh, no, there's more. Back on.
+
+1086
+00:47:29,760 --> 00:47:32,360
+[轮胎尖叫声]
+[TYRES SCREECH]
+
+1087
+00:47:32,400 --> 00:47:34,320
+[众人大笑]
+[ALL LAUGHING]
+
+1088
+00:47:34,360 --> 00:47:36,360
+横着漂过了终点线。
+Across the line sideways.
+
+1089
+00:47:36,400 --> 00:47:37,760
+漂得太漂亮了。
+Beautifully done.
+
+1090
+00:47:37,800 --> 00:47:39,440
+我当时确实看到了
+一个摄像机组，
+I did actually see
+one of the camera crews
+
+1091
+00:47:39,480 --> 00:47:41,400
+就在赛道远端那边，
+when we were out on
+the far side of the track,
+
+1092
+00:47:41,440 --> 00:47:43,920
+我记得好像还是
+我跑得最快的那一圈，
+and I think it was on
+the fastest lap I did,
+
+1093
+00:47:43,960 --> 00:47:45,640
+我正冲过去的时候，
+and as I am approaching
+
+1094
+00:47:45,680 --> 00:47:48,560
+你真能看到摄像师
+整个人吓得往后缩，“哇！”
+you could literally see him
+sort of going like that. Whoa.
+
+1095
+00:47:48,600 --> 00:47:51,000
+最绝的是，
+几乎每位明星嘉宾
+The extraordinary thing is
+that nearly every celebrity
+
+1096
+00:47:51,040 --> 00:47:52,640
+都在那个弯角冲出过赛道，
+has been off on that corner
+
+1097
+00:47:52,680 --> 00:47:54,480
+现在摄像组都学精了。
+and the crews have now learned.
+
+1098
+00:47:54,520 --> 00:47:57,000
+导演问：“去那个弯架机位吗？”
+Director goes, "Cover that corner?"
+
+1099
+00:47:57,040 --> 00:48:01,360
+“才不去！”“这周谁来？
+里克·帕菲特？绝对不去！”
+"No!" "Who's coming this week,
+Rick Parfitt? No!"
+
+1100
+00:48:01,400 --> 00:48:03,240
+坚决不去。
+- 绝对不去。
+Definitely not.
+- Definitely not.
+
+1101
+00:48:03,280 --> 00:48:05,880
+女士们先生们，里克·帕菲特！
+Ladies and gentlemen, Rick Parfitt.
+
+1102
+00:48:05,920 --> 00:48:09,480
+[观众鼓掌欢呼]
+[AUDIENCE APPLAUDING]
+
+1103
+00:48:10,520 --> 00:48:12,400
+本周买车内幕消息。
+This week's insider trading news.
+
+1104
+00:48:12,440 --> 00:48:14,360
+话说两周前，
+Now, a couple of weeks ago,
+
+1105
+00:48:14,400 --> 00:48:15,760
+我们跟各位打包票说，
+we promised that you would
+
+1106
+00:48:15,800 --> 00:48:17,600
+能帮大家搞到超划算的新车优惠。
+be getting some cracking deals on new cars.
+
+1107
+00:48:17,640 --> 00:48:19,000
+大家还记得吧，我们提过
+Now, you remember, we talked about
+
+1108
+00:48:19,040 --> 00:48:21,000
+铃木Liana，原本要9995英镑。
+the Suzuki Liana, not £9,995.
+
+1109
+00:48:21,040 --> 00:48:24,000
+有家车商给我们发邮件
+说只要7995英镑。
+A dealer e-mailed us
+and said it was £7,995.
+
+1110
+00:48:24,040 --> 00:48:25,360
+价格战正式开打了。
+The fight is on.
+
+1111
+00:48:25,400 --> 00:48:27,400
+这周又有另一家车商发邮件给我，
+This week I was e-mailed by another dealer
+
+1112
+00:48:27,440 --> 00:48:31,080
+菲亚特Stilo，1.6 Active五门版。
+Fiat Stilo, the 1.6 Active, five-door car.
+
+1113
+00:48:31,120 --> 00:48:34,160
+这车平时售价是11700英镑。
+That car normally is £11,700.
+
+1114
+00:48:34,200 --> 00:48:36,040
+猜猜他们现在开价多少？
+Guess what they're offering that car at?
+
+1115
+00:48:36,080 --> 00:48:38,360
+完全没概念。一万零五百？
+I've no idea. £10,500?
+
+1116
+00:48:38,400 --> 00:48:40,960
+7995英镑。
+- 简直疯了。
+£7,995.
+- That's insane.
+
+1117
+00:48:41,000 --> 00:48:42,080
+直接砍掉了整整四千镑。
+It's four grand off.
+
+1118
+00:48:42,120 --> 00:48:43,520
+那可是省了大钱了。
+That's a big saving.
+
+1119
+00:48:43,560 --> 00:48:44,680
+来，快问快答，你肯定知道。
+Now, quick question. You know this.
+
+1120
+00:48:44,720 --> 00:48:46,120
+现在能买到的最便宜新车是哪款？
+What is the cheapest new car you can buy?
+
+1121
+00:48:46,160 --> 00:48:50,440
+哎，杰森，必须是
+卖4999英镑的Perodua Kelisa啊。
+Well, Jason, it's the
+Perodua Kelisa at £4,999.
+
+1122
+00:48:50,480 --> 00:48:51,920
+错，不对。
+- 呃。
+No, wrong.
+- Oh.
+
+1123
+00:48:51,960 --> 00:48:55,160
+我这周被人推销了一辆全新福特Ka，
+This week I was offered a brand new Ford KA
+
+1124
+00:48:56,000 --> 00:48:57,600
+开价只要4995英镑。
+for £4,995.
+
+1125
+00:48:57,640 --> 00:48:59,280
+哈蒙德：那便宜得简直不可思议。
+HAMMOND: That's fantastically cheap.
+
+1126
+00:48:59,320 --> 00:49:01,080
+所以这也就便宜了四块钱而已嘛……
+So that's like four quid cheaper...
+
+1127
+00:49:02,680 --> 00:49:05,600
+是啊，但那车平时新车指导价可是6600镑，
+Yeah, but that car new normally is £6,600
+
+1128
+00:49:05,640 --> 00:49:07,240
+而且当年福特刚推出Ka的时候，那是在——
+and when they brought the KA out in
+
+1129
+00:49:07,280 --> 00:49:08,760
+什么时候来着，三四年前吧？
+（杰森，是六年前——1996年）
+when was it, three or four years ago,
+(six, Jason - 1996)
+
+1130
+00:49:08,800 --> 00:49:09,720
+当时要卖8000镑，连方向盘助力
+都没有。
+it was £8,000 and didn't have
+power steering.
+
+1131
+00:49:09,760 --> 00:49:12,400
+现在这车只要4995镑。
+- 凭什么啊？
+That car now is £4,995.
+- Why?
+
+1132
+00:49:12,440 --> 00:49:14,280
+呃，其实我们之前就聊过，
+Well, basically, we said it before,
+
+1133
+00:49:14,320 --> 00:49:15,480
+经销商手里都有销售指标要冲。
+the dealers have got targets to hit.
+
+1134
+00:49:15,520 --> 00:49:16,880
+福特的返利机制是这样的：
+And the way it works with Ford is
+
+1135
+00:49:16,920 --> 00:49:19,000
+他们会给追溯性达标奖金。
+that they give a retrospective bonus.
+
+1136
+00:49:19,040 --> 00:49:21,440
+按你卖出的全部车辆总数
+给你提成返点。
+They give you a percentage
+on all of the cars you've sold.
+
+1137
+00:49:21,480 --> 00:49:23,920
+假如一个经销商
+有一千台车的销售指标，
+Now if a dealer
+has got a target of 1,000 cars
+
+1138
+00:49:23,960 --> 00:49:26,440
+他们可能要白白损失
+好几万英镑，
+they can stand to lose tens
+of thousands of pounds
+
+1139
+00:49:26,480 --> 00:49:28,320
+要是达不成那个指标的话。
+if they don't get that target.
+
+1140
+00:49:28,360 --> 00:49:31,960
+要是他们没……
+- 要是卖不掉那些车，
+他们可能会损失整整10万英镑。
+If they don't...
+- If they don't sell those cars,
+they could lose £100,000.
+
+1141
+00:49:32,000 --> 00:49:34,760
+所以最后那几台……
+- 没错，亏本甩卖。
+So the last few...
+- Yes, sell them at a loss.
+
+1142
+00:49:34,800 --> 00:49:36,400
+他们实际上
+就是在贴钱卖车。
+They're actually
+selling those cars at a loss.
+
+1143
+00:49:36,440 --> 00:49:37,920
+所以只要指标一达标，得嘞，
+So the minute they hit those targets, fine,
+
+1144
+00:49:37,960 --> 00:49:39,600
+他们就无所谓了，
+价格立马就涨回去。
+they won't care anymore,
+they will put them back up.
+
+1145
+00:49:39,640 --> 00:49:42,120
+4995镑，确实便宜得离谱。
+£4,995, that is seriously cheap.
+
+1146
+00:49:42,160 --> 00:49:44,600
+但我这周
+拿到了个力度更大的折扣。
+But I got an
+even bigger discount this week.
+
+1147
+00:49:44,640 --> 00:49:46,120
+五十铃Trooper，
+Isuzu Trooper,
+
+1148
+00:49:46,160 --> 00:49:47,760
+大块头SUV，他们明年要上新款，
+big car, they're bringing some
+new ones out next year,
+
+1149
+00:49:47,800 --> 00:49:51,280
+手里还压着几台
+老款库存车。
+and they've also got a few
+of the old ones in stock.
+
+1150
+00:49:51,320 --> 00:49:52,520
+关键是，这些车必须在
+Now, those cars need to be registered
+
+1151
+00:49:52,560 --> 00:49:54,400
+今年年底之前
+before the end of this year
+
+1152
+00:49:54,440 --> 00:49:56,120
+完成上牌，因为它们
+通不过明年的环保排放标准。
+because they don't hit the
+emissions targets for next year.
+
+1153
+00:49:56,160 --> 00:49:57,680
+所以他们，啥意思，
+So they, what,
+
+1154
+00:49:57,720 --> 00:49:58,800
+在这个国家连牌都上不了了？
+literally couldn't register them
+in this country?
+
+1155
+00:49:58,840 --> 00:50:00,160
+一点没错。只能把车退回去，
+Exactly. You'd have to send them back,
+
+1156
+00:50:00,200 --> 00:50:01,720
+直接退回原厂去。
+send them back to the factory.
+
+1157
+00:50:01,760 --> 00:50:03,920
+便宜就这么送上门了。
+- 3.5升 V6 Citation，
+Bargain around the corner.
+- The 3.5 V6 Citation,
+
+1158
+00:50:03,960 --> 00:50:10,920
+正经的七座大车，
+平时标价可是两万七千镑。
+proper car with seven seats,
+is normally £27,000.
+
+1159
+00:50:10,960 --> 00:50:13,000
+然后呢？
+- 只要18995镑。
+Yes?
+- £18,995.
+
+1160
+00:50:13,040 --> 00:50:15,520
+我的天哪，降得也太狠了。
+- 还是崭新原装出厂的。
+Good grief. That's enormous.
+- Brand new out the box.
+
+1161
+00:50:15,560 --> 00:50:16,720
+这是因为车商们手里的车砸手里了。
+And that's because the dealers are stuck.
+
+1162
+00:50:16,760 --> 00:50:18,800
+市面上现车确实不多，
+There aren't many of them around
+
+1163
+00:50:18,840 --> 00:50:20,320
+但要是你走进一家店，
+正好碰上一辆
+but if you go into a dealer
+and find one with
+
+1164
+00:50:20,360 --> 00:50:21,960
+现款车型，只要赶在
+the current models, register it before
+
+1165
+00:50:22,000 --> 00:50:24,600
+年底前上牌，绝对能砍出
+一个爽翻天的骨折神价。
+the end of the year, you will get
+a storming deal on it.
+
+1166
+00:50:24,640 --> 00:50:27,240
+好了，在节目早些时候，
+杰里米带我们认识了
+Right, well, earlier on,
+Jeremy introduced us
+
+1167
+00:50:27,280 --> 00:50:29,400
+各大门派的宗教人士。
+to our various men of faith.
+
+1168
+00:50:29,440 --> 00:50:30,960
+正戏这就开场了。
+And this is it.
+
+1169
+00:50:31,000 --> 00:50:35,080
+现在是时候见识一下，
+究竟哪派神仙跑得最快。
+Now it's time to find out
+just which is the fastest faith.
+
+1170
+00:50:35,100 --> 00:50:38,100
+♪ 卡尔·奥尔夫 - 《命运女神》~《布兰诗歌》 ♪
+♪ Carl Orff - O Fortuna ~ Carmina Burana ♪
+
+1171
+00:50:40,520 --> 00:50:43,760
+哈蒙德：刚才天还下着雨，
+但这会儿太阳露脸了。
+HAMMOND: It had been raining
+but now the sun had come out.
+
+1172
+00:50:43,800 --> 00:50:46,440
+考虑到有这帮各路神仙在场，
+倒也合情合理。
+Which you kind of expected it to with
+this lot around.
+
+1173
+00:50:46,480 --> 00:50:48,440
+而且赛道也干透了，
+And the track was dry and that
+
+1174
+00:50:48,480 --> 00:50:53,160
+这可是件天大的好事，因为摆在眼前的
+就是他们待会儿要开的座驾。
+was a good thing because this
+was the car they'd be driving.
+
+1175
+00:51:00,560 --> 00:51:04,200
+这辆车？它是基于斯巴鲁STI打造的，
+The car? Well, it's based on a Subaru STI
+
+1176
+00:51:04,240 --> 00:51:06,440
+但内里可大有乾坤。
+but with a little bit more to it.
+
+1177
+00:51:06,480 --> 00:51:08,400
+它被深度改装过。
+It's been modified.
+
+1178
+00:51:08,440 --> 00:51:09,920
+换了高性能发动机。
+It's got a performance engine.
+
+1179
+00:51:09,960 --> 00:51:13,280
+避震、排气，里里外外全都改了个遍。
+Suspension. Exhaust. The whole lot, really.
+
+1180
+00:51:13,320 --> 00:51:15,320
+马力超过330匹。
+Over 330 brake horsepower.
+
+1181
+00:51:15,360 --> 00:51:17,800
+零到六十英里加速只要4.5秒。
+Nought to 60 in 4.5 seconds.
+
+1182
+00:51:17,840 --> 00:51:21,400
+极其暴躁，这是一台货真价实的拉力赛车。
+他们待会儿可有的“爽”了。
+It's brutal, this is a proper rally car.
+They're gonna enjoy this.
+
+1183
+00:51:25,000 --> 00:51:27,560
+但在发车前，他们得先接受一番点拨，
+But only after they'd received
+guidance from
+
+1184
+00:51:27,600 --> 00:51:30,400
+来自黑暗王子本尊——斯提格的指点。
+the Prince of Darkness himself, The Stig.
+
+1185
+00:51:32,880 --> 00:51:35,640
+首先代表奎师那教派登场的是马克·李。
+First to go for the
+Hare Krishnas was Mark Lee.
+
+1186
+00:51:36,400 --> 00:51:39,240
+三、二、一，发车！
+Three, two, one, go.
+
+1187
+00:51:40,360 --> 00:51:42,320
+他直接把油门踩到底了。
+And he gave it everything.
+
+1188
+00:51:42,340 --> 00:51:43,980
+♪ Jesus Loves You - Bow Down Mister ♪
+♪ Jesus Loves You - Bow Down Mister ♪
+
+1189
+00:51:44,000 --> 00:51:47,360
+行啊，这开法出人意料地凶残。
+All right. It's surprisingly aggressive.
+
+1190
+00:51:49,040 --> 00:51:51,320
+他有点紧张，
+毕竟这车马力实在太狂暴了。
+He's a little bit nervous
+because it's a powerful car.
+
+1191
+00:51:51,360 --> 00:51:53,440
+确实。
+- 但但愿，
+It is.
+- But, hopefully,
+
+1192
+00:51:53,480 --> 00:51:56,080
+在他内心深处，
+还能保有一丝平静。
+in the back of his mind,
+he'll be kind of calm.
+
+1193
+00:51:56,120 --> 00:51:57,920
+好嘞，走，我们去给他助助阵。
+- 必须的。
+Right, well, let's give him that support.
+- Absolutely.
+
+1194
+00:51:57,960 --> 00:52:00,160
+真没想到你们还组团过来了，太赞了！[笑]
+I can't believe you came in
+a group, that's great. [LAUGHS]
+
+1195
+00:52:06,120 --> 00:52:07,680
+噢，跑得相当顺啊。
+Oh, he's going well.
+
+1196
+00:52:07,720 --> 00:52:10,200
+这架势开得真够豁得出去的。
+This is some pretty committed driving.
+
+1197
+00:52:10,240 --> 00:52:11,680
+我只求他能把这个弯切过去……
+I just want him to make this corner...
+
+1198
+00:52:13,320 --> 00:52:14,880
+漂亮！过去了！
+Yeah. He did it.
+
+1199
+00:52:14,920 --> 00:52:16,720
+哦唷！
+Ooh.
+
+1200
+00:52:16,760 --> 00:52:18,560
+哎哟我的妈，他滑出去了！
+Ooh, my word, he's gone.
+
+1201
+00:52:20,040 --> 00:52:21,600
+我的天呐。
+Oh, my word.
+
+1202
+00:52:23,800 --> 00:52:25,160
+[哔——]
+[BLEEP]
+
+1203
+00:52:26,960 --> 00:52:29,600
+[全场大笑]
+[ALL LAUGHING]
+
+1204
+00:52:33,280 --> 00:52:36,640
+[全场掌声]
+[ALL APPLAUDING]
+
+1205
+00:52:36,680 --> 00:52:39,960
+下一位，皮尼·邓纳拉比，
+就是撞毁2CV的那位。
+Next up, Rabbi Pini Dunner,
+the 2CV crasher.
+
+1206
+00:52:40,000 --> 00:52:42,080
+三、二、一。
+Three, two, one.
+
+1207
+00:52:48,080 --> 00:52:50,120
+鉴于这位拉比毫无赛车经验，
+Due to the Rabbi's lack of experience,
+
+1208
+00:52:50,160 --> 00:52:53,560
+斯提格主动提出
+在他的计时圈担任领航员。
+The Stig offered to act
+as co-driver on his timed lap.
+
+1209
+00:52:56,640 --> 00:52:59,840
+我看我们需要来点
+跨教派的强力神圣加持。
+I think we need some big
+inter-denominational support.
+
+1210
+00:52:59,880 --> 00:53:02,040
+冲啊！
+Come on!
+
+1211
+00:53:02,080 --> 00:53:04,840
+但即便集齐各大宗教的庇佑善念，
+But the collective goodwill
+of all religions
+
+1212
+00:53:04,880 --> 00:53:06,840
+也没法让他老老实实守在
+wasn't enough to keep him
+on the racing line
+
+1213
+00:53:06,880 --> 00:53:08,280
+神圣的正义赛车线上。
+of righteousness.
+
+1214
+00:53:13,800 --> 00:53:15,760
+[全场欢呼]
+[ALL CHEERING]
+
+1215
+00:53:17,680 --> 00:53:21,040
+那么，金刚乘佛教徒仁增
+能表现得更好吗？
+So, could Rigzin
+the Vajrayana Buddhist do better?
+
+1216
+00:53:21,080 --> 00:53:24,240
+我得先声明，我这辈子
+I should make it clear that
+I have never done anything
+
+1217
+00:53:24,280 --> 00:53:26,120
+还从没干过这么刺激的事。
+like this in my life ever.
+
+1218
+00:53:26,880 --> 00:53:28,600
+[引擎轰鸣]
+[ENGINE REVVING]
+
+1219
+00:53:38,400 --> 00:53:40,240
+寺里长老曾叮嘱他要开出
+His Elders had instructed him to drive
+
+1220
+00:53:40,280 --> 00:53:41,600
+光速般的境界，
+at the speed of light,
+
+1221
+00:53:41,640 --> 00:53:43,680
+而他居然完全照字面意思去狂飙了。
+and he was taking them quite literally.
+
+1222
+00:53:46,800 --> 00:53:51,000
+就连“禅宗大师”斯提格
+都被他镇住了。
+Even the Zen Master,
+Stig, was impressed.
+
+1223
+00:53:51,040 --> 00:53:53,760
+但他对刘易斯主教
+也能刮目相看吗？
+But would he be impressed
+with the Bishop of Lewes?
+
+1224
+00:53:56,120 --> 00:53:58,120
+[引擎轰鸣]
+[ENGINE REVVING]
+
+1225
+00:54:04,320 --> 00:54:07,160
+[轮胎尖叫]
+[TYRES SCREECH]
+
+1226
+00:54:08,680 --> 00:54:10,960
+好多了。
+Much better.
+
+1227
+00:54:11,000 --> 00:54:12,280
+下一位，夺冠大热门，
+Next up, the hot favourite,
+
+1228
+00:54:12,320 --> 00:54:13,920
+来自“天启车队”的
+the Reverend Antony Feltham-White
+
+1229
+00:54:13,960 --> 00:54:15,360
+安东尼·费尔瑟姆-怀特牧师。
+from Revelation Racing.
+
+1230
+00:54:16,880 --> 00:54:18,960
+他果然没让人失望。
+And he didn't disappoint.
+
+1231
+00:54:19,000 --> 00:54:21,720
+二挡，这个弯提早切入弯心。
+Second gear, apex this one early.
+
+1232
+00:54:21,760 --> 00:54:24,520
+拐进去，扎进去，切进去。
+Get it in, get it in, get it in.
+
+1233
+00:54:25,160 --> 00:54:26,720
+油门踩到底。
+Push it hard.
+
+1234
+00:54:26,760 --> 00:54:30,960
+♪ 万物光明与奇妙 ♪
+♪ All things bright
+and wonderful
+
+1235
+00:54:31,000 --> 00:54:34,040
+谁有这胆魄？谁敢这么冲？
+Who's got the nerve?
+Who's got the nerve?
+
+1236
+00:54:34,080 --> 00:54:37,480
+重踩刹车，拐进去，提早吃弯。
+Hard on brakes, take it in,
+take the bend early.
+
+1237
+00:54:37,520 --> 00:54:39,160
+提早进弯。
+Take the bend early.
+
+1238
+00:54:39,200 --> 00:54:41,360
+哈蒙德：瞧瞧这架势！
+HAMMOND: Look at that go.
+
+1239
+00:54:41,800 --> 00:54:43,320
+啊。
+Ah.
+
+1240
+00:54:43,360 --> 00:54:45,600
+啊，啊。漂亮！
+Ah, ah. Yes.
+
+1241
+00:54:45,640 --> 00:54:47,720
+♪ 主上帝
+拯救了万民 ♪
+♪ The Lord God
+saved them all ♪
+
+1242
+00:54:49,560 --> 00:54:51,320
+这圈跑得真是好到吓人。
+That was scarily good.
+
+1243
+00:54:51,360 --> 00:54:53,840
+哈蒙德：英国圣公会奉献了堪称神迹的一圈。
+HAMMOND: A truly biblical lap
+from the Church of England.
+
+1244
+00:54:53,880 --> 00:54:56,840
+但罗马天主教会同样志在必得。
+But the Roman Catholic Church
+was equally determined.
+
+1245
+00:54:56,880 --> 00:54:58,280
+走起。
+Go.
+
+1246
+00:55:01,680 --> 00:55:04,280
+看着杀气腾腾啊。
+看来他是动真格的了。
+Looked committed.
+I think he means business.
+
+1247
+00:55:04,300 --> 00:55:07,300
+♪ 圣母修道院修士 -
+《脱离狮口》 ♪
+♪ Monks of the Abbey of Notre Dame -
+De Ore Leonis ♪
+
+1248
+00:55:09,720 --> 00:55:11,480
+[轮胎尖叫声]
+[TYRES SCREECH]
+
+1249
+00:55:18,240 --> 00:55:20,560
+[观众鼓掌]
+[AUDIENCE APPLAUDING]
+
+1250
+00:55:21,440 --> 00:55:22,520
+不是吧。
+No.
+
+1251
+00:55:23,960 --> 00:55:27,600
+好了，成绩单就在我手里，
+Now, I have the results here,
+
+1252
+00:55:27,640 --> 00:55:29,520
+但在揭晓之前，
+but before we get to that,
+
+1253
+00:55:29,560 --> 00:55:32,760
+这就是他们刚才开的那辆车，瞧见没？
+this is the car they were driving. Okay?
+
+1254
+00:55:32,800 --> 00:55:35,000
+我们跟借车给我们的车主说的是，
+We told the people we'd borrowed it from
+
+1255
+00:55:35,040 --> 00:55:37,040
+借给几位牧师开开而已。
+they were just a few vicars.
+
+1256
+00:55:37,080 --> 00:55:40,480
+绝对不可能出半点岔子。
+[全场大笑]
+Couldn't possibly come to any harm.
+[ALL LAUGHING]
+
+1257
+00:55:40,520 --> 00:55:42,880
+看看这儿！看看下面这块。
+Look at this! Look at this down here.
+
+1258
+00:55:42,920 --> 00:55:46,840
+再瞧瞧底盘被折腾成什么样了。
+[全场大笑]
+And look what happened underneath.
+[ALL LAUGHING]
+
+1259
+00:55:46,880 --> 00:55:49,600
+彻底撞烂撞断了。
+Smashed off and broken.
+
+1260
+00:55:49,640 --> 00:55:54,040
+所以，你们这帮人里到底是谁干的？
+So, which one of you lot is responsible?
+
+1261
+00:55:55,360 --> 00:55:57,560
+[全场大笑]
+赶紧的，主动坦白吧。
+[ALL LAUGHING]
+Come on, own up.
+
+1262
+00:55:57,600 --> 00:56:01,720
+是主教。是主教干的。
+The bishop. The bishop is responsible.
+
+1263
+00:56:01,760 --> 00:56:03,720
+[全场鼓掌]
+[ALL APPLAUDING]
+
+1264
+00:56:05,000 --> 00:56:07,560
+那么，有谁……
+Now, who...
+
+1265
+00:56:07,600 --> 00:56:10,600
+有谁想看看他是怎么撞成这样的？
+Who would like to see how he did it?
+
+1266
+00:56:10,640 --> 00:56:13,080
+观众：想！
+- 放录像！
+AUDIENCE: Yes.
+- Play the tape.
+
+1267
+00:56:13,120 --> 00:56:15,760
+[轮胎尖叫声]
+[TYRES SCREECH]
+
+1268
+00:56:18,040 --> 00:56:21,240
+[全场惊呼]
+[ALL EXCLAIMING]
+
+1269
+00:56:21,280 --> 00:56:24,120
+得，真相大白了。您感觉如何？
+Well, there we are. How do you feel?
+
+1270
+00:56:25,320 --> 00:56:26,680
+绝不忏悔。
+Unrepentant.
+
+1271
+00:56:26,720 --> 00:56:28,800
+[全场大笑]
+[ALL LAUGHING]
+
+1272
+00:56:30,680 --> 00:56:32,080
+甚好。
+Very good.
+
+1273
+00:56:33,360 --> 00:56:36,920
+行了，揭晓成绩的时候到了。
+Right, time for the results.
+
+1274
+00:56:36,960 --> 00:56:39,880
+理查德，赏脸一起过来吗？
+- 必须的。
+Richard, will you care to join me.
+- Oh yes.
+
+1275
+00:56:39,920 --> 00:56:43,640
+排在最后一名，遗憾的是
+今天没能来上班的，
+In last place, and sadly
+not here at work,
+
+1276
+00:56:43,680 --> 00:56:47,480
+来自“哈瑞·撞车派”——现在大家都这么叫了——马克·李。
+Mark Lee from Hare Crashna,
+as it's now known.
+
+1277
+00:56:47,520 --> 00:56:50,440
+1分56秒。
+One minute 56 seconds.
+
+1278
+00:56:50,480 --> 00:56:53,080
+第五名，皮尼·邓纳拉比。
+In fifth place, Rabbi Pini Dunner.
+
+1279
+00:56:53,120 --> 00:56:57,600
+你确实撞了车，这有什么好意外的？成绩是1分55秒。
+You did crash. How surprised
+can you be? With one minute 55.
+
+1280
+00:56:57,640 --> 00:57:01,200
+第四名，来自佛教界的，
+In fourth place, from the Buddhists,
+
+1281
+00:57:01,240 --> 00:57:04,611
+是仁津（Rigzin），原谅我用了简称，
+干得漂亮，
+it's Rigzin, forgive me from
+being abbreviative, well done,
+
+1282
+00:57:04,636 --> 00:57:05,960
+成绩是一分四十五秒。
+one minute 45 seconds.
+
+1283
+00:57:06,000 --> 00:57:07,400
+获得第三名的是，
+And in third place,
+
+1284
+00:57:07,440 --> 00:57:09,960
+虽然把我们借来的车给彻底报销了……
+despite ruining the car that we borrowed...
+
+1285
+00:57:10,000 --> 00:57:11,520
+[众人大笑]
+[ALL LAUGHING]
+
+1286
+00:57:11,560 --> 00:57:13,520
+英国国教会的
+华莱士·本恩主教，
+Bishop Wallace Benn,
+Church of England,
+
+1287
+00:57:13,560 --> 00:57:16,320
+成绩自然是一分四十二秒。
+of course, one minute 42 seconds.
+
+1288
+00:57:16,360 --> 00:57:19,800
+最后两位，是直接正面对决，
+厮杀在
+So last two, it's a straight
+two cornered fight between
+
+1289
+00:57:19,840 --> 00:57:22,520
+罗马天主教会
+和英国国教会之间。
+the Roman Catholic church
+and the Church of England.
+
+1290
+00:57:22,560 --> 00:57:25,520
+这简直就是重回十六世纪！
+And it's the 16th century all over again.
+
+1291
+00:57:26,480 --> 00:57:29,360
+天主教屈居第二。
+The Catholics come in second.
+
+1292
+00:57:29,400 --> 00:57:33,000
+西蒙·汤普森神父，成绩一分四十秒，
+Father Simon Thompson with one minute 40,
+
+1293
+00:57:33,040 --> 00:57:34,640
+这意味着胜者……
+which means the winner...
+
+1294
+00:57:34,680 --> 00:57:37,440
+跑得最快的信仰是英国国教会，
+The fastest faith is the Church of England,
+
+1295
+00:57:37,480 --> 00:57:39,600
+车手是安东尼·费尔瑟姆-怀特牧师！
+and the Reverend Antony Feltham-White.
+
+1296
+00:57:39,640 --> 00:57:41,280
+[众人欢呼]
+[ALL CHEERING]
+
+1297
+00:57:43,960 --> 00:57:45,520
+还有杰森……
+And Jason...
+
+1298
+00:57:48,520 --> 00:57:50,360
+非常感谢大家。
+Thank you very much.
+
+1299
+00:57:50,400 --> 00:57:52,680
+[众人欢呼]
+[ALL CHEERING]
+
+1300
+00:57:56,360 --> 00:57:58,280
+噢，妙极了。
+Oh. Delightful.
+
+1301
+00:57:59,680 --> 00:58:04,320
+今天的节目到这里
+就差不多结束了。
+And that is pretty much
+the end of the show.
+
+1302
+00:58:04,360 --> 00:58:06,800
+瞅瞅那条公交专用道。
+Looking at the bus lane.
+
+1303
+00:58:06,840 --> 00:58:08,840
+得了，上面还是连个鬼影都没有，
+No, still nothing going on there,
+
+1304
+00:58:08,880 --> 00:58:11,040
+我看下周咱们也别费劲搞任何
+I think next week we won't
+bother doing anything to do
+
+1305
+00:58:11,080 --> 00:58:12,640
+跟环保沾边的事了。
+with the environment.
+
+1306
+00:58:12,680 --> 00:58:13,960
+事实上，我看咱们甚至可以去踹死两只仓鸮
+In fact, I think we might kick
+a couple of barn owls
+
+1307
+00:58:14,000 --> 00:58:15,560
+纯找乐子。
+to death just for fun.
+
+1308
+00:58:15,600 --> 00:58:18,680
+其实下周我们要测评纯正的驾驶者之车。
+In fact, we are going
+to be doing drivers cars.
+
+1309
+00:58:18,720 --> 00:58:21,600
+四百匹马力是入场的最低门槛。
+Four hundred horsepower is
+the minimum level for entry.
+
+1310
+00:58:21,640 --> 00:58:24,440
+我们还要把我们的铃木Liana
+We are also going to be
+turning our Suzuki Liana
+
+1311
+00:58:24,480 --> 00:58:28,320
+改造成阿加烤炉，把一辆拉达改造成莲花。
+into an Aga and a Lada into a Lotus.
+
+1312
+00:58:28,360 --> 00:58:30,160
+下周见，晚安！
+See you then. Goodnight.
+
+1313
+00:58:30,920 --> 00:58:32,280
+[众人欢呼]
+[ALL CHEERING]
+
+1314
+00:58:32,320 --> 00:58:34,320
+[片尾主题曲响起]
+[THEME MUSIC PLAYING]
+
+1315
+00:58:34,340 --> 00:58:39,340
+字幕源自MTOD文本修改
+由QxR的GLUE抓取
+AlexGRFan97为TGCC v2校订/修正
+Subtitles modified from MTOD transcript
+Ripped by GLUE of QxR
+Edited/corrected for TGCC v2 by AlexGRFan97
+
